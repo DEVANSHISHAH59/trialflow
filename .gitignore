@@ -8,6 +8,6 @@ venv/
 warehouse/*.db
 
 # Tooling
-.vercel/
+.vercel
 .DS_Store
 Thumbs.db
