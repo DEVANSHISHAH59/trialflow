@@ -8,7 +8,7 @@ It is built and documented as a product, not a dashboard. The repository holds t
 
 > **All data is synthetic.** No real patients, sites, investigators or study drugs are represented. The CDISC SDTM mapping is a simplified demonstration model, not a validated implementation. Nothing here is medical, safety or regulatory advice.
 
-**Live app:** https://trialflow.vercel.app
+**Live app:** https://trialflow-nine.vercel.app
 **Product docs:** [`/product`](product/) &nbsp;|&nbsp; **Case study:** [`docs/CASE-STUDY.md`](docs/CASE-STUDY.md)
 
 ---
