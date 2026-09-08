@@ -13,6 +13,14 @@ It is built and documented as a product, not a dashboard. The repository holds t
 
 ---
 
+## Why I built TrialFlow
+
+I am a Certified Scrum Product Owner preparing for Product Owner roles in regulated industries, and I wanted a practical, not theoretical, understanding of clinical-trial operations and clinical data workflows. TrialFlow is a product simulation of that domain: the journey from EDC data capture, through data-quality management, protocol-deviation and adverse-event monitoring, SDTM-aligned mapping, and operational risk prioritisation. It is built end to end so I can speak to each step from having designed and shipped it, on synthetic data.
+
+**What I owned as Product Owner:** product vision, personas, requirements, user stories, acceptance criteria, product backlog and prioritisation, the data-quality rules, the risk framework and the release roadmap. All of it is in [`/product`](product/).
+
+---
+
 ## What it does
 
 A simulated Phase II trial (`TF-201`, ~740 subjects across 38 activated sites in 8 countries). The platform monitors the chain **patients → sites → visits → EDC data → adverse events → protocol deviations → data queries → recruitment → milestones** and turns it into product decisions.

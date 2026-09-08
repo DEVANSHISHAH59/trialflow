@@ -65,9 +65,48 @@ function frag(html) {
   t.innerHTML = html.trim();
   return t.content;
 }
+
+// "What this solves" framing per view, so a reader sees the product intent, not just a chart.
+const PURPOSE = {
+  overview: ['A sponsor needs one defensible answer to "is this trial healthy?" without reading five systems.',
+    'Whether to escalate the trial in governance, and where the week goes.',
+    'Trial Health Score and its drivers, recruitment vs plan, open queries, sites at risk.'],
+  sites: ['Clinical operations teams need to catch sites falling behind recruitment or generating excess data-quality issues before the timeline slips.',
+    'Which sites to prioritise for intervention and which to move to increased monitoring.',
+    'Recruitment rate, query backlog, protocol deviations, data completeness.'],
+  journey: ['CRAs prepare for monitoring visits without a single list of what data is outstanding for a subject.',
+    'What to resolve with the site before or during the visit.',
+    'Visit capture vs schedule, missing required forms, subject data completeness.'],
+  quality: ['A growing query backlog and undetected data errors put database lock at risk.',
+    'Which findings to raise as queries and which sites to escalate.',
+    'Data Quality Score, findings by rule, findings by site.'],
+  deviations: ['Protocol-compliance drift is usually invisible until an audit.',
+    'Where to focus corrective action and site retraining.',
+    'Out-of-window visits, category mix (Minor / Moderate / Major), deviations by site.'],
+  ae: ['Operations needs assurance that safety data is flowing and serious events are followed up, without straying into medical assessment.',
+    'Whether AE capture and serious-event follow-up are complete and timely.',
+    'AE counts by severity, system organ class and arm; serious-event status.'],
+  sdtm: ['Raw EDC data is not in a shape that analysis or submission tooling can read.',
+    'What to standardise first for downstream analysis.',
+    'Domain coverage (DM, AE, VS, SV), row counts, mapping structure.'],
+  copilot: ['Preparing the weekly site review means manually scanning tables.',
+    'Which sites need intervention and why, answered in one question.',
+    'Site risk drivers, trial-health drivers, data-quality findings.'],
+};
+function purposeBox(view) {
+  const p = PURPOSE[view];
+  if (!p) return '';
+  return `<div class="purpose">
+    <div><span class="p-label">Business problem</span>${esc(p[0])}</div>
+    <div><span class="p-label">Product decision</span>${esc(p[1])}</div>
+    <div><span class="p-label">Key signals</span>${esc(p[2])}</div>
+  </div>`;
+}
+
 function mount(html) {
   $app.innerHTML = '';
-  $app.appendChild(frag(`<div class="view">${html}</div>`));
+  const withPurpose = html.replace('</p>', '</p>' + purposeBox(state.view));
+  $app.appendChild(frag(`<div class="view">${withPurpose}</div>`));
 }
 function esc(v) {
   return String(v ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
