@@ -1,0 +1,586 @@
+usubjid,site_id,aeseq,aeterm,aebodsys,aesev,aeser,aerel,aestdtc,aeendtc,aeout,arm
+TF-201-101-004,101,1,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-09-12,2026-09-29,Recovered/Resolved,Placebo
+TF-201-101-005,101,2,Fatigue,General disorders,Mild,N,Unlikely,2025-04-30,2025-05-23,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-006,101,3,Diarrhoea,Gastrointestinal disorders,Moderate,N,Unlikely,2026-07-07,,Not recovered/Not resolved,Placebo
+TF-201-101-007,101,4,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2025-07-25,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-101-008,101,5,Fatigue,General disorders,Mild,N,Unlikely,2025-11-21,2025-12-22,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-008,101,6,Dizziness,Nervous system disorders,Moderate,N,Possible,2025-11-21,2025-12-12,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-009,101,7,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2025-11-22,2025-12-24,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-011,101,8,Dizziness,Nervous system disorders,Mild,N,Not related,2026-05-09,2026-05-14,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-011,101,9,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-05-13,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-101-011,101,10,Diarrhoea,Gastrointestinal disorders,Moderate,N,Possible,2026-04-22,2026-05-27,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-011,101,11,Fatigue,General disorders,Moderate,N,Possible,2026-04-06,2026-04-22,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-011,101,12,Injection site erythema,General disorders,Mild,N,Possible,2026-06-05,2026-07-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-012,101,13,Fatigue,General disorders,Moderate,N,Possible,2025-06-09,,Not recovered/Not resolved,Placebo
+TF-201-101-013,101,14,Fatigue,General disorders,Mild,N,Not related,2025-09-03,,Not recovered/Not resolved,Placebo
+TF-201-101-014,101,15,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2026-06-19,2026-07-13,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-014,101,16,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2026-06-28,2026-07-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-016,101,17,Diarrhoea,Gastrointestinal disorders,Moderate,N,Not related,2026-01-08,2026-02-17,Recovered/Resolved,Placebo
+TF-201-101-017,101,18,Dizziness,Nervous system disorders,Mild,N,Probable,2025-06-24,2025-07-05,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-021,101,19,Dizziness,Nervous system disorders,Moderate,N,Possible,2026-02-17,2026-03-04,Recovered/Resolved,Placebo
+TF-201-101-022,101,20,Injection site erythema,General disorders,Moderate,N,Unlikely,2026-07-01,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-101-022,101,21,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2026-08-31,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-101-022,101,22,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-06-21,2026-07-03,Recovered/Resolved,TF-Compound 150mg
+TF-201-101-023,101,23,Dizziness,Nervous system disorders,Mild,N,Not related,2025-10-08,2025-10-18,Recovered/Resolved,Placebo
+TF-201-101-026,101,24,Injection site erythema,General disorders,Mild,N,Probable,2026-06-30,,Not recovered/Not resolved,Placebo
+TF-201-101-028,101,25,Injection site erythema,General disorders,Mild,N,Not related,2026-03-05,2026-03-28,Recovered/Resolved,Placebo
+TF-201-101-028,101,26,Injection site erythema,General disorders,Moderate,N,Unlikely,2026-07-03,2026-07-26,Recovered/Resolved,Placebo
+TF-201-102-001,102,27,Fatigue,General disorders,Moderate,N,Unlikely,2025-10-20,2025-11-21,Recovered/Resolved,TF-Compound 150mg
+TF-201-102-002,102,28,Diarrhoea,Gastrointestinal disorders,Mild,N,Probable,2026-03-20,2026-03-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-102-002,102,29,Headache,Nervous system disorders,Moderate,N,Unlikely,2025-11-19,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-102-003,102,30,Headache,Nervous system disorders,Mild,N,Not related,2026-10-23,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-102-006,102,31,Dizziness,Nervous system disorders,Moderate,N,Not related,2025-07-06,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-103-001,103,32,Upper respiratory tract infection,Infections and infestations,Mild,N,Unlikely,2026-04-26,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-103-002,103,33,Fatigue,General disorders,Moderate,N,Possible,2026-01-28,2026-03-01,Recovered/Resolved,Placebo
+TF-201-103-002,103,34,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2026-04-11,2026-04-30,Recovered/Resolved,Placebo
+TF-201-103-003,103,35,Headache,Nervous system disorders,Mild,N,Possible,2025-07-30,2025-08-15,Recovered/Resolved,Placebo
+TF-201-103-003,103,36,Diarrhoea,Gastrointestinal disorders,Moderate,N,Not related,2025-08-03,,Not recovered/Not resolved,Placebo
+TF-201-103-004,103,37,Upper respiratory tract infection,Infections and infestations,Moderate,N,Possible,2026-03-07,,Not recovered/Not resolved,Placebo
+TF-201-103-004,103,38,Upper respiratory tract infection,Infections and infestations,Moderate,N,Possible,2026-03-18,,Not recovered/Not resolved,Placebo
+TF-201-103-007,103,39,Fatigue,General disorders,Moderate,N,Probable,2026-06-09,2026-07-04,Recovered/Resolved,TF-Compound 150mg
+TF-201-103-007,103,40,Fatigue,General disorders,Moderate,N,Possible,2026-04-03,2026-04-21,Recovered/Resolved,TF-Compound 150mg
+TF-201-103-009,103,41,Upper respiratory tract infection,Infections and infestations,Moderate,N,Possible,2025-12-01,2025-12-31,Recovered/Resolved,TF-Compound 150mg
+TF-201-103-010,103,42,Dizziness,Nervous system disorders,Mild,N,Not related,2026-05-17,2026-05-21,Recovered/Resolved,TF-Compound 150mg
+TF-201-103-011,103,43,Injection site erythema,General disorders,Moderate,N,Not related,2026-07-01,2026-07-21,Recovered/Resolved,TF-Compound 150mg
+TF-201-103-011,103,44,Headache,Nervous system disorders,Moderate,N,Unlikely,2026-06-13,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-103-013,103,45,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2025-08-22,2025-09-15,Recovered/Resolved,TF-Compound 150mg
+TF-201-104-002,104,46,Fatigue,General disorders,Mild,N,Probable,2025-09-21,2025-09-23,Recovered/Resolved,Placebo
+TF-201-104-008,104,47,Fatigue,General disorders,Moderate,N,Probable,2026-02-28,,Not recovered/Not resolved,Placebo
+TF-201-104-008,104,48,Upper respiratory tract infection,Infections and infestations,Moderate,N,Not related,2025-12-19,2025-12-28,Recovered/Resolved,Placebo
+TF-201-104-009,104,49,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2025-04-15,2025-05-16,Recovered/Resolved,TF-Compound 150mg
+TF-201-104-010,104,50,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2026-01-06,,Not recovered/Not resolved,Placebo
+TF-201-104-011,104,51,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2026-01-31,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-104-011,104,52,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2026-01-12,2026-02-04,Recovered/Resolved,TF-Compound 150mg
+TF-201-104-012,104,53,Dizziness,Nervous system disorders,Moderate,N,Unlikely,2025-05-09,,Not recovered/Not resolved,Placebo
+TF-201-104-012,104,54,Alanine aminotransferase increased,Investigations,Severe,N,Not related,2025-05-27,2025-07-07,Recovered/Resolved,Placebo
+TF-201-104-013,104,55,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-09-20,2026-11-03,Recovered/Resolved,Placebo
+TF-201-104-013,104,56,Fatigue,General disorders,Moderate,N,Possible,2026-06-27,,Not recovered/Not resolved,Placebo
+TF-201-104-016,104,57,Dizziness,Nervous system disorders,Mild,N,Possible,2025-07-18,,Not recovered/Not resolved,Placebo
+TF-201-104-017,104,58,Dizziness,Nervous system disorders,Mild,N,Not related,2026-02-04,2026-03-17,Recovered/Resolved,TF-Compound 150mg
+TF-201-104-018,104,59,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2025-09-24,2025-11-03,Recovered/Resolved,Placebo
+TF-201-104-018,104,60,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2025-10-15,2025-10-24,Recovered/Resolved,Placebo
+TF-201-104-019,104,61,Headache,Nervous system disorders,Mild,N,Not related,2026-04-22,2026-06-01,Recovered/Resolved,TF-Compound 150mg
+TF-201-104-020,104,62,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-01-04,2026-01-25,Recovered/Resolved,TF-Compound 150mg
+TF-201-104-021,104,63,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2025-10-02,2025-10-06,Recovered/Resolved,Placebo
+TF-201-104-022,104,64,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2026-07-06,2026-07-12,Recovered/Resolved,Placebo
+TF-201-104-023,104,65,Injection site erythema,General disorders,Mild,N,Not related,2025-12-30,2026-01-22,Recovered/Resolved,Placebo
+TF-201-104-023,104,66,Fatigue,General disorders,Mild,N,Possible,2025-11-06,2025-12-13,Recovered/Resolved,Placebo
+TF-201-105-003,105,67,Fatigue,General disorders,Mild,N,Not related,2026-08-01,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-105-004,105,68,Alanine aminotransferase increased,Investigations,Severe,Y,Probable,2025-10-17,2025-11-30,Recovered/Resolved,Placebo
+TF-201-105-004,105,69,Nausea,Gastrointestinal disorders,Moderate,N,Unlikely,2025-10-25,,Not recovered/Not resolved,Placebo
+TF-201-105-008,105,70,Hypertension,Vascular disorders,Severe,N,Not related,2026-06-29,2026-07-01,Recovered/Resolved,Placebo
+TF-201-105-010,105,71,Alanine aminotransferase increased,Investigations,Moderate,N,Probable,2025-08-20,2025-09-26,Recovered/Resolved,Placebo
+TF-201-105-012,105,72,Fatigue,General disorders,Mild,N,Unlikely,2026-02-19,2026-03-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-105-012,105,73,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2026-02-06,2026-03-14,Recovered/Resolved,TF-Compound 150mg
+TF-201-105-014,105,74,Upper respiratory tract infection,Infections and infestations,Moderate,N,Not related,2026-06-25,2026-07-15,Recovered/Resolved,TF-Compound 150mg
+TF-201-105-016,105,75,Upper respiratory tract infection,Infections and infestations,Moderate,N,Possible,2025-11-01,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-105-016,105,76,Diarrhoea,Gastrointestinal disorders,Moderate,N,Unlikely,2025-10-08,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-105-017,105,77,Fatigue,General disorders,Moderate,N,Probable,2026-10-23,,Not recovered/Not resolved,Placebo
+TF-201-105-018,105,78,Nausea,Gastrointestinal disorders,Moderate,N,Unlikely,2026-09-06,2026-09-16,Recovered/Resolved,TF-Compound 150mg
+TF-201-105-023,105,79,Diarrhoea,Gastrointestinal disorders,Mild,N,Probable,2026-08-01,,Not recovered/Not resolved,Placebo
+TF-201-105-024,105,80,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2026-05-28,2026-07-02,Recovered/Resolved,TF-Compound 150mg
+TF-201-105-025,105,81,Nausea,Gastrointestinal disorders,Moderate,N,Unlikely,2026-03-31,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-106-001,106,82,Hypertension,Vascular disorders,Moderate,N,Probable,2025-12-12,2026-01-03,Recovered/Resolved,TF-Compound 150mg
+TF-201-106-001,106,83,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-01-22,2026-01-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-106-002,106,84,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2026-11-28,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-106-002,106,85,Fatigue,General disorders,Moderate,N,Not related,2026-07-24,2026-08-06,Recovered/Resolved,TF-Compound 150mg
+TF-201-106-004,106,86,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-11-15,2026-12-22,Recovered/Resolved,Placebo
+TF-201-106-005,106,87,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-08-01,,Not recovered/Not resolved,Placebo
+TF-201-106-005,106,88,Fatigue,General disorders,Moderate,N,Not related,2026-05-02,,Not recovered/Not resolved,Placebo
+TF-201-106-006,106,89,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2025-11-17,2025-12-06,Recovered/Resolved,TF-Compound 150mg
+TF-201-106-006,106,90,Dizziness,Nervous system disorders,Mild,N,Unlikely,2025-11-12,2025-11-22,Recovered/Resolved,TF-Compound 150mg
+TF-201-106-007,106,91,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-08-21,,Not recovered/Not resolved,Placebo
+TF-201-106-007,106,92,Dizziness,Nervous system disorders,Moderate,N,Possible,2026-08-09,2026-08-25,Recovered/Resolved,Placebo
+TF-201-106-010,106,93,Alanine aminotransferase increased,Investigations,Severe,Y,Probable,2026-01-24,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-106-013,106,94,Dizziness,Nervous system disorders,Moderate,N,Possible,2026-06-07,2026-06-13,Recovered/Resolved,Placebo
+TF-201-106-013,106,95,Dizziness,Nervous system disorders,Moderate,N,Probable,2026-06-11,2026-07-01,Recovered/Resolved,Placebo
+TF-201-106-015,106,96,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2026-01-06,,Not recovered/Not resolved,Placebo
+TF-201-106-015,106,97,Injection site erythema,General disorders,Mild,N,Possible,2026-01-03,,Not recovered/Not resolved,Placebo
+TF-201-106-017,106,98,Fatigue,General disorders,Mild,N,Not related,2026-01-21,2026-01-23,Recovered/Resolved,TF-Compound 150mg
+TF-201-106-018,106,99,Headache,Nervous system disorders,Mild,N,Not related,2026-07-22,,Not recovered/Not resolved,Placebo
+TF-201-106-019,106,100,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2026-12-20,2027-01-25,Recovered/Resolved,Placebo
+TF-201-106-020,106,101,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2026-05-11,2026-05-31,Recovered/Resolved,Placebo
+TF-201-106-021,106,102,Upper respiratory tract infection,Infections and infestations,Moderate,N,Possible,2026-09-24,2026-10-26,Recovered/Resolved,TF-Compound 150mg
+TF-201-106-022,106,103,Alanine aminotransferase increased,Investigations,Severe,Y,Unlikely,2026-10-14,2026-11-21,Recovered/Resolved,Placebo
+TF-201-106-023,106,104,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2026-08-26,,Not recovered/Not resolved,Placebo
+TF-201-107-003,107,105,Injection site erythema,General disorders,Mild,N,Not related,2026-10-02,2026-10-27,Recovered/Resolved,Placebo
+TF-201-107-004,107,106,Nausea,Gastrointestinal disorders,Moderate,N,Probable,2026-06-18,2026-06-22,Recovered/Resolved,Placebo
+TF-201-107-006,107,107,Injection site erythema,General disorders,Moderate,N,Not related,2026-10-02,2026-10-09,Recovered/Resolved,Placebo
+TF-201-107-008,107,108,Fatigue,General disorders,Mild,N,Unlikely,2026-05-11,2026-06-13,Recovered/Resolved,TF-Compound 150mg
+TF-201-107-010,107,109,Hypertension,Vascular disorders,Severe,Y,Not related,2026-10-30,2026-11-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-107-011,107,110,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2026-09-25,2026-10-07,Recovered/Resolved,Placebo
+TF-201-107-012,107,111,Headache,Nervous system disorders,Mild,N,Possible,2026-09-05,2026-09-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-107-012,107,112,Injection site erythema,General disorders,Moderate,N,Unlikely,2026-09-06,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-108-002,108,113,Injection site erythema,General disorders,Mild,N,Possible,2025-09-18,2025-10-22,Recovered/Resolved,Placebo
+TF-201-108-008,108,114,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-08-17,2026-08-21,Recovered/Resolved,TF-Compound 150mg
+TF-201-109-002,109,115,Headache,Nervous system disorders,Moderate,N,Unlikely,2025-06-05,2025-07-18,Recovered/Resolved,Placebo
+TF-201-109-002,109,116,Alanine aminotransferase increased,Investigations,Severe,N,Probable,2025-06-03,2025-06-06,Recovered/Resolved,Placebo
+TF-201-109-002,109,117,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2025-07-18,,Not recovered/Not resolved,Placebo
+TF-201-109-003,109,118,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2025-09-26,2025-10-17,Recovered/Resolved,Placebo
+TF-201-109-005,109,119,Dizziness,Nervous system disorders,Mild,N,Probable,2026-07-21,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-109-005,109,120,Dizziness,Nervous system disorders,Mild,N,Not related,2026-09-14,2026-10-18,Recovered/Resolved,TF-Compound 150mg
+TF-201-109-006,109,121,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2025-11-20,2025-12-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-109-007,109,122,Diarrhoea,Gastrointestinal disorders,Moderate,N,Probable,2025-09-11,2025-10-11,Recovered/Resolved,Placebo
+TF-201-109-010,109,123,Diarrhoea,Gastrointestinal disorders,Mild,N,Probable,2025-05-01,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-109-010,109,124,Headache,Nervous system disorders,Moderate,N,Not related,2025-06-09,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-109-010,109,125,Hypertension,Vascular disorders,Severe,Y,Not related,2025-04-11,2025-05-10,Recovered/Resolved,TF-Compound 150mg
+TF-201-109-014,109,126,Upper respiratory tract infection,Infections and infestations,Mild,N,Probable,2025-12-01,,Not recovered/Not resolved,Placebo
+TF-201-109-014,109,127,Fatigue,General disorders,Mild,N,Possible,2026-01-15,2026-01-21,Recovered/Resolved,Placebo
+TF-201-109-015,109,128,Fatigue,General disorders,Mild,N,Unlikely,2026-06-24,2026-07-03,Recovered/Resolved,Placebo
+TF-201-109-015,109,129,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-06-26,2026-07-26,Recovered/Resolved,Placebo
+TF-201-109-016,109,130,Fatigue,General disorders,Moderate,N,Not related,2026-01-29,2026-03-05,Recovered/Resolved,TF-Compound 150mg
+TF-201-109-017,109,131,Injection site erythema,General disorders,Moderate,N,Not related,2025-04-30,2025-06-06,Recovered/Resolved,Placebo
+TF-201-109-019,109,132,Hypertension,Vascular disorders,Severe,Y,Unlikely,2025-08-19,2025-08-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-109-019,109,133,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2025-10-09,2025-11-16,Recovered/Resolved,TF-Compound 150mg
+TF-201-109-022,109,134,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-05-19,2026-06-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-109-022,109,135,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-03-30,2026-04-27,Recovered/Resolved,TF-Compound 150mg
+TF-201-110-002,110,136,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2026-03-10,2026-04-22,Recovered/Resolved,TF-Compound 150mg
+TF-201-110-002,110,137,Nausea,Gastrointestinal disorders,Moderate,N,Not related,2025-12-31,2026-01-10,Recovered/Resolved,TF-Compound 150mg
+TF-201-110-006,110,138,Alanine aminotransferase increased,Investigations,Severe,Y,Possible,2025-07-25,2025-08-11,Recovered/Resolved,Placebo
+TF-201-110-006,110,139,Alanine aminotransferase increased,Investigations,Severe,N,Unlikely,2025-10-16,2025-11-05,Recovered/Resolved,Placebo
+TF-201-110-007,110,140,Fatigue,General disorders,Mild,N,Probable,2026-10-03,2026-10-13,Recovered/Resolved,Placebo
+TF-201-110-007,110,141,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2026-10-19,2026-11-28,Recovered/Resolved,Placebo
+TF-201-110-008,110,142,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-04-14,2026-04-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-110-010,110,143,Alanine aminotransferase increased,Investigations,Severe,Y,Not related,2025-09-08,,Not recovered/Not resolved,Placebo
+TF-201-110-012,110,144,Fatigue,General disorders,Moderate,N,Not related,2026-03-06,2026-03-23,Recovered/Resolved,Placebo
+TF-201-110-014,110,145,Dizziness,Nervous system disorders,Moderate,N,Possible,2026-03-21,2026-05-04,Recovered/Resolved,TF-Compound 150mg
+TF-201-111-002,111,146,Diarrhoea,Gastrointestinal disorders,Moderate,N,Unlikely,2025-12-31,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-111-002,111,147,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2026-03-24,2026-04-20,Recovered/Resolved,TF-Compound 150mg
+TF-201-111-002,111,148,Injection site erythema,General disorders,Moderate,N,Probable,2025-12-23,2026-01-17,Recovered/Resolved,TF-Compound 150mg
+TF-201-111-003,111,149,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2026-07-03,2026-08-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-111-004,111,150,Dizziness,Nervous system disorders,Mild,N,Possible,2025-08-17,2025-09-27,Recovered/Resolved,TF-Compound 150mg
+TF-201-111-006,111,151,Upper respiratory tract infection,Infections and infestations,Moderate,N,Not related,2025-06-17,2025-07-13,Recovered/Resolved,Placebo
+TF-201-111-006,111,152,Hypertension,Vascular disorders,Severe,Y,Unlikely,2025-08-29,2025-09-01,Recovered/Resolved,Placebo
+TF-201-111-007,111,153,Headache,Nervous system disorders,Mild,N,Unlikely,2026-03-18,2026-04-23,Recovered/Resolved,TF-Compound 150mg
+TF-201-111-008,111,154,Alanine aminotransferase increased,Investigations,Moderate,N,Unlikely,2025-06-05,,Not recovered/Not resolved,Placebo
+TF-201-111-008,111,155,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2025-09-05,2025-09-28,Recovered/Resolved,Placebo
+TF-201-111-010,111,156,Injection site erythema,General disorders,Mild,N,Possible,2025-09-14,2025-10-25,Recovered/Resolved,Placebo
+TF-201-111-010,111,157,Alanine aminotransferase increased,Investigations,Severe,Y,Not related,2025-10-01,2025-10-11,Recovered/Resolved,Placebo
+TF-201-111-013,111,158,Upper respiratory tract infection,Infections and infestations,Moderate,N,Probable,2025-12-13,2026-01-18,Recovered/Resolved,TF-Compound 150mg
+TF-201-111-013,111,159,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2025-11-16,2025-11-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-111-019,111,160,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2025-11-28,2025-12-10,Recovered/Resolved,TF-Compound 150mg
+TF-201-111-020,111,161,Headache,Nervous system disorders,Moderate,N,Not related,2026-05-31,,Not recovered/Not resolved,Placebo
+TF-201-112-001,112,162,Hypertension,Vascular disorders,Moderate,N,Not related,2026-05-30,2026-07-11,Recovered/Resolved,Placebo
+TF-201-112-001,112,163,Headache,Nervous system disorders,Mild,N,Probable,2026-09-14,2026-10-04,Recovered/Resolved,Placebo
+TF-201-112-001,112,164,Nausea,Gastrointestinal disorders,Moderate,N,Possible,2026-07-17,,Not recovered/Not resolved,Placebo
+TF-201-112-001,112,165,Dizziness,Nervous system disorders,Moderate,N,Unlikely,2026-06-28,2026-07-24,Recovered/Resolved,Placebo
+TF-201-112-002,112,166,Fatigue,General disorders,Mild,N,Not related,2025-05-06,2025-06-01,Recovered/Resolved,TF-Compound 150mg
+TF-201-112-003,112,167,Alanine aminotransferase increased,Investigations,Severe,Y,Not related,2025-12-24,2026-02-03,Recovered/Resolved,Placebo
+TF-201-112-004,112,168,Fatigue,General disorders,Moderate,N,Possible,2025-10-25,2025-12-04,Recovered/Resolved,Placebo
+TF-201-112-005,112,169,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2026-06-10,2026-07-24,Recovered/Resolved,Placebo
+TF-201-112-007,112,170,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2025-12-30,2026-02-05,Recovered/Resolved,Placebo
+TF-201-112-007,112,171,Hypertension,Vascular disorders,Severe,N,Unlikely,2025-11-11,,Not recovered/Not resolved,Placebo
+TF-201-112-007,112,172,Dizziness,Nervous system disorders,Mild,N,Possible,2025-12-22,2026-01-04,Recovered/Resolved,Placebo
+TF-201-112-008,112,173,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2025-12-14,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-112-011,112,174,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2026-04-14,2026-05-13,Recovered/Resolved,Placebo
+TF-201-112-012,112,175,Fatigue,General disorders,Moderate,N,Not related,2025-07-23,2025-08-04,Recovered/Resolved,Placebo
+TF-201-112-013,112,176,Headache,Nervous system disorders,Moderate,N,Unlikely,2026-04-15,2026-04-27,Recovered/Resolved,TF-Compound 150mg
+TF-201-112-013,112,177,Upper respiratory tract infection,Infections and infestations,Moderate,N,Probable,2026-02-22,2026-02-27,Recovered/Resolved,TF-Compound 150mg
+TF-201-112-013,112,178,Fatigue,General disorders,Mild,N,Unlikely,2026-05-06,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-112-015,112,179,Injection site erythema,General disorders,Mild,N,Unlikely,2026-02-09,2026-02-13,Recovered/Resolved,TF-Compound 150mg
+TF-201-112-019,112,180,Headache,Nervous system disorders,Moderate,N,Possible,2026-02-22,2026-03-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-112-020,112,181,Upper respiratory tract infection,Infections and infestations,Moderate,N,Unlikely,2026-08-05,2026-09-03,Recovered/Resolved,TF-Compound 150mg
+TF-201-112-020,112,182,Nausea,Gastrointestinal disorders,Moderate,N,Possible,2026-06-13,2026-06-23,Recovered/Resolved,TF-Compound 150mg
+TF-201-112-021,112,183,Hypertension,Vascular disorders,Severe,N,Probable,2026-03-13,2026-04-07,Recovered/Resolved,Placebo
+TF-201-112-021,112,184,Nausea,Gastrointestinal disorders,Mild,N,Possible,2026-05-10,2026-05-25,Recovered/Resolved,Placebo
+TF-201-112-021,112,185,Injection site erythema,General disorders,Moderate,N,Possible,2026-02-17,,Not recovered/Not resolved,Placebo
+TF-201-112-021,112,186,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-02-03,,Not recovered/Not resolved,Placebo
+TF-201-113-002,113,187,Diarrhoea,Gastrointestinal disorders,Moderate,N,Not related,2025-08-27,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-113-003,113,188,Injection site erythema,General disorders,Mild,N,Unlikely,2026-11-11,2026-12-24,Recovered/Resolved,TF-Compound 150mg
+TF-201-113-005,113,189,Fatigue,General disorders,Mild,N,Possible,2025-09-12,,Not recovered/Not resolved,Placebo
+TF-201-113-007,113,190,Injection site erythema,General disorders,Moderate,N,Possible,2026-04-14,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-113-008,113,191,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2025-11-22,2025-12-18,Recovered/Resolved,Placebo
+TF-201-113-014,113,192,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2025-07-23,2025-07-31,Recovered/Resolved,TF-Compound 150mg
+TF-201-113-023,113,193,Alanine aminotransferase increased,Investigations,Moderate,N,Probable,2025-06-04,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-113-024,113,194,Alanine aminotransferase increased,Investigations,Severe,N,Not related,2026-02-19,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-113-024,113,195,Headache,Nervous system disorders,Mild,N,Not related,2026-03-09,2026-03-25,Recovered/Resolved,TF-Compound 150mg
+TF-201-113-025,113,196,Injection site erythema,General disorders,Mild,N,Possible,2026-02-07,,Not recovered/Not resolved,Placebo
+TF-201-114-003,114,197,Injection site erythema,General disorders,Mild,N,Not related,2026-07-28,2026-07-30,Recovered/Resolved,TF-Compound 150mg
+TF-201-114-003,114,198,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-07-25,2026-07-31,Recovered/Resolved,TF-Compound 150mg
+TF-201-114-005,114,199,Alanine aminotransferase increased,Investigations,Severe,Y,Possible,2025-08-31,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-114-005,114,200,Alanine aminotransferase increased,Investigations,Severe,Y,Possible,2025-09-16,2025-09-22,Recovered/Resolved,TF-Compound 150mg
+TF-201-114-005,114,201,Alanine aminotransferase increased,Investigations,Moderate,N,Unlikely,2025-10-09,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-114-009,114,202,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2026-04-07,2026-04-26,Recovered/Resolved,TF-Compound 150mg
+TF-201-114-010,114,203,Headache,Nervous system disorders,Mild,N,Possible,2025-08-11,,Not recovered/Not resolved,Placebo
+TF-201-114-010,114,204,Alanine aminotransferase increased,Investigations,Severe,Y,Possible,2025-08-09,,Not recovered/Not resolved,Placebo
+TF-201-114-011,114,205,Nausea,Gastrointestinal disorders,Moderate,N,Not related,2026-07-28,2026-09-10,Recovered/Resolved,TF-Compound 150mg
+TF-201-114-012,114,206,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2026-06-09,,Not recovered/Not resolved,Placebo
+TF-201-114-013,114,207,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2025-12-21,2025-12-23,Recovered/Resolved,Placebo
+TF-201-114-013,114,208,Upper respiratory tract infection,Infections and infestations,Mild,N,Probable,2025-08-17,,Not recovered/Not resolved,Placebo
+TF-201-115-002,115,209,Alanine aminotransferase increased,Investigations,Moderate,N,Possible,2026-05-23,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-115-003,115,210,Injection site erythema,General disorders,Moderate,N,Not related,2026-01-12,2026-01-29,Recovered/Resolved,Placebo
+TF-201-115-003,115,211,Headache,Nervous system disorders,Moderate,N,Possible,2026-01-05,2026-01-07,Recovered/Resolved,Placebo
+TF-201-115-008,115,212,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2025-08-05,2025-09-16,Recovered/Resolved,TF-Compound 150mg
+TF-201-115-008,115,213,Nausea,Gastrointestinal disorders,Mild,N,Not related,2025-06-21,2025-07-06,Recovered/Resolved,TF-Compound 150mg
+TF-201-115-009,115,214,Headache,Nervous system disorders,Moderate,N,Not related,2026-01-30,,Not recovered/Not resolved,Placebo
+TF-201-115-010,115,215,Dizziness,Nervous system disorders,Mild,N,Possible,2026-02-12,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-115-010,115,216,Hypertension,Vascular disorders,Moderate,N,Possible,2026-03-27,2026-03-30,Recovered/Resolved,TF-Compound 150mg
+TF-201-115-011,115,217,Fatigue,General disorders,Mild,N,Not related,2026-08-26,,Not recovered/Not resolved,Placebo
+TF-201-115-011,115,218,Injection site erythema,General disorders,Moderate,N,Unlikely,2026-08-27,2026-09-26,Recovered/Resolved,Placebo
+TF-201-115-012,115,219,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-09-02,2026-09-10,Recovered/Resolved,TF-Compound 150mg
+TF-201-115-012,115,220,Fatigue,General disorders,Moderate,N,Unlikely,2026-10-07,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-115-015,115,221,Headache,Nervous system disorders,Mild,N,Unlikely,2026-05-30,2026-06-13,Recovered/Resolved,TF-Compound 150mg
+TF-201-115-015,115,222,Headache,Nervous system disorders,Mild,N,Unlikely,2026-09-17,2026-10-21,Recovered/Resolved,TF-Compound 150mg
+TF-201-115-018,115,223,Nausea,Gastrointestinal disorders,Mild,N,Possible,2027-01-01,2027-02-03,Recovered/Resolved,Placebo
+TF-201-115-018,115,224,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2026-12-15,2027-01-14,Recovered/Resolved,Placebo
+TF-201-115-019,115,225,Hypertension,Vascular disorders,Moderate,N,Unlikely,2025-09-18,2025-10-15,Recovered/Resolved,TF-Compound 150mg
+TF-201-115-019,115,226,Injection site erythema,General disorders,Mild,N,Possible,2025-10-11,2025-10-20,Recovered/Resolved,TF-Compound 150mg
+TF-201-115-020,115,227,Upper respiratory tract infection,Infections and infestations,Mild,N,Probable,2026-05-01,,Not recovered/Not resolved,Placebo
+TF-201-115-020,115,228,Injection site erythema,General disorders,Moderate,N,Possible,2026-01-25,,Not recovered/Not resolved,Placebo
+TF-201-115-021,115,229,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-03-30,2026-05-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-115-021,115,230,Injection site erythema,General disorders,Mild,N,Possible,2026-03-20,2026-05-03,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-004,116,231,Hypertension,Vascular disorders,Moderate,N,Probable,2025-09-10,2025-10-05,Recovered/Resolved,Placebo
+TF-201-116-006,116,232,Fatigue,General disorders,Mild,N,Possible,2026-04-30,2026-06-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-007,116,233,Hypertension,Vascular disorders,Severe,Y,Probable,2025-07-30,2025-08-13,Recovered/Resolved,Placebo
+TF-201-116-009,116,234,Fatigue,General disorders,Mild,N,Not related,2026-08-09,2026-09-19,Recovered/Resolved,Placebo
+TF-201-116-009,116,235,Diarrhoea,Gastrointestinal disorders,Moderate,N,Not related,2026-09-02,2026-10-13,Recovered/Resolved,Placebo
+TF-201-116-010,116,236,Injection site erythema,General disorders,Mild,N,Not related,2026-03-01,2026-04-04,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-010,116,237,Diarrhoea,Gastrointestinal disorders,Moderate,N,Unlikely,2026-01-23,2026-02-16,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-012,116,238,Hypertension,Vascular disorders,Severe,Y,Possible,2026-08-04,,Not recovered/Not resolved,Placebo
+TF-201-116-012,116,239,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2026-09-17,2026-10-24,Recovered/Resolved,Placebo
+TF-201-116-013,116,240,Injection site erythema,General disorders,Moderate,N,Possible,2026-08-22,2026-09-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-013,116,241,Upper respiratory tract infection,Infections and infestations,Moderate,N,Possible,2026-08-29,2026-09-17,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-013,116,242,Dizziness,Nervous system disorders,Mild,N,Possible,2026-05-25,2026-06-20,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-014,116,243,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2026-02-06,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-116-021,116,244,Headache,Nervous system disorders,Moderate,N,Not related,2026-05-31,2026-06-15,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-023,116,245,Dizziness,Nervous system disorders,Moderate,N,Not related,2025-10-18,2025-11-20,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-024,116,246,Fatigue,General disorders,Mild,N,Possible,2025-07-13,2025-08-02,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-025,116,247,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2026-05-13,,Not recovered/Not resolved,Placebo
+TF-201-116-025,116,248,Alanine aminotransferase increased,Investigations,Severe,N,Possible,2026-07-14,,Not recovered/Not resolved,Placebo
+TF-201-116-025,116,249,Alanine aminotransferase increased,Investigations,Severe,N,Unlikely,2026-07-07,2026-07-09,Recovered/Resolved,Placebo
+TF-201-116-026,116,250,Diarrhoea,Gastrointestinal disorders,Moderate,N,Possible,2025-11-25,2025-12-17,Recovered/Resolved,Placebo
+TF-201-116-026,116,251,Alanine aminotransferase increased,Investigations,Severe,N,Probable,2026-02-06,2026-03-13,Recovered/Resolved,Placebo
+TF-201-116-026,116,252,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2026-02-18,,Not recovered/Not resolved,Placebo
+TF-201-116-027,116,253,Fatigue,General disorders,Mild,N,Not related,2026-01-28,,Not recovered/Not resolved,Placebo
+TF-201-116-027,116,254,Injection site erythema,General disorders,Mild,N,Not related,2026-02-24,,Not recovered/Not resolved,Placebo
+TF-201-116-028,116,255,Hypertension,Vascular disorders,Moderate,N,Probable,2026-06-04,2026-07-10,Recovered/Resolved,TF-Compound 150mg
+TF-201-116-028,116,256,Headache,Nervous system disorders,Moderate,N,Possible,2026-06-14,2026-06-16,Recovered/Resolved,TF-Compound 150mg
+TF-201-117-001,117,257,Hypertension,Vascular disorders,Severe,Y,Possible,2026-07-24,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-117-001,117,258,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2026-04-22,2026-04-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-117-003,117,259,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-07-24,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-117-006,117,260,Alanine aminotransferase increased,Investigations,Moderate,N,Possible,2026-01-27,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-117-008,117,261,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2025-11-18,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-117-011,117,262,Alanine aminotransferase increased,Investigations,Severe,Y,Probable,2026-11-06,2026-11-11,Recovered/Resolved,TF-Compound 150mg
+TF-201-117-012,117,263,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2026-05-05,2026-05-30,Recovered/Resolved,Placebo
+TF-201-117-015,117,264,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-04-28,2026-05-31,Recovered/Resolved,Placebo
+TF-201-118-001,118,265,Nausea,Gastrointestinal disorders,Mild,N,Possible,2026-07-19,2026-07-30,Recovered/Resolved,Placebo
+TF-201-118-001,118,266,Alanine aminotransferase increased,Investigations,Severe,N,Possible,2026-09-14,,Not recovered/Not resolved,Placebo
+TF-201-118-006,118,267,Alanine aminotransferase increased,Investigations,Severe,Y,Unlikely,2026-09-09,2026-10-22,Recovered/Resolved,TF-Compound 150mg
+TF-201-118-007,118,268,Headache,Nervous system disorders,Moderate,N,Not related,2026-11-08,,Not recovered/Not resolved,Placebo
+TF-201-118-008,118,269,Fatigue,General disorders,Moderate,N,Unlikely,2026-09-11,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-118-008,118,270,Diarrhoea,Gastrointestinal disorders,Moderate,N,Possible,2026-08-07,2026-09-01,Recovered/Resolved,TF-Compound 150mg
+TF-201-118-011,118,271,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-04-17,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-118-011,118,272,Headache,Nervous system disorders,Moderate,N,Unlikely,2026-02-19,2026-04-04,Recovered/Resolved,TF-Compound 150mg
+TF-201-118-014,118,273,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-10-23,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-118-016,118,274,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2026-02-13,,Not recovered/Not resolved,Placebo
+TF-201-118-017,118,275,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-02-07,2026-03-21,Recovered/Resolved,TF-Compound 150mg
+TF-201-118-021,118,276,Hypertension,Vascular disorders,Severe,Y,Unlikely,2026-07-26,,Not recovered/Not resolved,Placebo
+TF-201-119-001,119,277,Headache,Nervous system disorders,Moderate,N,Not related,2026-02-27,2026-03-11,Recovered/Resolved,TF-Compound 150mg
+TF-201-119-003,119,278,Alanine aminotransferase increased,Investigations,Moderate,N,Unlikely,2026-03-22,,Not recovered/Not resolved,Placebo
+TF-201-119-004,119,279,Injection site erythema,General disorders,Mild,N,Unlikely,2026-07-16,2026-08-09,Recovered/Resolved,Placebo
+TF-201-119-005,119,280,Injection site erythema,General disorders,Moderate,N,Not related,2025-08-31,,Not recovered/Not resolved,Placebo
+TF-201-119-005,119,281,Upper respiratory tract infection,Infections and infestations,Mild,N,Probable,2025-06-24,2025-07-02,Recovered/Resolved,Placebo
+TF-201-119-006,119,282,Hypertension,Vascular disorders,Severe,Y,Unlikely,2026-06-18,2026-07-22,Recovered/Resolved,Placebo
+TF-201-119-007,119,283,Dizziness,Nervous system disorders,Moderate,N,Probable,2026-03-21,2026-04-28,Recovered/Resolved,Placebo
+TF-201-119-007,119,284,Headache,Nervous system disorders,Moderate,N,Probable,2025-12-07,,Not recovered/Not resolved,Placebo
+TF-201-119-007,119,285,Dizziness,Nervous system disorders,Mild,N,Possible,2026-01-04,2026-01-09,Recovered/Resolved,Placebo
+TF-201-119-009,119,286,Nausea,Gastrointestinal disorders,Mild,N,Unlikely,2026-09-20,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-120-001,120,287,Fatigue,General disorders,Mild,N,Possible,2026-07-24,2026-09-06,Recovered/Resolved,TF-Compound 150mg
+TF-201-120-001,120,288,Injection site erythema,General disorders,Moderate,N,Possible,2026-08-20,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-120-003,120,289,Dizziness,Nervous system disorders,Mild,N,Possible,2025-11-07,2025-11-19,Recovered/Resolved,Placebo
+TF-201-120-004,120,290,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2026-02-22,2026-03-31,Recovered/Resolved,Placebo
+TF-201-120-004,120,291,Fatigue,General disorders,Mild,N,Unlikely,2025-11-27,2025-12-02,Recovered/Resolved,Placebo
+TF-201-120-005,120,292,Diarrhoea,Gastrointestinal disorders,Moderate,N,Unlikely,2026-06-14,2026-07-02,Recovered/Resolved,TF-Compound 150mg
+TF-201-120-006,120,293,Nausea,Gastrointestinal disorders,Mild,N,Not related,2025-07-27,2025-08-18,Recovered/Resolved,TF-Compound 150mg
+TF-201-120-009,120,294,Nausea,Gastrointestinal disorders,Moderate,N,Not related,2026-07-15,2026-08-21,Recovered/Resolved,Placebo
+TF-201-120-012,120,295,Injection site erythema,General disorders,Mild,N,Possible,2026-11-10,2026-12-14,Recovered/Resolved,TF-Compound 150mg
+TF-201-120-013,120,296,Nausea,Gastrointestinal disorders,Moderate,N,Unlikely,2027-01-05,2027-01-30,Recovered/Resolved,TF-Compound 150mg
+TF-201-120-014,120,297,Hypertension,Vascular disorders,Moderate,N,Unlikely,2026-06-07,2026-07-09,Recovered/Resolved,Placebo
+TF-201-120-015,120,298,Headache,Nervous system disorders,Moderate,N,Probable,2025-12-06,2026-01-09,Recovered/Resolved,Placebo
+TF-201-120-015,120,299,Injection site erythema,General disorders,Moderate,N,Unlikely,2026-01-19,2026-02-03,Recovered/Resolved,Placebo
+TF-201-120-018,120,300,Injection site erythema,General disorders,Mild,N,Probable,2026-06-05,2026-07-19,Recovered/Resolved,TF-Compound 150mg
+TF-201-120-019,120,301,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-08-23,2026-09-09,Recovered/Resolved,Placebo
+TF-201-120-019,120,302,Hypertension,Vascular disorders,Severe,N,Not related,2026-07-05,2026-07-23,Recovered/Resolved,Placebo
+TF-201-120-020,120,303,Injection site erythema,General disorders,Moderate,N,Not related,2026-01-02,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-120-020,120,304,Nausea,Gastrointestinal disorders,Moderate,N,Possible,2025-12-21,2026-01-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-120-021,120,305,Diarrhoea,Gastrointestinal disorders,Moderate,N,Not related,2026-03-17,2026-04-05,Recovered/Resolved,Placebo
+TF-201-120-021,120,306,Hypertension,Vascular disorders,Moderate,N,Possible,2026-04-14,2026-05-12,Recovered/Resolved,Placebo
+TF-201-120-024,120,307,Headache,Nervous system disorders,Moderate,N,Unlikely,2026-07-26,2026-08-02,Recovered/Resolved,Placebo
+TF-201-120-025,120,308,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2026-09-30,2026-10-26,Recovered/Resolved,TF-Compound 150mg
+TF-201-121-002,121,309,Headache,Nervous system disorders,Moderate,N,Unlikely,2026-09-21,2026-10-20,Recovered/Resolved,TF-Compound 150mg
+TF-201-121-002,121,310,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-10-28,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-121-003,121,311,Injection site erythema,General disorders,Moderate,N,Probable,2026-11-14,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-121-003,121,312,Hypertension,Vascular disorders,Moderate,N,Unlikely,2026-10-05,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-121-004,121,313,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-07-22,2026-07-31,Recovered/Resolved,Placebo
+TF-201-121-004,121,314,Injection site erythema,General disorders,Mild,N,Not related,2026-08-10,2026-09-12,Recovered/Resolved,Placebo
+TF-201-121-004,121,315,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-10-30,,Not recovered/Not resolved,Placebo
+TF-201-121-006,121,316,Hypertension,Vascular disorders,Severe,N,Not related,2026-10-09,2026-10-23,Recovered/Resolved,TF-Compound 150mg
+TF-201-121-007,121,317,Headache,Nervous system disorders,Moderate,N,Unlikely,2025-11-28,2025-12-29,Recovered/Resolved,Placebo
+TF-201-121-008,121,318,Nausea,Gastrointestinal disorders,Mild,N,Possible,2026-09-28,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-121-009,121,319,Diarrhoea,Gastrointestinal disorders,Moderate,N,Unlikely,2025-12-17,,Not recovered/Not resolved,Placebo
+TF-201-121-009,121,320,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2026-01-21,2026-02-27,Recovered/Resolved,Placebo
+TF-201-121-010,121,321,Alanine aminotransferase increased,Investigations,Severe,Y,Not related,2026-06-23,2026-07-23,Recovered/Resolved,Placebo
+TF-201-121-011,121,322,Headache,Nervous system disorders,Mild,N,Unlikely,2026-01-06,2026-02-09,Recovered/Resolved,TF-Compound 150mg
+TF-201-121-011,121,323,Injection site erythema,General disorders,Moderate,N,Possible,2025-11-17,2025-12-15,Recovered/Resolved,TF-Compound 150mg
+TF-201-121-013,121,324,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2025-07-14,2025-07-19,Recovered/Resolved,TF-Compound 150mg
+TF-201-121-014,121,325,Fatigue,General disorders,Mild,N,Possible,2025-11-17,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-121-015,121,326,Upper respiratory tract infection,Infections and infestations,Mild,N,Unlikely,2026-05-21,2026-05-25,Recovered/Resolved,TF-Compound 150mg
+TF-201-121-015,121,327,Nausea,Gastrointestinal disorders,Mild,N,Unlikely,2026-04-12,2026-05-11,Recovered/Resolved,TF-Compound 150mg
+TF-201-121-015,121,328,Dizziness,Nervous system disorders,Moderate,N,Probable,2026-05-06,2026-05-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-122-001,122,329,Injection site erythema,General disorders,Mild,N,Not related,2026-04-15,2026-04-30,Recovered/Resolved,Placebo
+TF-201-122-002,122,330,Alanine aminotransferase increased,Investigations,Severe,Y,Not related,2026-07-17,,Not recovered/Not resolved,Placebo
+TF-201-122-003,122,331,Hypertension,Vascular disorders,Moderate,N,Not related,2026-06-30,2026-07-02,Recovered/Resolved,TF-Compound 150mg
+TF-201-122-004,122,332,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2026-04-03,2026-05-10,Recovered/Resolved,TF-Compound 150mg
+TF-201-122-005,122,333,Upper respiratory tract infection,Infections and infestations,Moderate,N,Probable,2026-05-04,,Not recovered/Not resolved,Placebo
+TF-201-122-005,122,334,Injection site erythema,General disorders,Moderate,N,Unlikely,2026-04-02,2026-05-07,Recovered/Resolved,Placebo
+TF-201-122-007,122,335,Fatigue,General disorders,Mild,N,Possible,2025-07-30,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-122-008,122,336,Upper respiratory tract infection,Infections and infestations,Moderate,N,Not related,2025-06-22,,Not recovered/Not resolved,Placebo
+TF-201-122-010,122,337,Hypertension,Vascular disorders,Severe,Y,Possible,2026-07-18,2026-08-23,Recovered/Resolved,Placebo
+TF-201-122-011,122,338,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2025-10-28,2025-11-03,Recovered/Resolved,Placebo
+TF-201-122-012,122,339,Upper respiratory tract infection,Infections and infestations,Moderate,N,Unlikely,2025-12-10,2025-12-15,Recovered/Resolved,TF-Compound 150mg
+TF-201-122-014,122,340,Nausea,Gastrointestinal disorders,Mild,N,Not related,2026-07-25,2026-08-23,Recovered/Resolved,Placebo
+TF-201-122-015,122,341,Upper respiratory tract infection,Infections and infestations,Moderate,N,Possible,2026-10-17,2026-10-27,Recovered/Resolved,TF-Compound 150mg
+TF-201-122-018,122,342,Fatigue,General disorders,Moderate,N,Unlikely,2025-08-18,2025-09-16,Recovered/Resolved,Placebo
+TF-201-122-018,122,343,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2025-09-27,2025-10-25,Recovered/Resolved,Placebo
+TF-201-122-019,122,344,Upper respiratory tract infection,Infections and infestations,Mild,N,Unlikely,2026-05-23,,Not recovered/Not resolved,Placebo
+TF-201-122-020,122,345,Diarrhoea,Gastrointestinal disorders,Mild,N,Probable,2025-08-05,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-122-020,122,346,Fatigue,General disorders,Mild,N,Probable,2025-07-07,2025-07-31,Recovered/Resolved,TF-Compound 150mg
+TF-201-122-020,122,347,Upper respiratory tract infection,Infections and infestations,Moderate,N,Not related,2025-10-15,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-122-020,122,348,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2025-07-09,2025-07-14,Recovered/Resolved,TF-Compound 150mg
+TF-201-122-021,122,349,Fatigue,General disorders,Moderate,N,Possible,2025-06-14,2025-06-18,Recovered/Resolved,TF-Compound 150mg
+TF-201-122-022,122,350,Headache,Nervous system disorders,Moderate,N,Unlikely,2026-01-13,2026-02-13,Recovered/Resolved,Placebo
+TF-201-123-006,123,351,Injection site erythema,General disorders,Moderate,N,Not related,2026-07-26,2026-08-14,Recovered/Resolved,Placebo
+TF-201-123-007,123,352,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-04-17,2026-05-31,Recovered/Resolved,TF-Compound 150mg
+TF-201-123-008,123,353,Fatigue,General disorders,Moderate,N,Possible,2025-08-06,2025-09-19,Recovered/Resolved,Placebo
+TF-201-123-019,123,354,Injection site erythema,General disorders,Moderate,N,Possible,2026-04-05,,Not recovered/Not resolved,Placebo
+TF-201-123-020,123,355,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2025-08-18,,Not recovered/Not resolved,Placebo
+TF-201-123-020,123,356,Injection site erythema,General disorders,Moderate,N,Not related,2025-08-15,,Not recovered/Not resolved,Placebo
+TF-201-123-020,123,357,Dizziness,Nervous system disorders,Mild,N,Possible,2025-06-28,2025-07-23,Recovered/Resolved,Placebo
+TF-201-123-021,123,358,Nausea,Gastrointestinal disorders,Mild,N,Not related,2026-03-31,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-123-021,123,359,Upper respiratory tract infection,Infections and infestations,Mild,N,Unlikely,2026-02-22,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-123-022,123,360,Dizziness,Nervous system disorders,Mild,N,Unlikely,2025-12-24,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-123-023,123,361,Injection site erythema,General disorders,Mild,N,Not related,2026-07-14,2026-07-20,Recovered/Resolved,TF-Compound 150mg
+TF-201-124-004,124,362,Fatigue,General disorders,Mild,N,Not related,2026-09-15,2026-10-17,Recovered/Resolved,TF-Compound 150mg
+TF-201-124-005,124,363,Nausea,Gastrointestinal disorders,Mild,N,Not related,2026-08-29,2026-09-23,Recovered/Resolved,Placebo
+TF-201-124-007,124,364,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2026-02-10,2026-03-25,Recovered/Resolved,TF-Compound 150mg
+TF-201-124-008,124,365,Headache,Nervous system disorders,Moderate,N,Possible,2025-10-23,2025-11-05,Recovered/Resolved,Placebo
+TF-201-124-009,124,366,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-03-10,2026-03-24,Recovered/Resolved,Placebo
+TF-201-124-013,124,367,Injection site erythema,General disorders,Mild,N,Not related,2026-05-07,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-124-014,124,368,Fatigue,General disorders,Mild,N,Possible,2026-08-09,2026-09-21,Recovered/Resolved,Placebo
+TF-201-124-016,124,369,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-09-28,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-124-017,124,370,Nausea,Gastrointestinal disorders,Moderate,N,Not related,2026-04-15,2026-05-24,Recovered/Resolved,TF-Compound 150mg
+TF-201-125-001,125,371,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-07-28,,Not recovered/Not resolved,Placebo
+TF-201-125-002,125,372,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2025-10-13,2025-10-22,Recovered/Resolved,Placebo
+TF-201-125-002,125,373,Hypertension,Vascular disorders,Severe,Y,Possible,2025-10-09,2025-10-25,Recovered/Resolved,Placebo
+TF-201-125-002,125,374,Hypertension,Vascular disorders,Severe,Y,Possible,2025-11-18,2025-12-04,Recovered/Resolved,Placebo
+TF-201-125-008,125,375,Headache,Nervous system disorders,Mild,N,Unlikely,2026-03-06,2026-04-11,Recovered/Resolved,TF-Compound 150mg
+TF-201-125-008,125,376,Headache,Nervous system disorders,Mild,N,Possible,2026-03-08,2026-03-30,Recovered/Resolved,TF-Compound 150mg
+TF-201-125-009,125,377,Headache,Nervous system disorders,Moderate,N,Possible,2026-09-26,,Not recovered/Not resolved,Placebo
+TF-201-125-010,125,378,Injection site erythema,General disorders,Moderate,N,Possible,2025-12-30,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-125-012,125,379,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2026-02-24,,Not recovered/Not resolved,Placebo
+TF-201-125-013,125,380,Hypertension,Vascular disorders,Moderate,N,Possible,2026-02-26,2026-03-03,Recovered/Resolved,TF-Compound 150mg
+TF-201-125-013,125,381,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-02-07,2026-03-11,Recovered/Resolved,TF-Compound 150mg
+TF-201-125-014,125,382,Nausea,Gastrointestinal disorders,Mild,N,Not related,2025-04-24,2025-06-01,Recovered/Resolved,Placebo
+TF-201-125-015,125,383,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-03-22,2026-04-25,Recovered/Resolved,TF-Compound 150mg
+TF-201-125-015,125,384,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2025-12-26,2026-02-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-125-017,125,385,Headache,Nervous system disorders,Moderate,N,Probable,2025-08-07,2025-08-11,Recovered/Resolved,TF-Compound 150mg
+TF-201-125-018,125,386,Fatigue,General disorders,Mild,N,Not related,2025-10-27,,Not recovered/Not resolved,Placebo
+TF-201-125-018,125,387,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2025-07-28,,Not recovered/Not resolved,Placebo
+TF-201-125-019,125,388,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2025-04-21,2025-05-13,Recovered/Resolved,TF-Compound 150mg
+TF-201-125-020,125,389,Nausea,Gastrointestinal disorders,Mild,N,Possible,2025-11-19,2025-12-22,Recovered/Resolved,Placebo
+TF-201-126-001,126,390,Hypertension,Vascular disorders,Severe,Y,Not related,2025-08-27,,Not recovered/Not resolved,Placebo
+TF-201-126-004,126,391,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2025-11-03,2025-11-27,Recovered/Resolved,TF-Compound 150mg
+TF-201-126-004,126,392,Injection site erythema,General disorders,Moderate,N,Probable,2026-01-08,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-126-006,126,393,Diarrhoea,Gastrointestinal disorders,Moderate,N,Not related,2025-06-08,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-126-006,126,394,Nausea,Gastrointestinal disorders,Moderate,N,Probable,2025-06-07,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-126-006,126,395,Injection site erythema,General disorders,Moderate,N,Not related,2025-04-15,2025-05-19,Recovered/Resolved,TF-Compound 150mg
+TF-201-126-007,126,396,Injection site erythema,General disorders,Mild,N,Possible,2026-04-12,2026-05-14,Recovered/Resolved,TF-Compound 150mg
+TF-201-126-008,126,397,Diarrhoea,Gastrointestinal disorders,Moderate,N,Probable,2025-04-19,,Not recovered/Not resolved,Placebo
+TF-201-127-005,127,398,Diarrhoea,Gastrointestinal disorders,Moderate,N,Not related,2025-10-16,2025-10-27,Recovered/Resolved,TF-Compound 150mg
+TF-201-127-005,127,399,Hypertension,Vascular disorders,Severe,N,Not related,2025-08-20,2025-09-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-127-005,127,400,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2025-11-02,2025-11-24,Recovered/Resolved,TF-Compound 150mg
+TF-201-127-009,127,401,Dizziness,Nervous system disorders,Mild,N,Not related,2026-04-16,2026-04-28,Recovered/Resolved,Placebo
+TF-201-127-010,127,402,Injection site erythema,General disorders,Moderate,N,Not related,2025-08-16,2025-09-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-127-011,127,403,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2026-02-17,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-127-014,127,404,Fatigue,General disorders,Moderate,N,Possible,2025-10-10,2025-11-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-127-015,127,405,Hypertension,Vascular disorders,Severe,Y,Unlikely,2025-05-11,2025-06-19,Recovered/Resolved,Placebo
+TF-201-127-015,127,406,Fatigue,General disorders,Mild,N,Probable,2025-07-02,2025-07-30,Recovered/Resolved,Placebo
+TF-201-127-015,127,407,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2025-04-01,,Not recovered/Not resolved,Placebo
+TF-201-127-015,127,408,Alanine aminotransferase increased,Investigations,Severe,N,Not related,2025-02-20,,Not recovered/Not resolved,Placebo
+TF-201-127-016,127,409,Headache,Nervous system disorders,Mild,N,Possible,2026-04-01,2026-04-18,Recovered/Resolved,TF-Compound 150mg
+TF-201-127-016,127,410,Alanine aminotransferase increased,Investigations,Moderate,N,Probable,2026-05-21,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-127-019,127,411,Headache,Nervous system disorders,Mild,N,Probable,2026-07-27,2026-08-22,Recovered/Resolved,Placebo
+TF-201-127-019,127,412,Upper respiratory tract infection,Infections and infestations,Moderate,N,Not related,2026-08-06,2026-08-22,Recovered/Resolved,Placebo
+TF-201-127-019,127,413,Alanine aminotransferase increased,Investigations,Severe,Y,Not related,2026-07-25,2026-08-25,Recovered/Resolved,Placebo
+TF-201-127-023,127,414,Dizziness,Nervous system disorders,Mild,N,Not related,2026-02-17,2026-03-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-127-023,127,415,Fatigue,General disorders,Moderate,N,Unlikely,2026-03-04,2026-03-26,Recovered/Resolved,TF-Compound 150mg
+TF-201-127-024,127,416,Upper respiratory tract infection,Infections and infestations,Moderate,N,Unlikely,2025-06-23,2025-06-25,Recovered/Resolved,TF-Compound 150mg
+TF-201-127-024,127,417,Alanine aminotransferase increased,Investigations,Severe,N,Unlikely,2025-08-08,2025-09-01,Recovered/Resolved,TF-Compound 150mg
+TF-201-128-001,128,418,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-05-13,2026-05-26,Recovered/Resolved,Placebo
+TF-201-128-002,128,419,Upper respiratory tract infection,Infections and infestations,Moderate,N,Possible,2026-09-07,2026-09-12,Recovered/Resolved,Placebo
+TF-201-128-002,128,420,Alanine aminotransferase increased,Investigations,Severe,N,Not related,2026-10-23,,Not recovered/Not resolved,Placebo
+TF-201-128-005,128,421,Alanine aminotransferase increased,Investigations,Severe,Y,Probable,2026-05-20,2026-06-24,Recovered/Resolved,TF-Compound 150mg
+TF-201-128-008,128,422,Fatigue,General disorders,Moderate,N,Not related,2026-06-17,2026-07-17,Recovered/Resolved,TF-Compound 150mg
+TF-201-128-010,128,423,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2026-08-23,2026-09-19,Recovered/Resolved,Placebo
+TF-201-128-010,128,424,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2026-10-29,2026-12-10,Recovered/Resolved,Placebo
+TF-201-128-011,128,425,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2025-12-03,2026-01-03,Recovered/Resolved,Placebo
+TF-201-128-011,128,426,Nausea,Gastrointestinal disorders,Moderate,N,Probable,2025-08-20,,Not recovered/Not resolved,Placebo
+TF-201-128-013,128,427,Upper respiratory tract infection,Infections and infestations,Moderate,N,Unlikely,2026-10-21,2026-11-16,Recovered/Resolved,Placebo
+TF-201-128-015,128,428,Alanine aminotransferase increased,Investigations,Severe,Y,Not related,2026-06-26,2026-07-17,Recovered/Resolved,Placebo
+TF-201-128-015,128,429,Injection site erythema,General disorders,Mild,N,Not related,2026-02-28,,Not recovered/Not resolved,Placebo
+TF-201-129-001,129,430,Hypertension,Vascular disorders,Moderate,N,Possible,2026-01-30,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-129-002,129,431,Upper respiratory tract infection,Infections and infestations,Moderate,N,Not related,2026-03-12,2026-03-28,Recovered/Resolved,TF-Compound 150mg
+TF-201-129-003,129,432,Upper respiratory tract infection,Infections and infestations,Moderate,N,Probable,2026-03-29,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-129-005,129,433,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2025-10-10,,Not recovered/Not resolved,Placebo
+TF-201-129-006,129,434,Nausea,Gastrointestinal disorders,Moderate,N,Unlikely,2026-04-27,2026-05-25,Recovered/Resolved,TF-Compound 150mg
+TF-201-129-008,129,435,Dizziness,Nervous system disorders,Mild,N,Not related,2026-09-06,2026-10-01,Recovered/Resolved,TF-Compound 150mg
+TF-201-129-010,129,436,Nausea,Gastrointestinal disorders,Mild,N,Unlikely,2026-03-27,2026-04-03,Recovered/Resolved,Placebo
+TF-201-129-010,129,437,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2026-04-13,2026-05-11,Recovered/Resolved,Placebo
+TF-201-129-011,129,438,Injection site erythema,General disorders,Mild,N,Possible,2025-11-14,2025-11-28,Recovered/Resolved,Placebo
+TF-201-129-012,129,439,Dizziness,Nervous system disorders,Mild,N,Not related,2026-10-24,2026-10-30,Recovered/Resolved,Placebo
+TF-201-129-014,129,440,Injection site erythema,General disorders,Mild,N,Unlikely,2026-08-03,,Not recovered/Not resolved,Placebo
+TF-201-129-015,129,441,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-09-15,2026-10-14,Recovered/Resolved,TF-Compound 150mg
+TF-201-129-015,129,442,Injection site erythema,General disorders,Moderate,N,Probable,2026-08-26,2026-09-11,Recovered/Resolved,TF-Compound 150mg
+TF-201-129-018,129,443,Upper respiratory tract infection,Infections and infestations,Moderate,N,Unlikely,2026-07-14,,Not recovered/Not resolved,Placebo
+TF-201-129-018,129,444,Dizziness,Nervous system disorders,Mild,N,Possible,2026-03-15,2026-04-10,Recovered/Resolved,Placebo
+TF-201-129-019,129,445,Nausea,Gastrointestinal disorders,Moderate,N,Possible,2025-12-14,2026-01-17,Recovered/Resolved,Placebo
+TF-201-129-019,129,446,Alanine aminotransferase increased,Investigations,Moderate,N,Unlikely,2026-02-06,2026-02-16,Recovered/Resolved,Placebo
+TF-201-129-019,129,447,Diarrhoea,Gastrointestinal disorders,Moderate,N,Probable,2025-12-06,2026-01-11,Recovered/Resolved,Placebo
+TF-201-129-021,129,448,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2025-12-09,2026-01-04,Recovered/Resolved,TF-Compound 150mg
+TF-201-129-022,129,449,Headache,Nervous system disorders,Mild,N,Possible,2026-10-28,2026-11-23,Recovered/Resolved,TF-Compound 150mg
+TF-201-129-023,129,450,Fatigue,General disorders,Mild,N,Unlikely,2026-05-13,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-129-023,129,451,Dizziness,Nervous system disorders,Mild,N,Possible,2026-04-26,2026-06-05,Recovered/Resolved,TF-Compound 150mg
+TF-201-129-025,129,452,Nausea,Gastrointestinal disorders,Moderate,N,Unlikely,2026-03-01,2026-04-07,Recovered/Resolved,TF-Compound 150mg
+TF-201-129-025,129,453,Alanine aminotransferase increased,Investigations,Moderate,N,Unlikely,2025-12-17,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-130-001,130,454,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-07-27,2026-08-31,Recovered/Resolved,TF-Compound 150mg
+TF-201-130-003,130,455,Upper respiratory tract infection,Infections and infestations,Moderate,N,Not related,2026-06-27,,Not recovered/Not resolved,Placebo
+TF-201-130-003,130,456,Hypertension,Vascular disorders,Moderate,N,Unlikely,2026-06-16,2026-06-22,Recovered/Resolved,Placebo
+TF-201-130-004,130,457,Hypertension,Vascular disorders,Moderate,N,Possible,2026-10-03,2026-11-02,Recovered/Resolved,Placebo
+TF-201-130-004,130,458,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2026-07-16,2026-07-23,Recovered/Resolved,Placebo
+TF-201-130-005,130,459,Alanine aminotransferase increased,Investigations,Severe,Y,Not related,2025-11-18,2025-12-13,Recovered/Resolved,TF-Compound 150mg
+TF-201-130-005,130,460,Alanine aminotransferase increased,Investigations,Moderate,N,Not related,2026-02-08,2026-02-25,Recovered/Resolved,TF-Compound 150mg
+TF-201-130-006,130,461,Alanine aminotransferase increased,Investigations,Severe,N,Unlikely,2026-01-05,2026-02-08,Recovered/Resolved,TF-Compound 150mg
+TF-201-130-006,130,462,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2026-01-31,2026-02-13,Recovered/Resolved,TF-Compound 150mg
+TF-201-130-006,130,463,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2025-12-19,2026-01-21,Recovered/Resolved,TF-Compound 150mg
+TF-201-130-009,130,464,Hypertension,Vascular disorders,Moderate,N,Possible,2026-05-11,,Not recovered/Not resolved,Placebo
+TF-201-130-010,130,465,Headache,Nervous system disorders,Moderate,N,Possible,2025-08-06,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-130-010,130,466,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2025-08-07,2025-09-01,Recovered/Resolved,TF-Compound 150mg
+TF-201-130-011,130,467,Fatigue,General disorders,Moderate,N,Probable,2026-03-09,2026-03-27,Recovered/Resolved,Placebo
+TF-201-130-011,130,468,Injection site erythema,General disorders,Moderate,N,Unlikely,2026-01-20,2026-03-03,Recovered/Resolved,Placebo
+TF-201-130-014,130,469,Nausea,Gastrointestinal disorders,Mild,N,Possible,2025-11-03,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-130-015,130,470,Hypertension,Vascular disorders,Moderate,N,Possible,2025-10-27,2025-11-28,Recovered/Resolved,Placebo
+TF-201-130-016,130,471,Dizziness,Nervous system disorders,Moderate,N,Probable,2025-07-23,2025-08-18,Recovered/Resolved,Placebo
+TF-201-130-016,130,472,Nausea,Gastrointestinal disorders,Moderate,N,Possible,2025-11-24,2025-12-25,Recovered/Resolved,Placebo
+TF-201-130-016,130,473,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2025-08-30,2025-10-06,Recovered/Resolved,Placebo
+TF-201-130-017,130,474,Headache,Nervous system disorders,Mild,N,Not related,2026-01-03,2026-01-09,Recovered/Resolved,Placebo
+TF-201-130-019,130,475,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2025-10-18,,Not recovered/Not resolved,Placebo
+TF-201-130-019,130,476,Headache,Nervous system disorders,Mild,N,Possible,2025-06-30,,Not recovered/Not resolved,Placebo
+TF-201-131-001,131,477,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-05-26,,Not recovered/Not resolved,Placebo
+TF-201-131-003,131,478,Hypertension,Vascular disorders,Moderate,N,Not related,2025-07-26,2025-07-31,Recovered/Resolved,Placebo
+TF-201-131-004,131,479,Headache,Nervous system disorders,Mild,N,Unlikely,2026-02-16,2026-03-29,Recovered/Resolved,Placebo
+TF-201-131-005,131,480,Injection site erythema,General disorders,Mild,N,Probable,2026-06-03,2026-07-04,Recovered/Resolved,Placebo
+TF-201-131-006,131,481,Dizziness,Nervous system disorders,Mild,N,Probable,2025-11-06,2025-11-21,Recovered/Resolved,Placebo
+TF-201-131-007,131,482,Diarrhoea,Gastrointestinal disorders,Mild,N,Probable,2026-08-03,2026-09-13,Recovered/Resolved,Placebo
+TF-201-131-008,131,483,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-06-18,2026-06-26,Recovered/Resolved,TF-Compound 150mg
+TF-201-131-009,131,484,Injection site erythema,General disorders,Mild,N,Not related,2025-11-15,2025-12-11,Recovered/Resolved,Placebo
+TF-201-132-002,132,485,Alanine aminotransferase increased,Investigations,Severe,Y,Unlikely,2025-11-12,2025-12-24,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-004,132,486,Fatigue,General disorders,Moderate,N,Possible,2026-01-24,2026-03-09,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-005,132,487,Nausea,Gastrointestinal disorders,Moderate,N,Possible,2025-11-14,2025-11-22,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-005,132,488,Nausea,Gastrointestinal disorders,Moderate,N,Not related,2025-10-24,2025-10-31,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-006,132,489,Hypertension,Vascular disorders,Moderate,N,Unlikely,2026-03-20,2026-04-09,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-006,132,490,Alanine aminotransferase increased,Investigations,Severe,Y,Possible,2026-03-14,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-132-007,132,491,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2025-05-27,2025-06-17,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-010,132,492,Nausea,Gastrointestinal disorders,Moderate,N,Unlikely,2026-07-18,2026-08-20,Recovered/Resolved,Placebo
+TF-201-132-010,132,493,Diarrhoea,Gastrointestinal disorders,Mild,N,Unlikely,2026-08-28,2026-09-03,Recovered/Resolved,Placebo
+TF-201-132-013,132,494,Nausea,Gastrointestinal disorders,Moderate,N,Not related,2025-11-16,2025-12-20,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-013,132,495,Dizziness,Nervous system disorders,Mild,N,Probable,2025-12-28,2026-01-14,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-014,132,496,Hypertension,Vascular disorders,Severe,N,Not related,2026-08-23,2026-09-16,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-016,132,497,Injection site erythema,General disorders,Moderate,N,Unlikely,2025-11-13,2025-11-17,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-017,132,498,Fatigue,General disorders,Moderate,N,Possible,2025-06-19,2025-06-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-017,132,499,Fatigue,General disorders,Mild,N,Possible,2025-06-14,2025-07-01,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-019,132,500,Hypertension,Vascular disorders,Moderate,N,Probable,2026-04-14,2026-05-05,Recovered/Resolved,TF-Compound 150mg
+TF-201-132-022,132,501,Nausea,Gastrointestinal disorders,Moderate,N,Unlikely,2026-04-28,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-132-022,132,502,Hypertension,Vascular disorders,Severe,Y,Unlikely,2026-06-25,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-132-022,132,503,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-05-11,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-133-001,133,504,Injection site erythema,General disorders,Moderate,N,Not related,2026-12-11,2026-12-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-133-001,133,505,Fatigue,General disorders,Mild,N,Unlikely,2026-10-17,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-133-003,133,506,Upper respiratory tract infection,Infections and infestations,Mild,N,Possible,2026-08-31,,Not recovered/Not resolved,Placebo
+TF-201-133-004,133,507,Injection site erythema,General disorders,Moderate,N,Possible,2025-12-03,2026-01-03,Recovered/Resolved,Placebo
+TF-201-133-004,133,508,Hypertension,Vascular disorders,Severe,Y,Not related,2025-12-18,2026-01-04,Recovered/Resolved,Placebo
+TF-201-133-004,133,509,Upper respiratory tract infection,Infections and infestations,Moderate,N,Unlikely,2025-10-18,2025-11-05,Recovered/Resolved,Placebo
+TF-201-133-004,133,510,Injection site erythema,General disorders,Mild,N,Possible,2025-11-26,2025-12-06,Recovered/Resolved,Placebo
+TF-201-133-005,133,511,Dizziness,Nervous system disorders,Moderate,N,Unlikely,2025-10-18,,Not recovered/Not resolved,Placebo
+TF-201-133-005,133,512,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2025-11-19,2025-12-10,Recovered/Resolved,Placebo
+TF-201-133-006,133,513,Diarrhoea,Gastrointestinal disorders,Moderate,N,Probable,2026-11-18,2026-12-07,Recovered/Resolved,TF-Compound 150mg
+TF-201-133-006,133,514,Fatigue,General disorders,Mild,N,Not related,2026-10-01,2026-10-11,Recovered/Resolved,TF-Compound 150mg
+TF-201-133-006,133,515,Dizziness,Nervous system disorders,Mild,N,Not related,2026-11-08,2026-11-14,Recovered/Resolved,TF-Compound 150mg
+TF-201-133-007,133,516,Upper respiratory tract infection,Infections and infestations,Mild,N,Unlikely,2026-06-16,2026-07-16,Recovered/Resolved,TF-Compound 150mg
+TF-201-133-008,133,517,Nausea,Gastrointestinal disorders,Mild,N,Unlikely,2026-08-08,,Not recovered/Not resolved,Placebo
+TF-201-133-009,133,518,Dizziness,Nervous system disorders,Moderate,N,Unlikely,2026-09-22,2026-10-09,Recovered/Resolved,Placebo
+TF-201-133-010,133,519,Alanine aminotransferase increased,Investigations,Moderate,N,Possible,2025-09-24,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-133-012,133,520,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-06-27,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-133-012,133,521,Headache,Nervous system disorders,Mild,N,Possible,2026-08-03,2026-09-14,Recovered/Resolved,TF-Compound 150mg
+TF-201-133-012,133,522,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-07-03,2026-08-01,Recovered/Resolved,TF-Compound 150mg
+TF-201-133-014,133,523,Diarrhoea,Gastrointestinal disorders,Mild,N,Probable,2025-11-05,2025-11-27,Recovered/Resolved,Placebo
+TF-201-133-014,133,524,Upper respiratory tract infection,Infections and infestations,Moderate,N,Not related,2025-08-21,,Not recovered/Not resolved,Placebo
+TF-201-133-016,133,525,Nasopharyngitis,Infections and infestations,Mild,N,Unlikely,2026-03-25,2026-03-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-133-017,133,526,Injection site erythema,General disorders,Mild,N,Probable,2026-08-18,2026-09-15,Recovered/Resolved,TF-Compound 150mg
+TF-201-133-017,133,527,Hypertension,Vascular disorders,Severe,Y,Possible,2026-10-18,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-133-021,133,528,Hypertension,Vascular disorders,Moderate,N,Possible,2026-05-29,2026-06-04,Recovered/Resolved,Placebo
+TF-201-133-021,133,529,Diarrhoea,Gastrointestinal disorders,Mild,N,Probable,2026-10-15,2026-10-21,Recovered/Resolved,Placebo
+TF-201-133-023,133,530,Fatigue,General disorders,Moderate,N,Possible,2025-10-17,2025-10-30,Recovered/Resolved,TF-Compound 150mg
+TF-201-134-004,134,531,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2025-10-25,2025-11-12,Recovered/Resolved,TF-Compound 150mg
+TF-201-134-005,134,532,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-02-24,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-134-005,134,533,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-04-01,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-134-007,134,534,Hypertension,Vascular disorders,Moderate,N,Possible,2025-06-12,2025-07-20,Recovered/Resolved,Placebo
+TF-201-134-009,134,535,Hypertension,Vascular disorders,Severe,N,Possible,2026-06-03,,Not recovered/Not resolved,Placebo
+TF-201-134-012,134,536,Alanine aminotransferase increased,Investigations,Severe,Y,Possible,2025-06-02,2025-07-02,Recovered/Resolved,TF-Compound 150mg
+TF-201-134-012,134,537,Headache,Nervous system disorders,Mild,N,Unlikely,2025-06-19,2025-07-01,Recovered/Resolved,TF-Compound 150mg
+TF-201-134-013,134,538,Dizziness,Nervous system disorders,Moderate,N,Unlikely,2026-04-30,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-134-014,134,539,Upper respiratory tract infection,Infections and infestations,Mild,N,Not related,2026-04-08,2026-04-25,Recovered/Resolved,Placebo
+TF-201-134-014,134,540,Headache,Nervous system disorders,Mild,N,Possible,2026-06-23,2026-07-11,Recovered/Resolved,Placebo
+TF-201-134-014,134,541,Alanine aminotransferase increased,Investigations,Severe,N,Not related,2026-06-06,2026-07-02,Recovered/Resolved,Placebo
+TF-201-135-001,135,542,Upper respiratory tract infection,Infections and infestations,Mild,N,Probable,2026-01-29,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-135-004,135,543,Alanine aminotransferase increased,Investigations,Moderate,N,Probable,2025-12-02,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-135-005,135,544,Dizziness,Nervous system disorders,Mild,N,Not related,2026-06-29,2026-07-20,Recovered/Resolved,Placebo
+TF-201-135-006,135,545,Injection site erythema,General disorders,Mild,N,Not related,2025-04-11,,Not recovered/Not resolved,Placebo
+TF-201-135-008,135,546,Hypertension,Vascular disorders,Severe,N,Unlikely,2026-03-29,2026-04-07,Recovered/Resolved,TF-Compound 150mg
+TF-201-135-011,135,547,Hypertension,Vascular disorders,Moderate,N,Unlikely,2025-04-29,2025-05-25,Recovered/Resolved,Placebo
+TF-201-135-012,135,548,Dizziness,Nervous system disorders,Mild,N,Probable,2025-06-26,2025-08-02,Recovered/Resolved,Placebo
+TF-201-136-002,136,549,Nausea,Gastrointestinal disorders,Mild,N,Possible,2025-12-11,2025-12-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-136-002,136,550,Nasopharyngitis,Infections and infestations,Mild,N,Probable,2026-02-15,2026-03-21,Recovered/Resolved,TF-Compound 150mg
+TF-201-136-004,136,551,Fatigue,General disorders,Moderate,N,Possible,2026-07-19,2026-08-30,Recovered/Resolved,Placebo
+TF-201-136-004,136,552,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-08-23,2026-10-04,Recovered/Resolved,Placebo
+TF-201-136-005,136,553,Fatigue,General disorders,Mild,N,Not related,2026-10-01,2026-11-09,Recovered/Resolved,Placebo
+TF-201-136-006,136,554,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2025-11-05,,Not recovered/Not resolved,Placebo
+TF-201-136-006,136,555,Upper respiratory tract infection,Infections and infestations,Moderate,N,Probable,2025-10-20,,Not recovered/Not resolved,Placebo
+TF-201-136-008,136,556,Headache,Nervous system disorders,Mild,N,Not related,2026-01-11,2026-01-29,Recovered/Resolved,Placebo
+TF-201-136-011,136,557,Headache,Nervous system disorders,Moderate,N,Possible,2025-07-17,2025-08-17,Recovered/Resolved,TF-Compound 150mg
+TF-201-136-011,136,558,Injection site erythema,General disorders,Mild,N,Probable,2025-08-03,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-136-012,136,559,Diarrhoea,Gastrointestinal disorders,Mild,N,Possible,2026-07-22,2026-08-03,Recovered/Resolved,TF-Compound 150mg
+TF-201-136-013,136,560,Injection site erythema,General disorders,Moderate,N,Possible,2026-06-07,2026-07-12,Recovered/Resolved,TF-Compound 150mg
+TF-201-136-014,136,561,Fatigue,General disorders,Moderate,N,Not related,2026-04-07,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-136-018,136,562,Headache,Nervous system disorders,Mild,N,Not related,2025-11-08,2025-12-20,Recovered/Resolved,Placebo
+TF-201-136-020,136,563,Nausea,Gastrointestinal disorders,Mild,N,Not related,2026-09-11,2026-10-10,Recovered/Resolved,TF-Compound 150mg
+TF-201-136-020,136,564,Alanine aminotransferase increased,Investigations,Moderate,N,Probable,2026-08-22,2026-09-24,Recovered/Resolved,TF-Compound 150mg
+TF-201-136-021,136,565,Upper respiratory tract infection,Infections and infestations,Moderate,N,Unlikely,2026-04-17,2026-05-23,Recovered/Resolved,TF-Compound 150mg
+TF-201-136-022,136,566,Injection site erythema,General disorders,Mild,N,Probable,2025-11-14,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-137-007,137,567,Hypertension,Vascular disorders,Moderate,N,Unlikely,2026-11-18,2026-12-12,Recovered/Resolved,Placebo
+TF-201-137-009,137,568,Headache,Nervous system disorders,Mild,N,Not related,2026-04-02,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-137-013,137,569,Diarrhoea,Gastrointestinal disorders,Moderate,N,Not related,2026-03-14,2026-04-10,Recovered/Resolved,TF-Compound 150mg
+TF-201-137-013,137,570,Hypertension,Vascular disorders,Severe,N,Probable,2026-03-13,2026-04-03,Recovered/Resolved,TF-Compound 150mg
+TF-201-137-014,137,571,Nasopharyngitis,Infections and infestations,Mild,N,Not related,2026-01-10,,Not recovered/Not resolved,Placebo
+TF-201-137-015,137,572,Hypertension,Vascular disorders,Moderate,N,Possible,2025-06-01,2025-06-10,Recovered/Resolved,Placebo
+TF-201-137-020,137,573,Diarrhoea,Gastrointestinal disorders,Mild,N,Not related,2026-04-26,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-137-021,137,574,Dizziness,Nervous system disorders,Moderate,N,Possible,2025-10-05,2025-10-14,Recovered/Resolved,Placebo
+TF-201-138-003,138,575,Headache,Nervous system disorders,Mild,N,Unlikely,2026-07-22,2026-07-29,Recovered/Resolved,TF-Compound 150mg
+TF-201-138-006,138,576,Headache,Nervous system disorders,Mild,N,Unlikely,2026-03-21,2026-03-23,Recovered/Resolved,Placebo
+TF-201-138-009,138,577,Injection site erythema,General disorders,Mild,N,Possible,2026-02-22,,Not recovered/Not resolved,TF-Compound 150mg
+TF-201-138-010,138,578,Headache,Nervous system disorders,Mild,N,Probable,2025-12-26,2026-02-04,Recovered/Resolved,Placebo
+TF-201-138-010,138,579,Hypertension,Vascular disorders,Moderate,N,Not related,2025-10-08,2025-10-13,Recovered/Resolved,Placebo
+TF-201-138-013,138,580,Headache,Nervous system disorders,Moderate,N,Not related,2025-10-16,2025-11-25,Recovered/Resolved,Placebo
+TF-201-138-016,138,581,Headache,Nervous system disorders,Mild,N,Probable,2026-04-12,,Not recovered/Not resolved,Placebo
+TF-201-138-016,138,582,Nasopharyngitis,Infections and infestations,Mild,N,Possible,2026-01-17,2026-02-09,Recovered/Resolved,Placebo
+TF-201-138-016,138,583,Diarrhoea,Gastrointestinal disorders,Moderate,N,Probable,2026-01-18,2026-02-22,Recovered/Resolved,Placebo
+TF-201-138-019,138,584,Headache,Nervous system disorders,Moderate,N,Unlikely,2026-09-30,2026-11-05,Recovered/Resolved,TF-Compound 150mg
+TF-201-138-020,138,585,Dizziness,Nervous system disorders,Moderate,N,Not related,2026-04-18,2026-05-11,Recovered/Resolved,Placebo

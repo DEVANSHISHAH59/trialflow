@@ -1,0 +1,3989 @@
+{
+  "generated_utc": "2026-09-08T21:36:08Z",
+  "disclaimer": "All data is synthetic. No real patients, sites, investigators or products are represented. SDTM mapping is a simplified demonstration model.",
+  "overview": {
+    "study": {
+      "studyid": "TF-201",
+      "title": "A Phase II, Randomised, Double-Blind Study of TF-Compound vs Placebo",
+      "phase": "Phase II",
+      "indication": "Moderate plaque psoriasis",
+      "target_enrollment": 900,
+      "planned_sites": 40,
+      "arms": [
+        "TF-Compound 150mg",
+        "Placebo"
+      ],
+      "first_patient_in": "2025-02-03",
+      "data_cut": "2026-09-05"
+    },
+    "trial_status": "Needs Attention",
+    "trial_health": 76,
+    "health_components": [
+      {
+        "name": "recruitment",
+        "value": 81.4,
+        "rag": "green"
+      },
+      {
+        "name": "data_completeness",
+        "value": 97.9,
+        "rag": "green"
+      },
+      {
+        "name": "query_backlog",
+        "value": 54.5,
+        "rag": "red"
+      },
+      {
+        "name": "site_performance",
+        "value": 76.3,
+        "rag": "amber"
+      },
+      {
+        "name": "protocol_deviations",
+        "value": 49.3,
+        "rag": "red"
+      }
+    ],
+    "kpis": [
+      {
+        "label": "Patients enrolled",
+        "value": "733 / 900",
+        "sub": "81.4% of target"
+      },
+      {
+        "label": "Recruitment rate",
+        "value": "81.4%",
+        "sub": "cumulative vs plan"
+      },
+      {
+        "label": "Active sites",
+        "value": 38,
+        "sub": "40 planned"
+      },
+      {
+        "label": "Data completeness",
+        "value": "97.9%",
+        "sub": "required CRFs entered"
+      },
+      {
+        "label": "Open queries",
+        "value": 400,
+        "sub": "188 aged >45d"
+      },
+      {
+        "label": "Protocol deviations",
+        "value": 123,
+        "sub": "11 major"
+      },
+      {
+        "label": "AE reports",
+        "value": 585,
+        "sub": "38 serious"
+      },
+      {
+        "label": "Sites at risk",
+        "value": 9,
+        "sub": "5 high risk"
+      }
+    ],
+    "data_quality_score": 98.1,
+    "records_to_review": 695
+  },
+  "recruitment": {
+    "months": [
+      "2025-02",
+      "2025-03",
+      "2025-04",
+      "2025-05",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09"
+    ],
+    "actual": [
+      5,
+      29,
+      48,
+      80,
+      126,
+      170,
+      216,
+      260,
+      308,
+      353,
+      390,
+      441,
+      494,
+      533,
+      577,
+      621,
+      659,
+      693,
+      728,
+      733
+    ],
+    "plan": [
+      45,
+      90,
+      135,
+      180,
+      225,
+      270,
+      315,
+      360,
+      405,
+      450,
+      495,
+      540,
+      585,
+      630,
+      675,
+      720,
+      765,
+      810,
+      855,
+      900
+    ]
+  },
+  "enrollment_by_country": [
+    {
+      "country": "Ireland",
+      "enrolled": 120
+    },
+    {
+      "country": "Germany",
+      "enrolled": 117
+    },
+    {
+      "country": "Spain",
+      "enrolled": 105
+    },
+    {
+      "country": "Italy",
+      "enrolled": 90
+    },
+    {
+      "country": "Poland",
+      "enrolled": 90
+    },
+    {
+      "country": "France",
+      "enrolled": 82
+    },
+    {
+      "country": "United Kingdom",
+      "enrolled": 80
+    },
+    {
+      "country": "Netherlands",
+      "enrolled": 49
+    }
+  ],
+  "sites": [
+    {
+      "site_id": 108,
+      "country": "Ireland",
+      "pi_name": "Dr R. Santos",
+      "monitor": "CRA-03",
+      "target_enrollment": 22,
+      "enrolled": 9,
+      "recruitment_pct": 40.9,
+      "form_completeness": 92.6,
+      "open_queries": 14,
+      "deviations": 6,
+      "risk_score": 81.9,
+      "risk_band": "red",
+      "risk_reasons": [
+        "Recruitment 41% of target",
+        "14 open queries (1.6 per subject)",
+        "6 protocol deviations"
+      ],
+      "recommended_action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+    },
+    {
+      "site_id": 102,
+      "country": "Germany",
+      "pi_name": "Dr K. Novak",
+      "monitor": "CRA-02",
+      "target_enrollment": 22,
+      "enrolled": 7,
+      "recruitment_pct": 31.8,
+      "form_completeness": 92.8,
+      "open_queries": 8,
+      "deviations": 4,
+      "risk_score": 80.2,
+      "risk_band": "red",
+      "risk_reasons": [
+        "Recruitment 32% of target",
+        "8 open queries (1.1 per subject)",
+        "4 protocol deviations"
+      ],
+      "recommended_action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+    },
+    {
+      "site_id": 126,
+      "country": "Spain",
+      "pi_name": "Dr P. Dubois",
+      "monitor": "CRA-01",
+      "target_enrollment": 27,
+      "enrolled": 8,
+      "recruitment_pct": 29.6,
+      "form_completeness": 94.8,
+      "open_queries": 9,
+      "deviations": 9,
+      "risk_score": 78.4,
+      "risk_band": "red",
+      "risk_reasons": [
+        "Recruitment 30% of target",
+        "9 open queries (1.1 per subject)",
+        "9 protocol deviations"
+      ],
+      "recommended_action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+    },
+    {
+      "site_id": 119,
+      "country": "Poland",
+      "pi_name": "Dr H. Andersen",
+      "monitor": "CRA-04",
+      "target_enrollment": 19,
+      "enrolled": 9,
+      "recruitment_pct": 47.4,
+      "form_completeness": 95.5,
+      "open_queries": 12,
+      "deviations": 5,
+      "risk_score": 72.0,
+      "risk_band": "red",
+      "risk_reasons": [
+        "Recruitment 47% of target",
+        "12 open queries (1.3 per subject)",
+        "5 protocol deviations"
+      ],
+      "recommended_action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+    },
+    {
+      "site_id": 131,
+      "country": "United Kingdom",
+      "pi_name": "Dr A. Byrne",
+      "monitor": "CRA-01",
+      "target_enrollment": 21,
+      "enrolled": 9,
+      "recruitment_pct": 42.9,
+      "form_completeness": 95.5,
+      "open_queries": 7,
+      "deviations": 4,
+      "risk_score": 62.2,
+      "risk_band": "red",
+      "risk_reasons": [
+        "Recruitment 43% of target",
+        "7 open queries (0.8 per subject)",
+        "4 protocol deviations"
+      ],
+      "recommended_action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+    },
+    {
+      "site_id": 103,
+      "country": "Netherlands",
+      "pi_name": "Dr M. Rossi",
+      "monitor": "CRA-03",
+      "target_enrollment": 23,
+      "enrolled": 13,
+      "recruitment_pct": 56.5,
+      "form_completeness": 97.1,
+      "open_queries": 11,
+      "deviations": 2,
+      "risk_score": 39.9,
+      "risk_band": "amber",
+      "risk_reasons": [
+        "Recruitment 56% of target",
+        "11 open queries (0.8 per subject)"
+      ],
+      "recommended_action": "Increase monitoring frequency; agree recruitment and query-resolution plan with site."
+    },
+    {
+      "site_id": 107,
+      "country": "United Kingdom",
+      "pi_name": "Dr J. Kowalski",
+      "monitor": "CRA-02",
+      "target_enrollment": 22,
+      "enrolled": 12,
+      "recruitment_pct": 54.5,
+      "form_completeness": 96.9,
+      "open_queries": 8,
+      "deviations": 2,
+      "risk_score": 38.8,
+      "risk_band": "amber",
+      "risk_reasons": [
+        "Recruitment 54% of target",
+        "8 open queries (0.7 per subject)"
+      ],
+      "recommended_action": "Increase monitoring frequency; agree recruitment and query-resolution plan with site."
+    },
+    {
+      "site_id": 135,
+      "country": "Netherlands",
+      "pi_name": "Dr L. Meyer",
+      "monitor": "CRA-05",
+      "target_enrollment": 20,
+      "enrolled": 13,
+      "recruitment_pct": 65.0,
+      "form_completeness": 98.0,
+      "open_queries": 6,
+      "deviations": 4,
+      "risk_score": 35.7,
+      "risk_band": "amber",
+      "risk_reasons": [
+        "Recruitment 65% of target",
+        "4 protocol deviations"
+      ],
+      "recommended_action": "Increase monitoring frequency; agree recruitment and query-resolution plan with site."
+    },
+    {
+      "site_id": 114,
+      "country": "Poland",
+      "pi_name": "Dr S. Kaur",
+      "monitor": "CRA-04",
+      "target_enrollment": 21,
+      "enrolled": 14,
+      "recruitment_pct": 66.7,
+      "form_completeness": 97.9,
+      "open_queries": 7,
+      "deviations": 3,
+      "risk_score": 31.0,
+      "risk_band": "amber",
+      "risk_reasons": [
+        "Recruitment 67% of target"
+      ],
+      "recommended_action": "Increase monitoring frequency; agree recruitment and query-resolution plan with site."
+    },
+    {
+      "site_id": 121,
+      "country": "France",
+      "pi_name": "Dr A. Byrne",
+      "monitor": "CRA-01",
+      "target_enrollment": 23,
+      "enrolled": 15,
+      "recruitment_pct": 65.2,
+      "form_completeness": 99.2,
+      "open_queries": 4,
+      "deviations": 3,
+      "risk_score": 25.4,
+      "risk_band": "green",
+      "risk_reasons": [
+        "Recruitment 65% of target"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 109,
+      "country": "Poland",
+      "pi_name": "Dr H. Andersen",
+      "monitor": "CRA-04",
+      "target_enrollment": 28,
+      "enrolled": 23,
+      "recruitment_pct": 82.1,
+      "form_completeness": 98.7,
+      "open_queries": 14,
+      "deviations": 5,
+      "risk_score": 24.2,
+      "risk_band": "green",
+      "risk_reasons": [
+        "14 open queries (0.6 per subject)"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 111,
+      "country": "Spain",
+      "pi_name": "Dr A. Byrne",
+      "monitor": "CRA-01",
+      "target_enrollment": 27,
+      "enrolled": 22,
+      "recruitment_pct": 81.5,
+      "form_completeness": 99.6,
+      "open_queries": 4,
+      "deviations": 8,
+      "risk_score": 23.5,
+      "risk_band": "green",
+      "risk_reasons": [
+        "8 protocol deviations"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 105,
+      "country": "Ireland",
+      "pi_name": "Dr L. Meyer",
+      "monitor": "CRA-05",
+      "target_enrollment": 26,
+      "enrolled": 25,
+      "recruitment_pct": 96.2,
+      "form_completeness": 97.2,
+      "open_queries": 11,
+      "deviations": 6,
+      "risk_score": 23.1,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 129,
+      "country": "Ireland",
+      "pi_name": "Dr H. Andersen",
+      "monitor": "CRA-04",
+      "target_enrollment": 27,
+      "enrolled": 26,
+      "recruitment_pct": 96.3,
+      "form_completeness": 97.6,
+      "open_queries": 12,
+      "deviations": 6,
+      "risk_score": 22.4,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 123,
+      "country": "Spain",
+      "pi_name": "Dr M. Rossi",
+      "monitor": "CRA-03",
+      "target_enrollment": 28,
+      "enrolled": 25,
+      "recruitment_pct": 89.3,
+      "form_completeness": 98.9,
+      "open_queries": 13,
+      "deviations": 6,
+      "risk_score": 22.1,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 101,
+      "country": "France",
+      "pi_name": "Dr A. Byrne",
+      "monitor": "CRA-01",
+      "target_enrollment": 27,
+      "enrolled": 29,
+      "recruitment_pct": 107.4,
+      "form_completeness": 97.7,
+      "open_queries": 17,
+      "deviations": 5,
+      "risk_score": 21.5,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 116,
+      "country": "Poland",
+      "pi_name": "Dr P. Dubois",
+      "monitor": "CRA-01",
+      "target_enrollment": 29,
+      "enrolled": 28,
+      "recruitment_pct": 96.6,
+      "form_completeness": 98.3,
+      "open_queries": 20,
+      "deviations": 4,
+      "risk_score": 21.3,
+      "risk_band": "green",
+      "risk_reasons": [
+        "20 open queries (0.7 per subject)"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 130,
+      "country": "United Kingdom",
+      "pi_name": "Dr T. Nguyen",
+      "monitor": "CRA-05",
+      "target_enrollment": 23,
+      "enrolled": 20,
+      "recruitment_pct": 87.0,
+      "form_completeness": 98.2,
+      "open_queries": 16,
+      "deviations": 2,
+      "risk_score": 20.7,
+      "risk_band": "green",
+      "risk_reasons": [
+        "16 open queries (0.8 per subject)"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 127,
+      "country": "Spain",
+      "pi_name": "Dr J. Kowalski",
+      "monitor": "CRA-02",
+      "target_enrollment": 27,
+      "enrolled": 26,
+      "recruitment_pct": 96.3,
+      "form_completeness": 97.9,
+      "open_queries": 15,
+      "deviations": 4,
+      "risk_score": 20.1,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 137,
+      "country": "Italy",
+      "pi_name": "Dr J. Kowalski",
+      "monitor": "CRA-02",
+      "target_enrollment": 25,
+      "enrolled": 21,
+      "recruitment_pct": 84.0,
+      "form_completeness": 98.0,
+      "open_queries": 9,
+      "deviations": 4,
+      "risk_score": 19.8,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 117,
+      "country": "France",
+      "pi_name": "Dr J. Kowalski",
+      "monitor": "CRA-02",
+      "target_enrollment": 19,
+      "enrolled": 17,
+      "recruitment_pct": 89.5,
+      "form_completeness": 97.8,
+      "open_queries": 14,
+      "deviations": 1,
+      "risk_score": 19.6,
+      "risk_band": "green",
+      "risk_reasons": [
+        "14 open queries (0.8 per subject)"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 120,
+      "country": "Germany",
+      "pi_name": "Dr T. Nguyen",
+      "monitor": "CRA-05",
+      "target_enrollment": 27,
+      "enrolled": 25,
+      "recruitment_pct": 92.6,
+      "form_completeness": 97.8,
+      "open_queries": 16,
+      "deviations": 3,
+      "risk_score": 19.6,
+      "risk_band": "green",
+      "risk_reasons": [
+        "16 open queries (0.6 per subject)"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 134,
+      "country": "United Kingdom",
+      "pi_name": "Dr S. Kaur",
+      "monitor": "CRA-04",
+      "target_enrollment": 18,
+      "enrolled": 14,
+      "recruitment_pct": 77.8,
+      "form_completeness": 98.8,
+      "open_queries": 6,
+      "deviations": 2,
+      "risk_score": 19.5,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 122,
+      "country": "Germany",
+      "pi_name": "Dr K. Novak",
+      "monitor": "CRA-02",
+      "target_enrollment": 28,
+      "enrolled": 23,
+      "recruitment_pct": 82.1,
+      "form_completeness": 98.9,
+      "open_queries": 13,
+      "deviations": 3,
+      "risk_score": 18.9,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 138,
+      "country": "Ireland",
+      "pi_name": "Dr R. Santos",
+      "monitor": "CRA-03",
+      "target_enrollment": 28,
+      "enrolled": 22,
+      "recruitment_pct": 78.6,
+      "form_completeness": 97.7,
+      "open_queries": 10,
+      "deviations": 2,
+      "risk_score": 18.4,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 124,
+      "country": "Germany",
+      "pi_name": "Dr S. Kaur",
+      "monitor": "CRA-04",
+      "target_enrollment": 20,
+      "enrolled": 18,
+      "recruitment_pct": 90.0,
+      "form_completeness": 97.4,
+      "open_queries": 13,
+      "deviations": 1,
+      "risk_score": 18.3,
+      "risk_band": "green",
+      "risk_reasons": [
+        "13 open queries (0.7 per subject)"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 125,
+      "country": "Italy",
+      "pi_name": "Dr L. Meyer",
+      "monitor": "CRA-05",
+      "target_enrollment": 25,
+      "enrolled": 22,
+      "recruitment_pct": 88.0,
+      "form_completeness": 97.9,
+      "open_queries": 14,
+      "deviations": 2,
+      "risk_score": 18.0,
+      "risk_band": "green",
+      "risk_reasons": [
+        "14 open queries (0.6 per subject)"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 118,
+      "country": "France",
+      "pi_name": "Dr R. Santos",
+      "monitor": "CRA-03",
+      "target_enrollment": 25,
+      "enrolled": 21,
+      "recruitment_pct": 84.0,
+      "form_completeness": 98.2,
+      "open_queries": 9,
+      "deviations": 3,
+      "risk_score": 17.2,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 112,
+      "country": "Spain",
+      "pi_name": "Dr K. Novak",
+      "monitor": "CRA-02",
+      "target_enrollment": 23,
+      "enrolled": 24,
+      "recruitment_pct": 104.3,
+      "form_completeness": 98.1,
+      "open_queries": 15,
+      "deviations": 2,
+      "risk_score": 17.1,
+      "risk_band": "green",
+      "risk_reasons": [
+        "15 open queries (0.6 per subject)"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 133,
+      "country": "Germany",
+      "pi_name": "Dr M. Rossi",
+      "monitor": "CRA-03",
+      "target_enrollment": 24,
+      "enrolled": 23,
+      "recruitment_pct": 95.8,
+      "form_completeness": 98.1,
+      "open_queries": 10,
+      "deviations": 3,
+      "risk_score": 16.3,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 128,
+      "country": "Ireland",
+      "pi_name": "Dr R. Santos",
+      "monitor": "CRA-03",
+      "target_enrollment": 27,
+      "enrolled": 16,
+      "recruitment_pct": 59.3,
+      "form_completeness": 99.2,
+      "open_queries": 2,
+      "deviations": 0,
+      "risk_score": 16.0,
+      "risk_band": "green",
+      "risk_reasons": [
+        "Recruitment 59% of target"
+      ],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 132,
+      "country": "Italy",
+      "pi_name": "Dr K. Novak",
+      "monitor": "CRA-02",
+      "target_enrollment": 24,
+      "enrolled": 22,
+      "recruitment_pct": 91.7,
+      "form_completeness": 98.7,
+      "open_queries": 9,
+      "deviations": 3,
+      "risk_score": 15.4,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 104,
+      "country": "United Kingdom",
+      "pi_name": "Dr S. Kaur",
+      "monitor": "CRA-04",
+      "target_enrollment": 24,
+      "enrolled": 25,
+      "recruitment_pct": 104.2,
+      "form_completeness": 97.1,
+      "open_queries": 14,
+      "deviations": 1,
+      "risk_score": 15.2,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 106,
+      "country": "Netherlands",
+      "pi_name": "Dr P. Dubois",
+      "monitor": "CRA-01",
+      "target_enrollment": 29,
+      "enrolled": 23,
+      "recruitment_pct": 79.3,
+      "form_completeness": 98.4,
+      "open_queries": 7,
+      "deviations": 1,
+      "risk_score": 12.2,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 110,
+      "country": "Poland",
+      "pi_name": "Dr T. Nguyen",
+      "monitor": "CRA-05",
+      "target_enrollment": 18,
+      "enrolled": 16,
+      "recruitment_pct": 88.9,
+      "form_completeness": 98.4,
+      "open_queries": 6,
+      "deviations": 1,
+      "risk_score": 11.5,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 115,
+      "country": "Germany",
+      "pi_name": "Dr L. Meyer",
+      "monitor": "CRA-05",
+      "target_enrollment": 24,
+      "enrolled": 21,
+      "recruitment_pct": 87.5,
+      "form_completeness": 99.3,
+      "open_queries": 6,
+      "deviations": 2,
+      "risk_score": 10.5,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 113,
+      "country": "Italy",
+      "pi_name": "Dr M. Rossi",
+      "monitor": "CRA-03",
+      "target_enrollment": 26,
+      "enrolled": 25,
+      "recruitment_pct": 96.2,
+      "form_completeness": 98.7,
+      "open_queries": 10,
+      "deviations": 1,
+      "risk_score": 10.4,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    },
+    {
+      "site_id": 136,
+      "country": "Ireland",
+      "pi_name": "Dr P. Dubois",
+      "monitor": "CRA-01",
+      "target_enrollment": 23,
+      "enrolled": 22,
+      "recruitment_pct": 95.7,
+      "form_completeness": 98.2,
+      "open_queries": 9,
+      "deviations": 0,
+      "risk_score": 9.2,
+      "risk_band": "green",
+      "risk_reasons": [],
+      "recommended_action": "Routine monitoring."
+    }
+  ],
+  "data_quality": {
+    "score": 98.1,
+    "records_to_review": 695,
+    "evaluable_points": 35763,
+    "by_rule": [
+      {
+        "rule": "Missing required data",
+        "count": 328
+      },
+      {
+        "rule": "Out-of-range value",
+        "count": 265
+      },
+      {
+        "rule": "Duplicate record",
+        "count": 47
+      },
+      {
+        "rule": "Impossible date",
+        "count": 29
+      },
+      {
+        "rule": "Cross-form inconsistency",
+        "count": 26
+      }
+    ],
+    "by_site": [
+      {
+        "site_id": 101,
+        "findings": 34
+      },
+      {
+        "site_id": 102,
+        "findings": 12
+      },
+      {
+        "site_id": 103,
+        "findings": 14
+      },
+      {
+        "site_id": 104,
+        "findings": 31
+      },
+      {
+        "site_id": 105,
+        "findings": 23
+      },
+      {
+        "site_id": 106,
+        "findings": 17
+      },
+      {
+        "site_id": 107,
+        "findings": 14
+      },
+      {
+        "site_id": 108,
+        "findings": 20
+      },
+      {
+        "site_id": 109,
+        "findings": 22
+      },
+      {
+        "site_id": 110,
+        "findings": 14
+      },
+      {
+        "site_id": 111,
+        "findings": 16
+      },
+      {
+        "site_id": 112,
+        "findings": 22
+      },
+      {
+        "site_id": 113,
+        "findings": 16
+      },
+      {
+        "site_id": 114,
+        "findings": 13
+      },
+      {
+        "site_id": 115,
+        "findings": 16
+      },
+      {
+        "site_id": 116,
+        "findings": 30
+      },
+      {
+        "site_id": 117,
+        "findings": 18
+      },
+      {
+        "site_id": 118,
+        "findings": 19
+      },
+      {
+        "site_id": 119,
+        "findings": 17
+      },
+      {
+        "site_id": 120,
+        "findings": 20
+      },
+      {
+        "site_id": 121,
+        "findings": 10
+      },
+      {
+        "site_id": 122,
+        "findings": 22
+      },
+      {
+        "site_id": 123,
+        "findings": 20
+      },
+      {
+        "site_id": 124,
+        "findings": 19
+      },
+      {
+        "site_id": 125,
+        "findings": 24
+      },
+      {
+        "site_id": 126,
+        "findings": 17
+      },
+      {
+        "site_id": 127,
+        "findings": 28
+      },
+      {
+        "site_id": 128,
+        "findings": 5
+      },
+      {
+        "site_id": 129,
+        "findings": 21
+      },
+      {
+        "site_id": 130,
+        "findings": 23
+      },
+      {
+        "site_id": 131,
+        "findings": 14
+      },
+      {
+        "site_id": 132,
+        "findings": 16
+      },
+      {
+        "site_id": 133,
+        "findings": 20
+      },
+      {
+        "site_id": 134,
+        "findings": 9
+      },
+      {
+        "site_id": 135,
+        "findings": 11
+      },
+      {
+        "site_id": 136,
+        "findings": 14
+      },
+      {
+        "site_id": 137,
+        "findings": 14
+      },
+      {
+        "site_id": 138,
+        "findings": 20
+      }
+    ],
+    "sample_findings": [
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-003",
+        "site_id": 101,
+        "location": "Screening / Demographics",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-005",
+        "site_id": 101,
+        "location": "Baseline / Randomisation",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-007",
+        "site_id": 101,
+        "location": "Week 8 / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-008",
+        "site_id": 101,
+        "location": "Screening / Medical History",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-008",
+        "site_id": 101,
+        "location": "Week 16 EOT / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-009",
+        "site_id": 101,
+        "location": "Week 16 EOT / Vital Signs",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-015",
+        "site_id": 101,
+        "location": "Week 8 / Vital Signs",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-016",
+        "site_id": 101,
+        "location": "Baseline / PASI Score",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-020",
+        "site_id": 101,
+        "location": "Screening / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-020",
+        "site_id": 101,
+        "location": "Week 8 / Vital Signs",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-021",
+        "site_id": 101,
+        "location": "Week 8 / PASI Score",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-024",
+        "site_id": 101,
+        "location": "Baseline / Randomisation",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-024",
+        "site_id": 101,
+        "location": "Week 8 / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-025",
+        "site_id": 101,
+        "location": "Screening / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-027",
+        "site_id": 101,
+        "location": "Week 16 EOT / PASI Score",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-101-029",
+        "site_id": 101,
+        "location": "Week 16 EOT / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-001",
+        "site_id": 102,
+        "location": "Week 12 / PASI Score",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-002",
+        "site_id": 102,
+        "location": "Screening / Informed Consent",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-002",
+        "site_id": 102,
+        "location": "Week 4 / Adverse Events",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-002",
+        "site_id": 102,
+        "location": "Week 8 / Adverse Events",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-002",
+        "site_id": 102,
+        "location": "Week 12 / Vital Signs",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-005",
+        "site_id": 102,
+        "location": "Screening / Medical History",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-005",
+        "site_id": 102,
+        "location": "Baseline / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-005",
+        "site_id": 102,
+        "location": "Week 16 EOT / End of Treatment",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-006",
+        "site_id": 102,
+        "location": "Screening / Demographics",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-102-006",
+        "site_id": 102,
+        "location": "Week 16 EOT / PASI Score",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-103-001",
+        "site_id": 103,
+        "location": "Screening / Informed Consent",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-103-001",
+        "site_id": 103,
+        "location": "Week 16 EOT / Adverse Events",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-103-002",
+        "site_id": 103,
+        "location": "Week 16 EOT / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-103-004",
+        "site_id": 103,
+        "location": "Week 8 / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-103-004",
+        "site_id": 103,
+        "location": "Week 16 EOT / End of Treatment",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-103-006",
+        "site_id": 103,
+        "location": "Screening / Medical History",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-103-012",
+        "site_id": 103,
+        "location": "Week 12 / Adverse Events",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-103-012",
+        "site_id": 103,
+        "location": "Week 16 EOT / PASI Score",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-103-013",
+        "site_id": 103,
+        "location": "Week 12 / Vital Signs",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-104-005",
+        "site_id": 104,
+        "location": "Week 12 / PASI Score",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-104-007",
+        "site_id": 104,
+        "location": "Baseline / Randomisation",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-104-009",
+        "site_id": 104,
+        "location": "Week 8 / Laboratory",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-104-009",
+        "site_id": 104,
+        "location": "Week 16 EOT / PASI Score",
+        "detail": "Visit performed but required CRF not entered"
+      },
+      {
+        "rule": "Missing required data",
+        "severity": "Moderate",
+        "usubjid": "TF-201-104-009",
+        "site_id": 104,
+        "location": "Week 16 EOT / End of Treatment",
+        "detail": "Visit performed but required CRF not entered"
+      }
+    ]
+  },
+  "deviations": {
+    "total": 123,
+    "by_category": [
+      {
+        "category": "Minor",
+        "count": 101
+      },
+      {
+        "category": "Moderate",
+        "count": 11
+      },
+      {
+        "category": "Major",
+        "count": 11
+      }
+    ],
+    "by_type": [
+      {
+        "type": "Visit conducted outside protocol window",
+        "count": 97
+      },
+      {
+        "type": "Informed consent not on file at time of procedure",
+        "count": 6
+      },
+      {
+        "type": "Inclusion/exclusion criterion not met",
+        "count": 5
+      },
+      {
+        "type": "Required assessment not performed",
+        "count": 5
+      },
+      {
+        "type": "Sample not processed within required time",
+        "count": 4
+      },
+      {
+        "type": "Prohibited concomitant medication",
+        "count": 3
+      },
+      {
+        "type": "Study drug dosing error",
+        "count": 3
+      }
+    ],
+    "by_site": [
+      {
+        "site_id": 126,
+        "count": 9
+      },
+      {
+        "site_id": 111,
+        "count": 8
+      },
+      {
+        "site_id": 105,
+        "count": 6
+      },
+      {
+        "site_id": 108,
+        "count": 6
+      },
+      {
+        "site_id": 123,
+        "count": 6
+      },
+      {
+        "site_id": 129,
+        "count": 6
+      },
+      {
+        "site_id": 119,
+        "count": 5
+      },
+      {
+        "site_id": 101,
+        "count": 5
+      },
+      {
+        "site_id": 109,
+        "count": 5
+      },
+      {
+        "site_id": 127,
+        "count": 4
+      }
+    ],
+    "records": [
+      {
+        "usubjid": "TF-201-102-007",
+        "site_id": 102,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Informed consent not on file at time of procedure",
+        "dvcat": "Major",
+        "dvdtc": "2026-09-27",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-108-002",
+        "site_id": 108,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Inclusion/exclusion criterion not met",
+        "dvcat": "Major",
+        "dvdtc": "2025-09-25",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-108-009",
+        "site_id": 108,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Informed consent not on file at time of procedure",
+        "dvcat": "Major",
+        "dvdtc": "2025-07-21",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-109-013",
+        "site_id": 109,
+        "visitnum": 2,
+        "visit": "Baseline",
+        "dvterm": "Inclusion/exclusion criterion not met",
+        "dvcat": "Major",
+        "dvdtc": "2026-04-27",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-114-007",
+        "site_id": 114,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Informed consent not on file at time of procedure",
+        "dvcat": "Major",
+        "dvdtc": "2026-05-25",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-121-008",
+        "site_id": 121,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Informed consent not on file at time of procedure",
+        "dvcat": "Major",
+        "dvdtc": "2026-10-08",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-125-011",
+        "site_id": 125,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Inclusion/exclusion criterion not met",
+        "dvcat": "Major",
+        "dvdtc": "2025-06-30",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-126-003",
+        "site_id": 126,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Inclusion/exclusion criterion not met",
+        "dvcat": "Major",
+        "dvdtc": "2025-09-21",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-130-018",
+        "site_id": 130,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Inclusion/exclusion criterion not met",
+        "dvcat": "Major",
+        "dvdtc": "2025-12-11",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-131-007",
+        "site_id": 131,
+        "visitnum": 2,
+        "visit": "Baseline",
+        "dvterm": "Informed consent not on file at time of procedure",
+        "dvcat": "Major",
+        "dvdtc": "2026-08-23",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-131-001",
+        "site_id": 131,
+        "visitnum": 2,
+        "visit": "Baseline",
+        "dvterm": "Informed consent not on file at time of procedure",
+        "dvcat": "Major",
+        "dvdtc": "2026-05-07",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-101-001",
+        "site_id": 101,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-06-12",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-101-018",
+        "site_id": 101,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-01-20",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-101-018",
+        "site_id": 101,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-14",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-101-021",
+        "site_id": 101,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-02-23",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-101-025",
+        "site_id": 101,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-09-25",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-102-002",
+        "site_id": 102,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-01-14",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-103-012",
+        "site_id": 103,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-19",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-103-004",
+        "site_id": 103,
+        "visitnum": 2,
+        "visit": "Baseline",
+        "dvterm": "Sample not processed within required time",
+        "dvcat": "Minor",
+        "dvdtc": "2026-02-17",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-104-020",
+        "site_id": 104,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-07",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-105-010",
+        "site_id": 105,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-10-07",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-105-021",
+        "site_id": 105,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-08-12",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-105-022",
+        "site_id": 105,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-13",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-105-023",
+        "site_id": 105,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-07-27",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-105-023",
+        "site_id": 105,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-08-04",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-105-025",
+        "site_id": 105,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-05-08",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-106-001",
+        "site_id": 106,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-18",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-107-003",
+        "site_id": 107,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-09-05",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-107-007",
+        "site_id": 107,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-08-10",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-108-001",
+        "site_id": 108,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-01-12",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-109-007",
+        "site_id": 109,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-04",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-109-011",
+        "site_id": 109,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-10-25",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-109-012",
+        "site_id": 109,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-05-24",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-109-013",
+        "site_id": 109,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-07-04",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-110-014",
+        "site_id": 110,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-20",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-111-001",
+        "site_id": 111,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-18",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-111-002",
+        "site_id": 111,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-02-06",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-111-003",
+        "site_id": 111,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-08-23",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-111-008",
+        "site_id": 111,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-06-28",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-111-016",
+        "site_id": 111,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-07-27",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-111-017",
+        "site_id": 111,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-09-10",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-111-020",
+        "site_id": 111,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-25",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-111-015",
+        "site_id": 111,
+        "visitnum": 1,
+        "visit": "Screening",
+        "dvterm": "Sample not processed within required time",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-30",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-112-015",
+        "site_id": 112,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-05-10",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-112-021",
+        "site_id": 112,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-14",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-113-008",
+        "site_id": 113,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-02-19",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-114-007",
+        "site_id": 114,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-07-31",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-114-013",
+        "site_id": 114,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-11-02",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-115-002",
+        "site_id": 115,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-05-28",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-115-004",
+        "site_id": 115,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-11-26",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-116-007",
+        "site_id": 116,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-10-14",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-116-011",
+        "site_id": 116,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-06-24",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-116-014",
+        "site_id": 116,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-09",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-116-020",
+        "site_id": 116,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-07-24",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-117-010",
+        "site_id": 117,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-11",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-118-003",
+        "site_id": 118,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-07-14",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-118-020",
+        "site_id": 118,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-07-23",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-118-021",
+        "site_id": 118,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-06-28",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-119-002",
+        "site_id": 119,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-30",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-119-006",
+        "site_id": 119,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-06-19",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-119-007",
+        "site_id": 119,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-18",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-120-001",
+        "site_id": 120,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-07-20",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-120-010",
+        "site_id": 120,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-13",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-121-005",
+        "site_id": 121,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-02-25",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-121-015",
+        "site_id": 121,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-02-07",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-122-002",
+        "site_id": 122,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-08-05",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-122-011",
+        "site_id": 122,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-09-06",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-122-012",
+        "site_id": 122,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-01-22",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-123-001",
+        "site_id": 123,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-10-04",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-123-001",
+        "site_id": 123,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-11-20",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-123-008",
+        "site_id": 123,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-05-16",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-123-021",
+        "site_id": 123,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-29",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-123-023",
+        "site_id": 123,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-07-23",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-123-024",
+        "site_id": 123,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-09-10",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-124-013",
+        "site_id": 124,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-05-26",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-125-009",
+        "site_id": 125,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-06-22",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-126-003",
+        "site_id": 126,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-07-12",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-126-005",
+        "site_id": 126,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-19",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-126-007",
+        "site_id": 126,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-20",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-126-008",
+        "site_id": 126,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-04-12",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-126-001",
+        "site_id": 126,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Sample not processed within required time",
+        "dvcat": "Minor",
+        "dvdtc": "2025-06-25",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-127-007",
+        "site_id": 127,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-06-02",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-127-008",
+        "site_id": 127,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-03-27",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-127-013",
+        "site_id": 127,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-05-21",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-127-026",
+        "site_id": 127,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-11-11",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-129-009",
+        "site_id": 129,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-09-14",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-129-010",
+        "site_id": 129,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-01-01",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-129-014",
+        "site_id": 129,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-07-24",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-129-018",
+        "site_id": 129,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-06",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-129-019",
+        "site_id": 129,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-08",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-129-019",
+        "site_id": 129,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-01-24",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-130-009",
+        "site_id": 130,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-29",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-131-001",
+        "site_id": 131,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-22",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-131-002",
+        "site_id": 131,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-07-30",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-132-004",
+        "site_id": 132,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-01-31",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-132-016",
+        "site_id": 132,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-01-04",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-132-019",
+        "site_id": 132,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-05-01",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-133-005",
+        "site_id": 133,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-01-09",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-133-007",
+        "site_id": 133,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-24",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-133-011",
+        "site_id": 133,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-08-19",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-134-003",
+        "site_id": 134,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-08-12",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-134-007",
+        "site_id": 134,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-07-08",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-135-003",
+        "site_id": 135,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-18",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-135-004",
+        "site_id": 135,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-21",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-135-006",
+        "site_id": 135,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-04-05",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-135-012",
+        "site_id": 135,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Sample not processed within required time",
+        "dvcat": "Minor",
+        "dvdtc": "2025-05-21",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-137-006",
+        "site_id": 137,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-16",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-137-007",
+        "site_id": 137,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-08-23",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-137-012",
+        "site_id": 137,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-04-25",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-137-013",
+        "site_id": 137,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-03-20",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-138-001",
+        "site_id": 138,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2025-12-28",
+        "dvstatus": "Open",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-138-020",
+        "site_id": 138,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Visit conducted outside protocol window",
+        "dvcat": "Minor",
+        "dvdtc": "2026-02-26",
+        "dvstatus": "Closed",
+        "corrective_action": "Site retrained on visit scheduling; window recalculated."
+      },
+      {
+        "usubjid": "TF-201-102-005",
+        "site_id": 102,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Required assessment not performed",
+        "dvcat": "Moderate",
+        "dvdtc": "2026-01-16",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-102-005",
+        "site_id": 102,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Prohibited concomitant medication",
+        "dvcat": "Moderate",
+        "dvdtc": "2026-01-31",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-108-007",
+        "site_id": 108,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Prohibited concomitant medication",
+        "dvcat": "Moderate",
+        "dvdtc": "2026-02-03",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-108-006",
+        "site_id": 108,
+        "visitnum": 2,
+        "visit": "Baseline",
+        "dvterm": "Required assessment not performed",
+        "dvcat": "Moderate",
+        "dvdtc": "2025-09-12",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-108-003",
+        "site_id": 108,
+        "visitnum": 2,
+        "visit": "Baseline",
+        "dvterm": "Study drug dosing error",
+        "dvcat": "Moderate",
+        "dvdtc": "2025-09-11",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-119-004",
+        "site_id": 119,
+        "visitnum": 4,
+        "visit": "Week 8",
+        "dvterm": "Required assessment not performed",
+        "dvcat": "Moderate",
+        "dvdtc": "2026-06-09",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-119-002",
+        "site_id": 119,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Required assessment not performed",
+        "dvcat": "Moderate",
+        "dvdtc": "2026-05-02",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-120-020",
+        "site_id": 120,
+        "visitnum": 1,
+        "visit": "Screening",
+        "dvterm": "Study drug dosing error",
+        "dvcat": "Moderate",
+        "dvdtc": "2025-08-24",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-126-002",
+        "site_id": 126,
+        "visitnum": 3,
+        "visit": "Week 4",
+        "dvterm": "Study drug dosing error",
+        "dvcat": "Moderate",
+        "dvdtc": "2025-04-20",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-126-005",
+        "site_id": 126,
+        "visitnum": 6,
+        "visit": "Week 16 EOT",
+        "dvterm": "Required assessment not performed",
+        "dvcat": "Moderate",
+        "dvdtc": "2026-02-01",
+        "dvstatus": "Open",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      },
+      {
+        "usubjid": "TF-201-126-006",
+        "site_id": 126,
+        "visitnum": 5,
+        "visit": "Week 12",
+        "dvterm": "Prohibited concomitant medication",
+        "dvcat": "Moderate",
+        "dvdtc": "2025-06-26",
+        "dvstatus": "Closed",
+        "corrective_action": "CAPA logged; monitored at next visit."
+      }
+    ]
+  },
+  "adverse_events": {
+    "by_severity": [
+      {
+        "severity": "Mild",
+        "count": 281
+      },
+      {
+        "severity": "Moderate",
+        "count": 243
+      },
+      {
+        "severity": "Severe",
+        "count": 61
+      }
+    ],
+    "by_soc": [
+      {
+        "soc": "General disorders",
+        "count": 131
+      },
+      {
+        "soc": "Infections and infestations",
+        "count": 125
+      },
+      {
+        "soc": "Nervous system disorders",
+        "count": 113
+      },
+      {
+        "soc": "Gastrointestinal disorders",
+        "count": 103
+      },
+      {
+        "soc": "Investigations",
+        "count": 61
+      },
+      {
+        "soc": "Vascular disorders",
+        "count": 52
+      }
+    ],
+    "by_arm": [
+      {
+        "arm": "Placebo",
+        "Mild": 138,
+        "Moderate": 112,
+        "Severe": 37
+      },
+      {
+        "arm": "TF-Compound 150mg",
+        "Mild": 143,
+        "Moderate": 131,
+        "Severe": 24
+      }
+    ],
+    "serious": [
+      {
+        "usubjid": "TF-201-105-004",
+        "site_id": 105,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Probable",
+        "aestdtc": "2025-10-17",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-106-010",
+        "site_id": 106,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Probable",
+        "aestdtc": "2026-01-24",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-106-022",
+        "site_id": 106,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Unlikely",
+        "aestdtc": "2026-10-14",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-107-010",
+        "site_id": 107,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2026-10-30",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-109-010",
+        "site_id": 109,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2025-04-11",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-109-019",
+        "site_id": 109,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Unlikely",
+        "aestdtc": "2025-08-19",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-110-006",
+        "site_id": 110,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2025-07-25",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-110-010",
+        "site_id": 110,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2025-09-08",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-111-006",
+        "site_id": 111,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Unlikely",
+        "aestdtc": "2025-08-29",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-111-010",
+        "site_id": 111,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2025-10-01",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-112-003",
+        "site_id": 112,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2025-12-24",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-114-005",
+        "site_id": 114,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2025-08-31",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-114-005",
+        "site_id": 114,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2025-09-16",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-114-010",
+        "site_id": 114,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2025-08-09",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-116-007",
+        "site_id": 116,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Probable",
+        "aestdtc": "2025-07-30",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-116-012",
+        "site_id": 116,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2026-08-04",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-117-001",
+        "site_id": 117,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2026-07-24",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-117-011",
+        "site_id": 117,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Probable",
+        "aestdtc": "2026-11-06",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-118-006",
+        "site_id": 118,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Unlikely",
+        "aestdtc": "2026-09-09",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-118-021",
+        "site_id": 118,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Unlikely",
+        "aestdtc": "2026-07-26",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-119-006",
+        "site_id": 119,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Unlikely",
+        "aestdtc": "2026-06-18",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-121-010",
+        "site_id": 121,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2026-06-23",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-122-002",
+        "site_id": 122,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2026-07-17",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-122-010",
+        "site_id": 122,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2026-07-18",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-125-002",
+        "site_id": 125,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2025-10-09",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-125-002",
+        "site_id": 125,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2025-11-18",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-126-001",
+        "site_id": 126,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2025-08-27",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-127-015",
+        "site_id": 127,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Unlikely",
+        "aestdtc": "2025-05-11",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-127-019",
+        "site_id": 127,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2026-07-25",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-128-005",
+        "site_id": 128,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Probable",
+        "aestdtc": "2026-05-20",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-128-015",
+        "site_id": 128,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2026-06-26",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-130-005",
+        "site_id": 130,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2025-11-18",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-132-002",
+        "site_id": 132,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Unlikely",
+        "aestdtc": "2025-11-12",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-132-006",
+        "site_id": 132,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2026-03-14",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-132-022",
+        "site_id": 132,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Unlikely",
+        "aestdtc": "2026-06-25",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-133-004",
+        "site_id": 133,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Not related",
+        "aestdtc": "2025-12-18",
+        "aeout": "Recovered/Resolved",
+        "arm": "Placebo"
+      },
+      {
+        "usubjid": "TF-201-133-017",
+        "site_id": 133,
+        "aeterm": "Hypertension",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2026-10-18",
+        "aeout": "Not recovered/Not resolved",
+        "arm": "TF-Compound 150mg"
+      },
+      {
+        "usubjid": "TF-201-134-012",
+        "site_id": 134,
+        "aeterm": "Alanine aminotransferase increased",
+        "aesev": "Severe",
+        "aerel": "Possible",
+        "aestdtc": "2025-06-02",
+        "aeout": "Recovered/Resolved",
+        "arm": "TF-Compound 150mg"
+      }
+    ]
+  },
+  "patient_journey": {
+    "usubjid": "TF-201-105-024",
+    "site_id": 105,
+    "country": "Ireland",
+    "arm": "TF-Compound 150mg",
+    "sex": "F",
+    "age": 53,
+    "status": "Active",
+    "data_completeness": 87.5,
+    "visits": [
+      {
+        "visit": "Screening",
+        "scheduled_date": "2026-01-25",
+        "actual_date": "2026-01-23",
+        "status": "Done",
+        "missing_forms": [
+          "Medical History"
+        ]
+      },
+      {
+        "visit": "Baseline",
+        "scheduled_date": "2026-02-08",
+        "actual_date": "2026-02-08",
+        "status": "Done",
+        "missing_forms": []
+      },
+      {
+        "visit": "Week 4",
+        "scheduled_date": "2026-03-08",
+        "actual_date": "2026-03-06",
+        "status": "Done",
+        "missing_forms": []
+      },
+      {
+        "visit": "Week 8",
+        "scheduled_date": "2026-04-05",
+        "actual_date": "2026-04-06",
+        "status": "Done",
+        "missing_forms": [
+          "Laboratory"
+        ]
+      },
+      {
+        "visit": "Week 12",
+        "scheduled_date": "2026-05-03",
+        "actual_date": "2026-05-06",
+        "status": "Done",
+        "missing_forms": []
+      },
+      {
+        "visit": "Week 16 EOT",
+        "scheduled_date": "2026-05-31",
+        "actual_date": "2026-06-06",
+        "status": "Done",
+        "missing_forms": [
+          "Laboratory"
+        ]
+      }
+    ],
+    "open_issues": [
+      "Missing Medical History at Screening",
+      "Missing Laboratory at Week 8",
+      "Missing Laboratory at Week 16 EOT",
+      "ALT 3.6U/L out of range at Screening"
+    ]
+  },
+  "sdtm": {
+    "DM": {
+      "rows": 733,
+      "columns": [
+        "STUDYID",
+        "DOMAIN",
+        "USUBJID",
+        "SUBJID",
+        "SITEID",
+        "RFSTDTC",
+        "AGE",
+        "AGEU",
+        "SEX",
+        "COUNTRY",
+        "ARM",
+        "ARMCD",
+        "ACTARM",
+        "DSDECOD"
+      ],
+      "sample": [
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "DM",
+          "USUBJID": "TF-201-101-001",
+          "SUBJID": "001",
+          "SITEID": "101",
+          "RFSTDTC": "2025-04-07",
+          "AGE": 40,
+          "AGEU": "YEARS",
+          "SEX": "F",
+          "COUNTRY": "FRA",
+          "ARM": "Placebo",
+          "ARMCD": "P",
+          "ACTARM": "Placebo",
+          "DSDECOD": "Completed"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "DM",
+          "USUBJID": "TF-201-101-002",
+          "SUBJID": "002",
+          "SITEID": "101",
+          "RFSTDTC": "2025-07-04",
+          "AGE": 30,
+          "AGEU": "YEARS",
+          "SEX": "M",
+          "COUNTRY": "FRA",
+          "ARM": "TF-Compound 150mg",
+          "ARMCD": "A",
+          "ACTARM": "TF-Compound 150mg",
+          "DSDECOD": "Completed"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "DM",
+          "USUBJID": "TF-201-101-003",
+          "SUBJID": "003",
+          "SITEID": "101",
+          "RFSTDTC": "2026-04-05",
+          "AGE": 53,
+          "AGEU": "YEARS",
+          "SEX": "F",
+          "COUNTRY": "FRA",
+          "ARM": "TF-Compound 150mg",
+          "ARMCD": "A",
+          "ACTARM": "TF-Compound 150mg",
+          "DSDECOD": "Completed"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "DM",
+          "USUBJID": "TF-201-101-004",
+          "SUBJID": "004",
+          "SITEID": "101",
+          "RFSTDTC": "2026-06-11",
+          "AGE": 50,
+          "AGEU": "YEARS",
+          "SEX": "F",
+          "COUNTRY": "FRA",
+          "ARM": "Placebo",
+          "ARMCD": "P",
+          "ACTARM": "Placebo",
+          "DSDECOD": "On treatment"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "DM",
+          "USUBJID": "TF-201-101-005",
+          "SUBJID": "005",
+          "SITEID": "101",
+          "RFSTDTC": "2025-04-14",
+          "AGE": 51,
+          "AGEU": "YEARS",
+          "SEX": "M",
+          "COUNTRY": "FRA",
+          "ARM": "TF-Compound 150mg",
+          "ARMCD": "A",
+          "ACTARM": "TF-Compound 150mg",
+          "DSDECOD": "Completed"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "DM",
+          "USUBJID": "TF-201-101-006",
+          "SUBJID": "006",
+          "SITEID": "101",
+          "RFSTDTC": "2026-04-26",
+          "AGE": 50,
+          "AGEU": "YEARS",
+          "SEX": "F",
+          "COUNTRY": "FRA",
+          "ARM": "Placebo",
+          "ARMCD": "P",
+          "ACTARM": "Placebo",
+          "DSDECOD": "Completed"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "DM",
+          "USUBJID": "TF-201-101-007",
+          "SUBJID": "007",
+          "SITEID": "101",
+          "RFSTDTC": "2025-06-16",
+          "AGE": 23,
+          "AGEU": "YEARS",
+          "SEX": "M",
+          "COUNTRY": "FRA",
+          "ARM": "TF-Compound 150mg",
+          "ARMCD": "A",
+          "ACTARM": "TF-Compound 150mg",
+          "DSDECOD": "Completed"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "DM",
+          "USUBJID": "TF-201-101-008",
+          "SUBJID": "008",
+          "SITEID": "101",
+          "RFSTDTC": "2025-08-04",
+          "AGE": 50,
+          "AGEU": "YEARS",
+          "SEX": "M",
+          "COUNTRY": "FRA",
+          "ARM": "TF-Compound 150mg",
+          "ARMCD": "A",
+          "ACTARM": "TF-Compound 150mg",
+          "DSDECOD": "Completed"
+        }
+      ]
+    },
+    "AE": {
+      "rows": 585,
+      "columns": [
+        "STUDYID",
+        "DOMAIN",
+        "USUBJID",
+        "AESEQ",
+        "AETERM",
+        "AEBODSYS",
+        "AESEV",
+        "AESER",
+        "AEREL",
+        "AESTDTC",
+        "AEENDTC",
+        "AEOUT"
+      ],
+      "sample": [
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "AE",
+          "USUBJID": "TF-201-101-004",
+          "AESEQ": 1,
+          "AETERM": "Dizziness",
+          "AEBODSYS": "Nervous system disorders",
+          "AESEV": "MODERATE",
+          "AESER": "N",
+          "AEREL": "Not related",
+          "AESTDTC": "2026-09-12",
+          "AEENDTC": "2026-09-29",
+          "AEOUT": "Recovered/Resolved"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "AE",
+          "USUBJID": "TF-201-101-005",
+          "AESEQ": 2,
+          "AETERM": "Fatigue",
+          "AEBODSYS": "General disorders",
+          "AESEV": "MILD",
+          "AESER": "N",
+          "AEREL": "Unlikely",
+          "AESTDTC": "2025-04-30",
+          "AEENDTC": "2025-05-23",
+          "AEOUT": "Recovered/Resolved"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "AE",
+          "USUBJID": "TF-201-101-006",
+          "AESEQ": 3,
+          "AETERM": "Diarrhoea",
+          "AEBODSYS": "Gastrointestinal disorders",
+          "AESEV": "MODERATE",
+          "AESER": "N",
+          "AEREL": "Unlikely",
+          "AESTDTC": "2026-07-07",
+          "AEENDTC": null,
+          "AEOUT": "Not recovered/Not resolved"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "AE",
+          "USUBJID": "TF-201-101-007",
+          "AESEQ": 4,
+          "AETERM": "Nasopharyngitis",
+          "AEBODSYS": "Infections and infestations",
+          "AESEV": "MILD",
+          "AESER": "N",
+          "AEREL": "Unlikely",
+          "AESTDTC": "2025-07-25",
+          "AEENDTC": null,
+          "AEOUT": "Not recovered/Not resolved"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "AE",
+          "USUBJID": "TF-201-101-008",
+          "AESEQ": 5,
+          "AETERM": "Fatigue",
+          "AEBODSYS": "General disorders",
+          "AESEV": "MILD",
+          "AESER": "N",
+          "AEREL": "Unlikely",
+          "AESTDTC": "2025-11-21",
+          "AEENDTC": "2025-12-22",
+          "AEOUT": "Recovered/Resolved"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "AE",
+          "USUBJID": "TF-201-101-008",
+          "AESEQ": 6,
+          "AETERM": "Dizziness",
+          "AEBODSYS": "Nervous system disorders",
+          "AESEV": "MODERATE",
+          "AESER": "N",
+          "AEREL": "Possible",
+          "AESTDTC": "2025-11-21",
+          "AEENDTC": "2025-12-12",
+          "AEOUT": "Recovered/Resolved"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "AE",
+          "USUBJID": "TF-201-101-009",
+          "AESEQ": 7,
+          "AETERM": "Nasopharyngitis",
+          "AEBODSYS": "Infections and infestations",
+          "AESEV": "MILD",
+          "AESER": "N",
+          "AEREL": "Possible",
+          "AESTDTC": "2025-11-22",
+          "AEENDTC": "2025-12-24",
+          "AEOUT": "Recovered/Resolved"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "AE",
+          "USUBJID": "TF-201-101-011",
+          "AESEQ": 8,
+          "AETERM": "Dizziness",
+          "AEBODSYS": "Nervous system disorders",
+          "AESEV": "MILD",
+          "AESER": "N",
+          "AEREL": "Not related",
+          "AESTDTC": "2026-05-09",
+          "AEENDTC": "2026-05-14",
+          "AEOUT": "Recovered/Resolved"
+        }
+      ]
+    },
+    "VS": {
+      "rows": 11429,
+      "columns": [
+        "STUDYID",
+        "DOMAIN",
+        "USUBJID",
+        "VSTESTCD",
+        "VSTEST",
+        "VISITNUM",
+        "VISIT",
+        "VSORRES",
+        "VSORRESU",
+        "VSDTC"
+      ],
+      "sample": [
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "VS",
+          "USUBJID": "TF-201-101-001",
+          "VSTESTCD": "SYSBP",
+          "VSTEST": "Systolic Blood Pressure",
+          "VISITNUM": 1,
+          "VISIT": "SCREENING",
+          "VSORRES": 124.9,
+          "VSORRESU": "mmHg",
+          "VSDTC": "2025-02-26"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "VS",
+          "USUBJID": "TF-201-101-001",
+          "VSTESTCD": "DIABP",
+          "VSTEST": "Diastolic Blood Pressure",
+          "VISITNUM": 1,
+          "VISIT": "SCREENING",
+          "VSORRES": 67.6,
+          "VSORRESU": "mmHg",
+          "VSDTC": "2025-02-24"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "VS",
+          "USUBJID": "TF-201-101-001",
+          "VSTESTCD": "PULSE",
+          "VSTEST": "Pulse Rate",
+          "VISITNUM": 1,
+          "VISIT": "SCREENING",
+          "VSORRES": 129.8,
+          "VSORRESU": "beats/min",
+          "VSDTC": "2025-02-24"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "VS",
+          "USUBJID": "TF-201-101-001",
+          "VSTESTCD": "SYSBP",
+          "VSTEST": "Systolic Blood Pressure",
+          "VISITNUM": 2,
+          "VISIT": "BASELINE",
+          "VSORRES": 111.6,
+          "VSORRESU": "mmHg",
+          "VSDTC": "2025-04-07"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "VS",
+          "USUBJID": "TF-201-101-001",
+          "VSTESTCD": "DIABP",
+          "VSTEST": "Diastolic Blood Pressure",
+          "VISITNUM": 2,
+          "VISIT": "BASELINE",
+          "VSORRES": 78.8,
+          "VSORRESU": "mmHg",
+          "VSDTC": "2025-04-09"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "VS",
+          "USUBJID": "TF-201-101-001",
+          "VSTESTCD": "SYSBP",
+          "VSTEST": "Systolic Blood Pressure",
+          "VISITNUM": 3,
+          "VISIT": "WEEK 4",
+          "VSORRES": 129.1,
+          "VSORRESU": "mmHg",
+          "VSDTC": "2025-05-06"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "VS",
+          "USUBJID": "TF-201-101-001",
+          "VSTESTCD": "DIABP",
+          "VSTEST": "Diastolic Blood Pressure",
+          "VISITNUM": 3,
+          "VISIT": "WEEK 4",
+          "VSORRES": 85.8,
+          "VSORRESU": "mmHg",
+          "VSDTC": "2025-05-07"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "VS",
+          "USUBJID": "TF-201-101-001",
+          "VSTESTCD": "PULSE",
+          "VSTEST": "Pulse Rate",
+          "VISITNUM": 3,
+          "VISIT": "WEEK 4",
+          "VSORRES": 82.8,
+          "VSORRESU": "beats/min",
+          "VSDTC": "2025-05-07"
+        }
+      ]
+    },
+    "SV": {
+      "rows": 3993,
+      "columns": [
+        "STUDYID",
+        "DOMAIN",
+        "USUBJID",
+        "VISITNUM",
+        "VISIT",
+        "SVSTDTC",
+        "SVENDTC"
+      ],
+      "sample": [
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "SV",
+          "USUBJID": "TF-201-101-001",
+          "VISITNUM": 1,
+          "VISIT": "SCREENING",
+          "SVSTDTC": "2025-02-24",
+          "SVENDTC": "2025-02-24"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "SV",
+          "USUBJID": "TF-201-101-001",
+          "VISITNUM": 2,
+          "VISIT": "BASELINE",
+          "SVSTDTC": "2025-04-07",
+          "SVENDTC": "2025-04-07"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "SV",
+          "USUBJID": "TF-201-101-001",
+          "VISITNUM": 3,
+          "VISIT": "WEEK 4",
+          "SVSTDTC": "2025-05-04",
+          "SVENDTC": "2025-05-04"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "SV",
+          "USUBJID": "TF-201-101-001",
+          "VISITNUM": 4,
+          "VISIT": "WEEK 8",
+          "SVSTDTC": "2025-06-12",
+          "SVENDTC": "2025-06-12"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "SV",
+          "USUBJID": "TF-201-101-001",
+          "VISITNUM": 5,
+          "VISIT": "WEEK 12",
+          "SVSTDTC": "2025-06-30",
+          "SVENDTC": "2025-06-30"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "SV",
+          "USUBJID": "TF-201-101-001",
+          "VISITNUM": 6,
+          "VISIT": "WEEK 16 EOT",
+          "SVSTDTC": "2025-07-28",
+          "SVENDTC": "2025-07-28"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "SV",
+          "USUBJID": "TF-201-101-002",
+          "VISITNUM": 1,
+          "VISIT": "SCREENING",
+          "SVSTDTC": "2025-05-30",
+          "SVENDTC": "2025-05-30"
+        },
+        {
+          "STUDYID": "TF-201",
+          "DOMAIN": "SV",
+          "USUBJID": "TF-201-101-002",
+          "VISITNUM": 2,
+          "VISIT": "BASELINE",
+          "SVSTDTC": "2025-07-04",
+          "SVENDTC": "2025-07-04"
+        }
+      ]
+    }
+  },
+  "copilot": [
+    {
+      "q": "Which sites require intervention this week and why?",
+      "summary": "5 sites are high risk and 4 need attention. Highest is Site 108 (Ireland) at risk score 82.",
+      "detail": [
+        {
+          "site": "Site 108 (Ireland)",
+          "band": "red",
+          "score": 81.9,
+          "reasons": [
+            "Recruitment 41% of target",
+            "14 open queries (1.6 per subject)",
+            "6 protocol deviations"
+          ],
+          "action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+        },
+        {
+          "site": "Site 102 (Germany)",
+          "band": "red",
+          "score": 80.2,
+          "reasons": [
+            "Recruitment 32% of target",
+            "8 open queries (1.1 per subject)",
+            "4 protocol deviations"
+          ],
+          "action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+        },
+        {
+          "site": "Site 126 (Spain)",
+          "band": "red",
+          "score": 78.4,
+          "reasons": [
+            "Recruitment 30% of target",
+            "9 open queries (1.1 per subject)",
+            "9 protocol deviations"
+          ],
+          "action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+        },
+        {
+          "site": "Site 119 (Poland)",
+          "band": "red",
+          "score": 72.0,
+          "reasons": [
+            "Recruitment 47% of target",
+            "12 open queries (1.3 per subject)",
+            "5 protocol deviations"
+          ],
+          "action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+        },
+        {
+          "site": "Site 131 (United Kingdom)",
+          "band": "red",
+          "score": 62.2,
+          "reasons": [
+            "Recruitment 43% of target",
+            "7 open queries (0.8 per subject)",
+            "4 protocol deviations"
+          ],
+          "action": "Initiate site performance review; prioritise open data queries and CAPA follow-up."
+        },
+        {
+          "site": "Site 103 (Netherlands)",
+          "band": "amber",
+          "score": 39.9,
+          "reasons": [
+            "Recruitment 56% of target",
+            "11 open queries (0.8 per subject)"
+          ],
+          "action": "Increase monitoring frequency; agree recruitment and query-resolution plan with site."
+        }
+      ]
+    },
+    {
+      "q": "Why is the trial health score where it is?",
+      "summary": "Trial health is 76/100 (Needs Attention). 3 of 5 components are below target.",
+      "detail": [
+        {
+          "component": "Recruitment",
+          "value": 81.4,
+          "rag": "green"
+        },
+        {
+          "component": "Data Completeness",
+          "value": 97.9,
+          "rag": "green"
+        },
+        {
+          "component": "Query Backlog",
+          "value": 54.5,
+          "rag": "red"
+        },
+        {
+          "component": "Site Performance",
+          "value": 76.3,
+          "rag": "amber"
+        },
+        {
+          "component": "Protocol Deviations",
+          "value": 49.3,
+          "rag": "red"
+        }
+      ]
+    },
+    {
+      "q": "What are the biggest data-quality issues right now?",
+      "summary": "Data quality score 98.1%, 695 records to review.",
+      "detail": [
+        {
+          "rule": "Missing required data",
+          "count": 328
+        },
+        {
+          "rule": "Out-of-range value",
+          "count": 265
+        },
+        {
+          "rule": "Duplicate record",
+          "count": 47
+        },
+        {
+          "rule": "Impossible date",
+          "count": 29
+        },
+        {
+          "rule": "Cross-form inconsistency",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "q": "Are there any emerging safety signals?",
+      "summary": "585 AEs reported, 38 serious. This is a summary of recorded data, not a medical assessment.",
+      "detail": [
+        {
+          "system_organ_class": "General disorders",
+          "events": 131
+        },
+        {
+          "system_organ_class": "Infections and infestations",
+          "events": 125
+        },
+        {
+          "system_organ_class": "Nervous system disorders",
+          "events": 113
+        },
+        {
+          "system_organ_class": "Serious AEs (all arms)",
+          "events": 38
+        }
+      ]
+    }
+  ],
+  "sql_catalog": [
+    {
+      "file": "sql/data_quality.sql",
+      "rows": 4,
+      "columns": [
+        "rule",
+        "total_findings",
+        "sites_affected"
+      ]
+    },
+    {
+      "file": "sql/site_performance.sql",
+      "rows": 38,
+      "columns": [
+        "site_id",
+        "country",
+        "monitor",
+        "target_enrollment",
+        "enrolled",
+        "recruitment_pct",
+        "form_completeness_pct",
+        "open_queries",
+        "queries_per_subject",
+        "deviations"
+      ]
+    },
+    {
+      "file": "sql/trial_metrics.sql",
+      "rows": 1,
+      "columns": [
+        "enrolled",
+        "completed",
+        "withdrawn",
+        "screen_failures",
+        "recruitment_pct_of_target",
+        "active_sites",
+        "planned_capacity",
+        "data_completeness_pct",
+        "open_queries",
+        "aged_queries",
+        "deviations",
+        "major_deviations",
+        "ae_reports",
+        "serious_ae"
+      ]
+    }
+  ]
+}

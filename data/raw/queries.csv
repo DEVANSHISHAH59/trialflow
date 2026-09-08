@@ -1,0 +1,502 @@
+query_id,usubjid,site_id,form,field,reason_code,reason_text,severity,status,opened_date,age_days
+Q-1001,TF-201-127-004,127,Adverse Events,,missing value,Required field left blank,Moderate,Answered,2026-07-04,63
+Q-1002,TF-201-111-011,111,Laboratory,,missing value,Required field left blank,Moderate,Open,2026-09-04,1
+Q-1003,TF-201-129-009,129,Vital Signs,,missing value,Required field left blank,Minor,Closed,2026-08-25,11
+Q-1004,TF-201-101-020,101,Vital Signs,,missing value,Required field left blank,Moderate,Open,2026-08-12,24
+Q-1005,TF-201-108-008,108,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-09-02,3
+Q-1006,TF-201-126-001,126,Medical History,,missing value,Required field left blank,Moderate,Answered,2026-09-02,3
+Q-1007,TF-201-137-005,137,PASI Score,,missing value,Required field left blank,Minor,Open,2026-07-25,42
+Q-1008,TF-201-123-024,123,PASI Score,,missing value,Required field left blank,Moderate,Answered,2026-09-03,2
+Q-1009,TF-201-124-008,124,Inclusion/Exclusion,,missing value,Required field left blank,Moderate,Answered,2026-06-11,86
+Q-1010,TF-201-109-021,109,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-06-13,84
+Q-1011,TF-201-120-018,120,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-07-16,51
+Q-1012,TF-201-137-010,137,Vital Signs,,missing value,Required field left blank,Moderate,Open,2026-08-19,17
+Q-1013,TF-201-138-006,138,PASI Score,,missing value,Required field left blank,Minor,Open,2026-08-04,32
+Q-1014,TF-201-116-001,116,Laboratory,,missing value,Required field left blank,Moderate,Closed,2026-08-10,26
+Q-1015,TF-201-131-001,131,Medical History,,missing value,Required field left blank,Minor,Open,2026-08-04,32
+Q-1016,TF-201-117-007,117,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-06-21,76
+Q-1017,TF-201-116-020,116,Laboratory,,missing value,Required field left blank,Minor,Answered,2026-08-02,34
+Q-1018,TF-201-116-013,116,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-06-30,67
+Q-1019,TF-201-102-006,102,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-07-21,46
+Q-1020,TF-201-101-009,101,Vital Signs,,missing value,Required field left blank,Moderate,Open,2026-06-15,82
+Q-1021,TF-201-108-001,108,PASI Score,,missing value,Required field left blank,Moderate,Closed,2026-08-03,33
+Q-1022,TF-201-120-012,120,Adverse Events,,missing value,Required field left blank,Moderate,Answered,2026-07-31,36
+Q-1023,TF-201-104-018,104,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-07-31,36
+Q-1024,TF-201-134-001,134,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-08-05,31
+Q-1025,TF-201-108-009,108,Demographics,,missing value,Required field left blank,Moderate,Answered,2026-07-25,42
+Q-1026,TF-201-138-014,138,Laboratory,,missing value,Required field left blank,Minor,Open,2026-09-01,4
+Q-1027,TF-201-112-003,112,PASI Score,,missing value,Required field left blank,Minor,Open,2026-07-22,45
+Q-1028,TF-201-112-016,112,Medical History,,missing value,Required field left blank,Minor,Answered,2026-06-24,73
+Q-1029,TF-201-105-020,105,Medical History,,missing value,Required field left blank,Moderate,Open,2026-08-19,17
+Q-1030,TF-201-137-008,137,Vital Signs,,missing value,Required field left blank,Moderate,Answered,2026-06-29,68
+Q-1031,TF-201-128-004,128,PASI Score,,missing value,Required field left blank,Minor,Closed,2026-08-02,34
+Q-1032,TF-201-125-002,125,Adverse Events,,missing value,Required field left blank,Minor,Answered,2026-08-16,20
+Q-1033,TF-201-129-017,129,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-06-14,83
+Q-1034,TF-201-120-011,120,Laboratory,,missing value,Required field left blank,Moderate,Open,2026-06-15,82
+Q-1035,TF-201-136-011,136,Demographics,,missing value,Required field left blank,Minor,Open,2026-07-21,46
+Q-1036,TF-201-120-006,120,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-07-12,55
+Q-1037,TF-201-105-008,105,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-07-30,37
+Q-1038,TF-201-103-012,103,PASI Score,,missing value,Required field left blank,Moderate,Answered,2026-07-22,45
+Q-1039,TF-201-118-017,118,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-07-29,38
+Q-1040,TF-201-119-004,119,Laboratory,,missing value,Required field left blank,Minor,Answered,2026-07-13,54
+Q-1041,TF-201-133-022,133,Randomisation,,missing value,Required field left blank,Minor,Answered,2026-07-04,63
+Q-1042,TF-201-104-014,104,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-08-21,15
+Q-1043,TF-201-112-017,112,Laboratory,,missing value,Required field left blank,Moderate,Open,2026-06-18,79
+Q-1044,TF-201-119-009,119,Randomisation,,missing value,Required field left blank,Minor,Open,2026-08-03,33
+Q-1045,TF-201-104-018,104,Laboratory,,missing value,Required field left blank,Minor,Answered,2026-07-18,49
+Q-1046,TF-201-136-020,136,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-07-27,40
+Q-1047,TF-201-108-002,108,Laboratory,,missing value,Required field left blank,Minor,Open,2026-08-31,5
+Q-1048,TF-201-135-005,135,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-08-22,14
+Q-1049,TF-201-105-010,105,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-07-12,55
+Q-1050,TF-201-102-001,102,PASI Score,,missing value,Required field left blank,Moderate,Closed,2026-07-26,41
+Q-1051,TF-201-107-005,107,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-07-16,51
+Q-1052,TF-201-108-006,108,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-07-03,64
+Q-1053,TF-201-101-016,101,PASI Score,,missing value,Required field left blank,Moderate,Closed,2026-08-24,12
+Q-1054,TF-201-107-005,107,Medical History,,missing value,Required field left blank,Moderate,Answered,2026-07-05,62
+Q-1055,TF-201-107-006,107,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-07-15,52
+Q-1056,TF-201-134-011,134,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-07-19,48
+Q-1057,TF-201-133-022,133,End of Treatment,,missing value,Required field left blank,Moderate,Answered,2026-08-11,25
+Q-1058,TF-201-120-007,120,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-06-22,75
+Q-1059,TF-201-101-008,101,Medical History,,missing value,Required field left blank,Moderate,Open,2026-08-18,18
+Q-1060,TF-201-106-020,106,End of Treatment,,missing value,Required field left blank,Moderate,Closed,2026-08-24,12
+Q-1061,TF-201-138-020,138,End of Treatment,,missing value,Required field left blank,Minor,Answered,2026-08-12,24
+Q-1062,TF-201-129-005,129,PASI Score,,missing value,Required field left blank,Minor,Open,2026-08-30,6
+Q-1063,TF-201-105-015,105,Vital Signs,,missing value,Required field left blank,Moderate,Closed,2026-09-02,3
+Q-1064,TF-201-113-008,113,Vital Signs,,missing value,Required field left blank,Minor,Closed,2026-08-03,33
+Q-1065,TF-201-130-011,130,Informed Consent,,missing value,Required field left blank,Minor,Answered,2026-08-16,20
+Q-1066,TF-201-119-008,119,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-08-19,17
+Q-1067,TF-201-120-022,120,Laboratory,,missing value,Required field left blank,Moderate,Open,2026-07-02,65
+Q-1068,TF-201-102-002,102,Informed Consent,,missing value,Required field left blank,Moderate,Open,2026-08-29,7
+Q-1069,TF-201-102-006,102,Demographics,,missing value,Required field left blank,Minor,Answered,2026-08-18,18
+Q-1070,TF-201-114-004,114,Vital Signs,,missing value,Required field left blank,Moderate,Open,2026-08-15,21
+Q-1071,TF-201-112-003,112,PASI Score,,missing value,Required field left blank,Minor,Open,2026-08-19,17
+Q-1072,TF-201-126-007,126,Laboratory,,missing value,Required field left blank,Minor,Open,2026-06-16,81
+Q-1073,TF-201-107-003,107,Informed Consent,,missing value,Required field left blank,Moderate,Open,2026-08-19,17
+Q-1074,TF-201-125-015,125,Vital Signs,,missing value,Required field left blank,Minor,Answered,2026-07-02,65
+Q-1075,TF-201-116-001,116,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-07-24,43
+Q-1076,TF-201-123-007,123,Laboratory,,missing value,Required field left blank,Moderate,Open,2026-07-28,39
+Q-1077,TF-201-110-014,110,Laboratory,,missing value,Required field left blank,Moderate,Open,2026-07-29,38
+Q-1078,TF-201-112-012,112,PASI Score,,missing value,Required field left blank,Minor,Open,2026-08-08,28
+Q-1079,TF-201-113-017,113,Informed Consent,,missing value,Required field left blank,Moderate,Open,2026-07-28,39
+Q-1080,TF-201-111-006,111,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-07-24,43
+Q-1081,TF-201-130-009,130,Laboratory,,missing value,Required field left blank,Minor,Answered,2026-06-14,83
+Q-1082,TF-201-103-006,103,Medical History,,missing value,Required field left blank,Minor,Open,2026-08-11,25
+Q-1083,TF-201-126-001,126,Informed Consent,,missing value,Required field left blank,Minor,Open,2026-07-01,66
+Q-1084,TF-201-116-023,116,Vital Signs,,missing value,Required field left blank,Moderate,Open,2026-07-07,60
+Q-1085,TF-201-118-001,118,Adverse Events,,missing value,Required field left blank,Moderate,Answered,2026-07-27,40
+Q-1086,TF-201-126-005,126,Medical History,,missing value,Required field left blank,Moderate,Open,2026-06-19,78
+Q-1087,TF-201-138-003,138,Inclusion/Exclusion,,missing value,Required field left blank,Minor,Answered,2026-07-18,49
+Q-1088,TF-201-122-023,122,PASI Score,,missing value,Required field left blank,Moderate,Answered,2026-06-18,79
+Q-1089,TF-201-105-013,105,Adverse Events,,missing value,Required field left blank,Minor,Closed,2026-07-23,44
+Q-1090,TF-201-136-001,136,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-08-19,17
+Q-1091,TF-201-101-015,101,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-08-31,5
+Q-1092,TF-201-124-005,124,End of Treatment,,missing value,Required field left blank,Minor,Answered,2026-08-22,14
+Q-1093,TF-201-103-004,103,End of Treatment,,missing value,Required field left blank,Moderate,Open,2026-06-30,67
+Q-1094,TF-201-102-005,102,Laboratory,,missing value,Required field left blank,Minor,Open,2026-07-16,51
+Q-1095,TF-201-132-020,132,Vital Signs,,missing value,Required field left blank,Moderate,Closed,2026-08-06,30
+Q-1096,TF-201-129-016,129,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-08-19,17
+Q-1097,TF-201-105-009,105,PASI Score,,missing value,Required field left blank,Minor,Closed,2026-08-01,35
+Q-1098,TF-201-126-002,126,Vital Signs,,missing value,Required field left blank,Minor,Closed,2026-08-08,28
+Q-1099,TF-201-115-008,115,Randomisation,,missing value,Required field left blank,Minor,Answered,2026-09-03,2
+Q-1100,TF-201-125-002,125,PASI Score,,missing value,Required field left blank,Moderate,Closed,2026-08-01,35
+Q-1101,TF-201-108-001,108,PASI Score,,missing value,Required field left blank,Minor,Closed,2026-09-03,2
+Q-1102,TF-201-123-006,123,Vital Signs,,missing value,Required field left blank,Minor,Closed,2026-08-25,11
+Q-1103,TF-201-104-009,104,End of Treatment,,missing value,Required field left blank,Minor,Closed,2026-07-31,36
+Q-1104,TF-201-126-005,126,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-07-03,64
+Q-1105,TF-201-110-005,110,Laboratory,,missing value,Required field left blank,Minor,Answered,2026-08-11,25
+Q-1106,TF-201-117-003,117,Vital Signs,,missing value,Required field left blank,Moderate,Answered,2026-07-24,43
+Q-1107,TF-201-132-007,132,PASI Score,,missing value,Required field left blank,Moderate,Closed,2026-08-02,34
+Q-1108,TF-201-117-012,117,Adverse Events,,missing value,Required field left blank,Minor,Answered,2026-06-24,73
+Q-1109,TF-201-126-007,126,Vital Signs,,missing value,Required field left blank,Minor,Closed,2026-08-02,34
+Q-1110,TF-201-116-012,116,Medical History,,missing value,Required field left blank,Moderate,Answered,2026-07-25,42
+Q-1111,TF-201-105-024,105,Laboratory,,missing value,Required field left blank,Minor,Open,2026-06-20,77
+Q-1112,TF-201-124-006,124,Laboratory,,missing value,Required field left blank,Minor,Open,2026-08-16,20
+Q-1113,TF-201-102-002,102,Adverse Events,,missing value,Required field left blank,Moderate,Closed,2026-08-17,19
+Q-1114,TF-201-131-008,131,Vital Signs,,missing value,Required field left blank,Minor,Closed,2026-08-20,16
+Q-1115,TF-201-134-004,134,Laboratory,,missing value,Required field left blank,Minor,Open,2026-07-02,65
+Q-1116,TF-201-102-002,102,Adverse Events,,missing value,Required field left blank,Moderate,Answered,2026-07-01,66
+Q-1117,TF-201-118-018,118,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-07-11,56
+Q-1118,TF-201-108-007,108,PASI Score,,missing value,Required field left blank,Minor,Open,2026-07-03,64
+Q-1119,TF-201-107-009,107,Laboratory,,missing value,Required field left blank,Minor,Open,2026-06-10,87
+Q-1120,TF-201-125-018,125,Adverse Events,,missing value,Required field left blank,Minor,Open,2026-06-23,74
+Q-1121,TF-201-117-015,117,Adverse Events,,missing value,Required field left blank,Moderate,Answered,2026-08-19,17
+Q-1122,TF-201-106-020,106,Laboratory,,missing value,Required field left blank,Moderate,Closed,2026-08-16,20
+Q-1123,TF-201-109-002,109,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-06-09,88
+Q-1124,TF-201-101-029,101,Laboratory,,missing value,Required field left blank,Minor,Answered,2026-06-09,88
+Q-1125,TF-201-112-001,112,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-07-03,64
+Q-1126,TF-201-101-021,101,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-08-11,25
+Q-1127,TF-201-120-024,120,Laboratory,,missing value,Required field left blank,Minor,Answered,2026-08-19,17
+Q-1128,TF-201-106-012,106,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-07-03,64
+Q-1129,TF-201-109-003,109,Adverse Events,,missing value,Required field left blank,Minor,Open,2026-07-10,57
+Q-1130,TF-201-119-001,119,PASI Score,,missing value,Required field left blank,Minor,Open,2026-06-26,71
+Q-1131,TF-201-106-007,106,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-06-16,81
+Q-1132,TF-201-102-005,102,End of Treatment,,missing value,Required field left blank,Moderate,Open,2026-08-13,23
+Q-1133,TF-201-104-009,104,Laboratory,,missing value,Required field left blank,Minor,Open,2026-07-20,47
+Q-1134,TF-201-127-020,127,Adverse Events,,missing value,Required field left blank,Minor,Open,2026-08-09,27
+Q-1135,TF-201-106-003,106,Adverse Events,,missing value,Required field left blank,Minor,Answered,2026-07-15,52
+Q-1136,TF-201-130-013,130,Inclusion/Exclusion,,missing value,Required field left blank,Minor,Answered,2026-06-14,83
+Q-1137,TF-201-124-018,124,Randomisation,,missing value,Required field left blank,Minor,Answered,2026-06-09,88
+Q-1138,TF-201-113-011,113,Laboratory,,missing value,Required field left blank,Minor,Open,2026-06-28,69
+Q-1139,TF-201-120-018,120,End of Treatment,,missing value,Required field left blank,Moderate,Open,2026-09-01,4
+Q-1140,TF-201-108-003,108,Vital Signs,,missing value,Required field left blank,Minor,Answered,2026-08-02,34
+Q-1141,TF-201-132-008,132,PASI Score,,missing value,Required field left blank,Minor,Open,2026-06-18,79
+Q-1142,TF-201-137-014,137,Vital Signs,,missing value,Required field left blank,Minor,Closed,2026-07-26,41
+Q-1143,TF-201-132-019,132,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-09-04,1
+Q-1144,TF-201-116-018,116,End of Treatment,,missing value,Required field left blank,Moderate,Open,2026-07-13,54
+Q-1145,TF-201-135-003,135,Medical History,,missing value,Required field left blank,Minor,Closed,2026-08-21,15
+Q-1146,TF-201-116-022,116,Demographics,,missing value,Required field left blank,Minor,Open,2026-07-27,40
+Q-1147,TF-201-131-002,131,Randomisation,,missing value,Required field left blank,Minor,Answered,2026-06-19,78
+Q-1148,TF-201-127-022,127,Vital Signs,,missing value,Required field left blank,Minor,Answered,2026-06-28,69
+Q-1149,TF-201-125-004,125,Medical History,,missing value,Required field left blank,Minor,Open,2026-08-25,11
+Q-1150,TF-201-114-002,114,Inclusion/Exclusion,,missing value,Required field left blank,Moderate,Open,2026-07-08,59
+Q-1151,TF-201-104-009,104,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-06-08,89
+Q-1152,TF-201-126-007,126,Laboratory,,missing value,Required field left blank,Minor,Open,2026-08-12,24
+Q-1153,TF-201-123-014,123,Adverse Events,,missing value,Required field left blank,Minor,Closed,2026-08-24,12
+Q-1154,TF-201-137-011,137,Inclusion/Exclusion,,missing value,Required field left blank,Moderate,Open,2026-06-22,75
+Q-1155,TF-201-112-002,112,Medical History,,missing value,Required field left blank,Minor,Answered,2026-06-14,83
+Q-1156,TF-201-123-014,123,Vital Signs,,missing value,Required field left blank,Moderate,Closed,2026-08-26,10
+Q-1157,TF-201-112-014,112,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-07-15,52
+Q-1158,TF-201-136-009,136,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-07-16,51
+Q-1159,TF-201-137-018,137,Demographics,,missing value,Required field left blank,Moderate,Closed,2026-08-27,9
+Q-1160,TF-201-135-007,135,Vital Signs,,missing value,Required field left blank,Moderate,Answered,2026-08-04,32
+Q-1161,TF-201-120-015,120,Adverse Events,,missing value,Required field left blank,Minor,Open,2026-07-04,63
+Q-1162,TF-201-130-016,130,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-06-15,82
+Q-1163,TF-201-117-010,117,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-06-23,74
+Q-1164,TF-201-133-019,133,Vital Signs,,missing value,Required field left blank,Minor,Answered,2026-07-16,51
+Q-1165,TF-201-101-007,101,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-09-01,4
+Q-1166,TF-201-112-006,112,PASI Score,,missing value,Required field left blank,Minor,Closed,2026-08-24,12
+Q-1167,TF-201-119-005,119,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-06-30,67
+Q-1168,TF-201-124-013,124,Vital Signs,,missing value,Required field left blank,Moderate,Open,2026-08-25,11
+Q-1169,TF-201-112-021,112,End of Treatment,,missing value,Required field left blank,Moderate,Open,2026-07-12,55
+Q-1170,TF-201-129-007,129,PASI Score,,missing value,Required field left blank,Moderate,Open,2026-07-09,58
+Q-1171,TF-201-133-015,133,Inclusion/Exclusion,,missing value,Required field left blank,Minor,Open,2026-08-31,5
+Q-1172,TF-201-113-017,113,Adverse Events,,missing value,Required field left blank,Moderate,Closed,2026-08-22,14
+Q-1173,TF-201-107-002,107,End of Treatment,,missing value,Required field left blank,Moderate,Answered,2026-08-29,7
+Q-1174,TF-201-103-004,103,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-07-26,41
+Q-1175,TF-201-108-001,108,Adverse Events,,missing value,Required field left blank,Moderate,Answered,2026-07-10,57
+Q-1176,TF-201-131-006,131,Laboratory,,missing value,Required field left blank,Minor,Answered,2026-07-13,54
+Q-1177,TF-201-110-012,110,Laboratory,,missing value,Required field left blank,Moderate,Closed,2026-08-02,34
+Q-1178,TF-201-127-018,127,Laboratory,,missing value,Required field left blank,Moderate,Open,2026-06-14,83
+Q-1179,TF-201-120-022,120,PASI Score,,missing value,Required field left blank,Moderate,Answered,2026-07-17,50
+Q-1180,TF-201-114-005,114,PASI Score,,missing value,Required field left blank,Minor,Open,2026-08-24,12
+Q-1181,TF-201-126-002,126,Laboratory,,missing value,Required field left blank,Minor,Closed,2026-08-03,33
+Q-1182,TF-201-129-020,129,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-08-02,34
+Q-1183,TF-201-136-004,136,Demographics,,missing value,Required field left blank,Moderate,Answered,2026-08-14,22
+Q-1184,TF-201-105-024,105,Laboratory,,missing value,Required field left blank,Minor,Answered,2026-08-19,17
+Q-1185,TF-201-127-008,127,Vital Signs,,missing value,Required field left blank,Moderate,Open,2026-08-06,30
+Q-1186,TF-201-108-002,108,PASI Score,,missing value,Required field left blank,Moderate,Answered,2026-07-26,41
+Q-1187,TF-201-121-002,121,Informed Consent,,missing value,Required field left blank,Minor,Answered,2026-06-19,78
+Q-1188,TF-201-136-018,136,Informed Consent,,missing value,Required field left blank,Moderate,Closed,2026-08-26,10
+Q-1189,TF-201-118-005,118,Medical History,,missing value,Required field left blank,Minor,Closed,2026-08-29,7
+Q-1190,TF-201-101-024,101,Laboratory,,missing value,Required field left blank,Moderate,Open,2026-07-06,61
+Q-1191,TF-201-104-005,104,PASI Score,,missing value,Required field left blank,Moderate,Answered,2026-07-05,62
+Q-1192,TF-201-103-002,103,Laboratory,,missing value,Required field left blank,Minor,Open,2026-06-27,70
+Q-1193,TF-201-119-007,119,End of Treatment,,missing value,Required field left blank,Minor,Answered,2026-07-20,47
+Q-1194,TF-201-116-010,116,Vital Signs,,missing value,Required field left blank,Moderate,Answered,2026-08-15,21
+Q-1195,TF-201-126-003,126,Randomisation,,missing value,Required field left blank,Moderate,Closed,2026-09-02,3
+Q-1196,TF-201-114-004,114,Medical History,,missing value,Required field left blank,Moderate,Answered,2026-06-08,89
+Q-1197,TF-201-123-023,123,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-08-31,5
+Q-1198,TF-201-104-024,104,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-08-22,14
+Q-1199,TF-201-108-009,108,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-07-02,65
+Q-1200,TF-201-129-002,129,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-06-11,86
+Q-1201,TF-201-120-012,120,Demographics,,missing value,Required field left blank,Minor,Answered,2026-07-14,53
+Q-1202,TF-201-113-004,113,Demographics,,missing value,Required field left blank,Moderate,Open,2026-08-06,30
+Q-1203,TF-201-104-013,104,Demographics,,missing value,Required field left blank,Minor,Open,2026-07-21,46
+Q-1204,TF-201-108-006,108,Vital Signs,,missing value,Required field left blank,Minor,Answered,2026-07-18,49
+Q-1205,TF-201-129-021,129,Medical History,,missing value,Required field left blank,Minor,Open,2026-06-29,68
+Q-1206,TF-201-115-004,115,PASI Score,,missing value,Required field left blank,Moderate,Closed,2026-09-01,4
+Q-1207,TF-201-103-001,103,Informed Consent,,missing value,Required field left blank,Minor,Open,2026-07-05,62
+Q-1208,TF-201-138-007,138,Demographics,,missing value,Required field left blank,Moderate,Open,2026-07-31,36
+Q-1209,TF-201-116-003,116,Informed Consent,,missing value,Required field left blank,Moderate,Answered,2026-07-31,36
+Q-1210,TF-201-133-013,133,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-06-20,77
+Q-1211,TF-201-101-003,101,Demographics,,missing value,Required field left blank,Minor,Answered,2026-07-16,51
+Q-1212,TF-201-135-001,135,Vital Signs,,missing value,Required field left blank,Moderate,Answered,2026-06-10,87
+Q-1213,TF-201-133-003,133,Laboratory,,missing value,Required field left blank,Minor,Closed,2026-08-21,15
+Q-1214,TF-201-135-009,135,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-06-30,67
+Q-1215,TF-201-109-016,109,Vital Signs,,missing value,Required field left blank,Moderate,Open,2026-08-22,14
+Q-1216,TF-201-122-016,122,Demographics,,missing value,Required field left blank,Minor,Answered,2026-07-19,48
+Q-1217,TF-201-133-008,133,Demographics,,missing value,Required field left blank,Moderate,Open,2026-06-12,85
+Q-1218,TF-201-125-006,125,Inclusion/Exclusion,,missing value,Required field left blank,Moderate,Answered,2026-08-06,30
+Q-1219,TF-201-110-004,110,PASI Score,,missing value,Required field left blank,Minor,Open,2026-07-12,55
+Q-1220,TF-201-119-008,119,Laboratory,,missing value,Required field left blank,Moderate,Open,2026-06-20,77
+Q-1221,TF-201-109-004,109,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-07-04,63
+Q-1222,TF-201-104-007,104,Randomisation,,missing value,Required field left blank,Minor,Open,2026-07-13,54
+Q-1223,TF-201-129-002,129,PASI Score,,missing value,Required field left blank,Minor,Open,2026-06-24,73
+Q-1224,TF-201-105-015,105,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-07-17,50
+Q-1225,TF-201-117-001,117,Inclusion/Exclusion,,missing value,Required field left blank,Minor,Open,2026-06-21,76
+Q-1226,TF-201-104-019,104,Vital Signs,,missing value,Required field left blank,Minor,Answered,2026-08-08,28
+Q-1227,TF-201-127-021,127,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-06-18,79
+Q-1228,TF-201-131-006,131,Inclusion/Exclusion,,missing value,Required field left blank,Minor,Open,2026-08-29,7
+Q-1229,TF-201-101-024,101,Randomisation,,missing value,Required field left blank,Moderate,Closed,2026-08-04,32
+Q-1230,TF-201-138-016,138,Laboratory,,missing value,Required field left blank,Minor,Open,2026-06-12,85
+Q-1231,TF-201-124-004,124,Laboratory,,missing value,Required field left blank,Moderate,Answered,2026-06-21,76
+Q-1232,TF-201-137-009,137,PASI Score,,missing value,Required field left blank,Minor,Answered,2026-06-19,78
+Q-1233,TF-201-103-001,103,Adverse Events,,missing value,Required field left blank,Moderate,Open,2026-08-11,25
+Q-1234,TF-201-130-006,130,Randomisation,,missing value,Required field left blank,Minor,Answered,2026-07-13,54
+Q-1235,TF-201-127-004,127,Vital Signs,,missing value,Required field left blank,Minor,Answered,2026-08-26,10
+Q-1236,TF-201-127-018,127,Vital Signs,,missing value,Required field left blank,Minor,Open,2026-07-04,63
+Q-1237,TF-201-101-001,101,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-03,2
+Q-1238,TF-201-101-001,101,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-30,37
+Q-1239,TF-201-101-009,101,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-10,26
+Q-1240,TF-201-101-012,101,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-09-03,2
+Q-1241,TF-201-101-013,101,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-13,54
+Q-1242,TF-201-101-015,101,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-30,37
+Q-1243,TF-201-101-016,101,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-14,53
+Q-1244,TF-201-101-019,101,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-23,13
+Q-1245,TF-201-101-019,101,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-28,8
+Q-1246,TF-201-101-022,101,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-06,30
+Q-1247,TF-201-101-025,101,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-18,49
+Q-1248,TF-201-101-026,101,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-14,53
+Q-1249,TF-201-102-004,102,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-30,6
+Q-1250,TF-201-102-006,102,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-08,59
+Q-1251,TF-201-103-002,103,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-04,1
+Q-1252,TF-201-103-003,103,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-30,37
+Q-1253,TF-201-103-004,103,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-30,6
+Q-1254,TF-201-103-005,103,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-03,33
+Q-1255,TF-201-103-013,103,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-09-03,2
+Q-1256,TF-201-104-002,104,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-12,24
+Q-1257,TF-201-104-004,104,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-27,40
+Q-1258,TF-201-104-005,104,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-01,66
+Q-1259,TF-201-104-005,104,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-14,22
+Q-1260,TF-201-104-005,104,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-31,36
+Q-1261,TF-201-104-008,104,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-16,20
+Q-1262,TF-201-104-008,104,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-26,10
+Q-1263,TF-201-104-014,104,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-20,16
+Q-1264,TF-201-104-015,104,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-29,7
+Q-1265,TF-201-104-023,104,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-19,17
+Q-1266,TF-201-105-008,105,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-14,22
+Q-1267,TF-201-105-009,105,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-05,62
+Q-1268,TF-201-105-009,105,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-28,39
+Q-1269,TF-201-105-014,105,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-26,41
+Q-1270,TF-201-105-019,105,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-24,12
+Q-1271,TF-201-105-022,105,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-29,7
+Q-1272,TF-201-105-024,105,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-09-02,3
+Q-1273,TF-201-106-001,106,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-11,25
+Q-1274,TF-201-106-003,106,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-03,2
+Q-1275,TF-201-106-006,106,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-07,60
+Q-1276,TF-201-106-009,106,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-31,5
+Q-1277,TF-201-106-015,106,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-19,48
+Q-1278,TF-201-106-018,106,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-23,44
+Q-1279,TF-201-106-022,106,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-06-29,68
+Q-1280,TF-201-107-004,107,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-19,17
+Q-1281,TF-201-107-005,107,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-30,37
+Q-1282,TF-201-107-008,107,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-05,31
+Q-1283,TF-201-108-001,108,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-04,1
+Q-1284,TF-201-108-005,108,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-04,1
+Q-1285,TF-201-108-006,108,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-09-02,3
+Q-1286,TF-201-108-007,108,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-27,9
+Q-1287,TF-201-109-001,109,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-09-03,2
+Q-1288,TF-201-109-001,109,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-05,62
+Q-1289,TF-201-109-002,109,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-02,3
+Q-1290,TF-201-109-004,109,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-06-29,68
+Q-1291,TF-201-109-007,109,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-04,1
+Q-1292,TF-201-109-008,109,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-02,34
+Q-1293,TF-201-109-009,109,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-26,10
+Q-1294,TF-201-109-012,109,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-22,14
+Q-1295,TF-201-109-015,109,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-22,14
+Q-1296,TF-201-109-017,109,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-04,63
+Q-1297,TF-201-109-018,109,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-16,20
+Q-1298,TF-201-109-023,109,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-05,62
+Q-1299,TF-201-109-023,109,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-24,43
+Q-1300,TF-201-109-023,109,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-20,16
+Q-1301,TF-201-110-005,110,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-13,23
+Q-1302,TF-201-110-008,110,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-09,27
+Q-1303,TF-201-110-010,110,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-01,35
+Q-1304,TF-201-110-011,110,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-26,41
+Q-1305,TF-201-110-014,110,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-16,20
+Q-1306,TF-201-110-015,110,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-20,16
+Q-1307,TF-201-111-001,111,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-22,45
+Q-1308,TF-201-111-002,111,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-22,45
+Q-1309,TF-201-111-008,111,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-06,30
+Q-1310,TF-201-111-008,111,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-31,5
+Q-1311,TF-201-111-009,111,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-25,42
+Q-1312,TF-201-111-009,111,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-09-01,4
+Q-1313,TF-201-111-015,111,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-19,17
+Q-1314,TF-201-111-018,111,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-06,30
+Q-1315,TF-201-112-001,112,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-02,65
+Q-1316,TF-201-112-002,112,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-24,43
+Q-1317,TF-201-112-012,112,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-26,10
+Q-1318,TF-201-112-019,112,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-09,58
+Q-1319,TF-201-112-023,112,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-07,60
+Q-1320,TF-201-112-024,112,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-08,59
+Q-1321,TF-201-113-003,113,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-09-04,1
+Q-1322,TF-201-113-009,113,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-23,13
+Q-1323,TF-201-113-010,113,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-06-30,67
+Q-1324,TF-201-113-013,113,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-17,50
+Q-1325,TF-201-113-021,113,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-17,50
+Q-1326,TF-201-113-023,113,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-12,24
+Q-1327,TF-201-113-024,113,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-19,48
+Q-1328,TF-201-114-002,114,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-03,33
+Q-1329,TF-201-114-005,114,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-14,53
+Q-1330,TF-201-114-009,114,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-08,59
+Q-1331,TF-201-114-013,114,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-16,20
+Q-1332,TF-201-114-014,114,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-30,6
+Q-1333,TF-201-115-002,115,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-06-29,68
+Q-1334,TF-201-115-003,115,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-05,31
+Q-1335,TF-201-115-009,115,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-26,41
+Q-1336,TF-201-115-009,115,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-27,9
+Q-1337,TF-201-115-017,115,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-16,51
+Q-1338,TF-201-116-001,116,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-20,16
+Q-1339,TF-201-116-002,116,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-14,53
+Q-1340,TF-201-116-004,116,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-06-29,68
+Q-1341,TF-201-116-007,116,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-16,51
+Q-1342,TF-201-116-008,116,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-08,28
+Q-1343,TF-201-116-010,116,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-06-30,67
+Q-1344,TF-201-116-011,116,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-23,44
+Q-1345,TF-201-116-013,116,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-31,5
+Q-1346,TF-201-116-014,116,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-02,34
+Q-1347,TF-201-116-017,116,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-13,23
+Q-1348,TF-201-116-023,116,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-06-30,67
+Q-1349,TF-201-116-027,116,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-04,1
+Q-1350,TF-201-116-028,116,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-16,51
+Q-1351,TF-201-116-028,116,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-04,63
+Q-1352,TF-201-117-003,117,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-06-28,69
+Q-1353,TF-201-117-004,117,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-23,13
+Q-1354,TF-201-117-006,117,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-18,49
+Q-1355,TF-201-117-007,117,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-07,60
+Q-1356,TF-201-117-007,117,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-24,43
+Q-1357,TF-201-117-009,117,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-19,17
+Q-1358,TF-201-117-009,117,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-09-01,4
+Q-1359,TF-201-117-015,117,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-09-04,1
+Q-1360,TF-201-117-017,117,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-18,18
+Q-1361,TF-201-118-003,118,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-03,33
+Q-1362,TF-201-118-004,118,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-17,50
+Q-1363,TF-201-118-010,118,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-06-29,68
+Q-1364,TF-201-118-012,118,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-03,64
+Q-1365,TF-201-118-013,118,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-30,37
+Q-1366,TF-201-118-016,118,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-31,5
+Q-1367,TF-201-118-018,118,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-06,30
+Q-1368,TF-201-119-001,119,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-09-03,2
+Q-1369,TF-201-119-002,119,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-15,52
+Q-1370,TF-201-119-002,119,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-27,9
+Q-1371,TF-201-119-005,119,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-14,53
+Q-1372,TF-201-119-008,119,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-19,17
+Q-1373,TF-201-119-009,119,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-02,3
+Q-1374,TF-201-120-002,120,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-25,42
+Q-1375,TF-201-120-002,120,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-09,27
+Q-1376,TF-201-120-010,120,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-31,5
+Q-1377,TF-201-120-012,120,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-13,54
+Q-1378,TF-201-120-013,120,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-18,18
+Q-1379,TF-201-120-024,120,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-06,61
+Q-1380,TF-201-120-024,120,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-18,49
+Q-1381,TF-201-121-005,121,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-06-28,69
+Q-1382,TF-201-121-005,121,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-15,21
+Q-1383,TF-201-121-007,121,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-27,9
+Q-1384,TF-201-121-014,121,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-30,6
+Q-1385,TF-201-121-015,121,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-26,41
+Q-1386,TF-201-122-001,122,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-19,48
+Q-1387,TF-201-122-002,122,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-03,64
+Q-1388,TF-201-122-002,122,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-05,62
+Q-1389,TF-201-122-002,122,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-03,33
+Q-1390,TF-201-122-002,122,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-04,1
+Q-1391,TF-201-122-002,122,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-24,12
+Q-1392,TF-201-122-004,122,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-05,31
+Q-1393,TF-201-122-006,122,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-04,32
+Q-1394,TF-201-122-006,122,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-19,48
+Q-1395,TF-201-122-011,122,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-22,45
+Q-1396,TF-201-122-015,122,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-14,22
+Q-1397,TF-201-122-018,122,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-24,43
+Q-1398,TF-201-122-019,122,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-18,49
+Q-1399,TF-201-122-023,122,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-08,59
+Q-1400,TF-201-123-002,123,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-01,66
+Q-1401,TF-201-123-002,123,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-10,26
+Q-1402,TF-201-123-004,123,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-13,54
+Q-1403,TF-201-123-004,123,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-29,38
+Q-1404,TF-201-123-005,123,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-24,12
+Q-1405,TF-201-123-011,123,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-01,4
+Q-1406,TF-201-123-016,123,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-27,40
+Q-1407,TF-201-123-018,123,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-03,33
+Q-1408,TF-201-123-020,123,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-28,39
+Q-1409,TF-201-123-025,123,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-26,41
+Q-1410,TF-201-124-001,124,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-28,39
+Q-1411,TF-201-124-001,124,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-10,57
+Q-1412,TF-201-124-003,124,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-31,36
+Q-1413,TF-201-124-008,124,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-31,5
+Q-1414,TF-201-124-011,124,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-15,52
+Q-1415,TF-201-124-013,124,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-27,9
+Q-1416,TF-201-124-015,124,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-04,63
+Q-1417,TF-201-124-015,124,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-05,62
+Q-1418,TF-201-124-018,124,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-01,35
+Q-1419,TF-201-125-004,125,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-12,55
+Q-1420,TF-201-125-005,125,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-10,26
+Q-1421,TF-201-125-010,125,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-27,40
+Q-1422,TF-201-125-014,125,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-20,16
+Q-1423,TF-201-125-014,125,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-18,18
+Q-1424,TF-201-125-018,125,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-09,27
+Q-1425,TF-201-125-020,125,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-10,57
+Q-1426,TF-201-125-021,125,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-30,37
+Q-1427,TF-201-125-022,125,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-14,22
+Q-1428,TF-201-125-022,125,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-22,14
+Q-1429,TF-201-126-005,126,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-18,49
+Q-1430,TF-201-126-005,126,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-27,9
+Q-1431,TF-201-126-008,126,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-06-28,69
+Q-1432,TF-201-127-003,127,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-09-01,4
+Q-1433,TF-201-127-003,127,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-28,39
+Q-1434,TF-201-127-004,127,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-24,43
+Q-1435,TF-201-127-005,127,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-13,23
+Q-1436,TF-201-127-007,127,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-21,46
+Q-1437,TF-201-127-007,127,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-23,13
+Q-1438,TF-201-127-016,127,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-02,3
+Q-1439,TF-201-127-017,127,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-31,36
+Q-1440,TF-201-127-018,127,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-26,41
+Q-1441,TF-201-128-006,128,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-31,36
+Q-1442,TF-201-128-008,128,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-15,52
+Q-1443,TF-201-129-005,129,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-16,51
+Q-1444,TF-201-129-009,129,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-04,32
+Q-1445,TF-201-129-009,129,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-16,20
+Q-1446,TF-201-129-011,129,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-11,25
+Q-1447,TF-201-129-019,129,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-09-01,4
+Q-1448,TF-201-129-019,129,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-04,32
+Q-1449,TF-201-129-025,129,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-23,13
+Q-1450,TF-201-130-001,130,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-14,22
+Q-1451,TF-201-130-002,130,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-04,63
+Q-1452,TF-201-130-007,130,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-14,22
+Q-1453,TF-201-130-008,130,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-21,15
+Q-1454,TF-201-130-010,130,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-26,10
+Q-1455,TF-201-130-011,130,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-12,24
+Q-1456,TF-201-130-014,130,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-07,60
+Q-1457,TF-201-130-015,130,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-23,13
+Q-1458,TF-201-130-015,130,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-06,30
+Q-1459,TF-201-130-017,130,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-08,28
+Q-1460,TF-201-130-019,130,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-29,7
+Q-1461,TF-201-131-001,131,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-27,9
+Q-1462,TF-201-131-005,131,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-02,34
+Q-1463,TF-201-131-006,131,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-03,33
+Q-1464,TF-201-131-008,131,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-22,45
+Q-1465,TF-201-132-005,132,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-04,63
+Q-1466,TF-201-132-010,132,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-28,39
+Q-1467,TF-201-132-011,132,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-10,26
+Q-1468,TF-201-132-013,132,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-28,39
+Q-1469,TF-201-132-015,132,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-11,56
+Q-1470,TF-201-132-018,132,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-08,28
+Q-1471,TF-201-132-020,132,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-02,65
+Q-1472,TF-201-132-022,132,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-16,20
+Q-1473,TF-201-133-005,133,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-12,24
+Q-1474,TF-201-133-008,133,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-25,42
+Q-1475,TF-201-133-011,133,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-31,5
+Q-1476,TF-201-133-015,133,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-16,20
+Q-1477,TF-201-133-018,133,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-11,56
+Q-1478,TF-201-133-020,133,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-04,63
+Q-1479,TF-201-133-021,133,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-29,7
+Q-1480,TF-201-134-001,134,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-17,19
+Q-1481,TF-201-134-003,134,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-06,30
+Q-1482,TF-201-134-004,134,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-03,2
+Q-1483,TF-201-135-004,135,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-31,36
+Q-1484,TF-201-135-009,135,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-06,30
+Q-1485,TF-201-135-009,135,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-28,8
+Q-1486,TF-201-135-011,135,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-01,66
+Q-1487,TF-201-136-002,136,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-22,45
+Q-1488,TF-201-136-005,136,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-27,9
+Q-1489,TF-201-136-007,136,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-06-28,69
+Q-1490,TF-201-136-011,136,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-08-25,11
+Q-1491,TF-201-136-014,136,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-02,65
+Q-1492,TF-201-136-021,136,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-18,18
+Q-1493,TF-201-137-005,137,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-12,55
+Q-1494,TF-201-137-006,137,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-07-15,52
+Q-1495,TF-201-137-013,137,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-01,66
+Q-1496,TF-201-137-018,137,Laboratory,HGB,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-11,25
+Q-1497,TF-201-138-003,138,Laboratory,SYSBP,out of range,"Value outside expected clinical range, please confirm",Major,Answered,2026-08-10,26
+Q-1498,TF-201-138-006,138,Laboratory,DIABP,out of range,"Value outside expected clinical range, please confirm",Major,Closed,2026-07-27,40
+Q-1499,TF-201-138-010,138,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-09-01,4
+Q-1500,TF-201-138-012,138,Laboratory,PULSE,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-07-01,66
+Q-1501,TF-201-138-013,138,Laboratory,ALT,out of range,"Value outside expected clinical range, please confirm",Major,Open,2026-08-17,19

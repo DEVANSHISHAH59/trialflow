@@ -1,0 +1,5 @@
+rule,total_findings,sites_affected
+Missing required data,328,38
+Out-of-range value,265,38
+Duplicate record,47,28
+Cross-form inconsistency,26,19

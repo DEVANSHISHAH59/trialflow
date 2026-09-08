@@ -1,0 +1,586 @@
+STUDYID,DOMAIN,USUBJID,AESEQ,AETERM,AEBODSYS,AESEV,AESER,AEREL,AESTDTC,AEENDTC,AEOUT
+TF-201,AE,TF-201-101-004,1,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-09-12,2026-09-29,Recovered/Resolved
+TF-201,AE,TF-201-101-005,2,Fatigue,General disorders,MILD,N,Unlikely,2025-04-30,2025-05-23,Recovered/Resolved
+TF-201,AE,TF-201-101-006,3,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Unlikely,2026-07-07,,Not recovered/Not resolved
+TF-201,AE,TF-201-101-007,4,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2025-07-25,,Not recovered/Not resolved
+TF-201,AE,TF-201-101-008,5,Fatigue,General disorders,MILD,N,Unlikely,2025-11-21,2025-12-22,Recovered/Resolved
+TF-201,AE,TF-201-101-008,6,Dizziness,Nervous system disorders,MODERATE,N,Possible,2025-11-21,2025-12-12,Recovered/Resolved
+TF-201,AE,TF-201-101-009,7,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2025-11-22,2025-12-24,Recovered/Resolved
+TF-201,AE,TF-201-101-011,8,Dizziness,Nervous system disorders,MILD,N,Not related,2026-05-09,2026-05-14,Recovered/Resolved
+TF-201,AE,TF-201-101-011,9,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-05-13,,Not recovered/Not resolved
+TF-201,AE,TF-201-101-011,10,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Possible,2026-04-22,2026-05-27,Recovered/Resolved
+TF-201,AE,TF-201-101-011,11,Fatigue,General disorders,MODERATE,N,Possible,2026-04-06,2026-04-22,Recovered/Resolved
+TF-201,AE,TF-201-101-011,12,Injection site erythema,General disorders,MILD,N,Possible,2026-06-05,2026-07-08,Recovered/Resolved
+TF-201,AE,TF-201-101-012,13,Fatigue,General disorders,MODERATE,N,Possible,2025-06-09,,Not recovered/Not resolved
+TF-201,AE,TF-201-101-013,14,Fatigue,General disorders,MILD,N,Not related,2025-09-03,,Not recovered/Not resolved
+TF-201,AE,TF-201-101-014,15,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2026-06-19,2026-07-13,Recovered/Resolved
+TF-201,AE,TF-201-101-014,16,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2026-06-28,2026-07-08,Recovered/Resolved
+TF-201,AE,TF-201-101-016,17,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Not related,2026-01-08,2026-02-17,Recovered/Resolved
+TF-201,AE,TF-201-101-017,18,Dizziness,Nervous system disorders,MILD,N,Probable,2025-06-24,2025-07-05,Recovered/Resolved
+TF-201,AE,TF-201-101-021,19,Dizziness,Nervous system disorders,MODERATE,N,Possible,2026-02-17,2026-03-04,Recovered/Resolved
+TF-201,AE,TF-201-101-022,20,Injection site erythema,General disorders,MODERATE,N,Unlikely,2026-07-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-101-022,21,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2026-08-31,,Not recovered/Not resolved
+TF-201,AE,TF-201-101-022,22,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-06-21,2026-07-03,Recovered/Resolved
+TF-201,AE,TF-201-101-023,23,Dizziness,Nervous system disorders,MILD,N,Not related,2025-10-08,2025-10-18,Recovered/Resolved
+TF-201,AE,TF-201-101-026,24,Injection site erythema,General disorders,MILD,N,Probable,2026-06-30,,Not recovered/Not resolved
+TF-201,AE,TF-201-101-028,25,Injection site erythema,General disorders,MILD,N,Not related,2026-03-05,2026-03-28,Recovered/Resolved
+TF-201,AE,TF-201-101-028,26,Injection site erythema,General disorders,MODERATE,N,Unlikely,2026-07-03,2026-07-26,Recovered/Resolved
+TF-201,AE,TF-201-102-001,27,Fatigue,General disorders,MODERATE,N,Unlikely,2025-10-20,2025-11-21,Recovered/Resolved
+TF-201,AE,TF-201-102-002,28,Diarrhoea,Gastrointestinal disorders,MILD,N,Probable,2026-03-20,2026-03-28,Recovered/Resolved
+TF-201,AE,TF-201-102-002,29,Headache,Nervous system disorders,MODERATE,N,Unlikely,2025-11-19,,Not recovered/Not resolved
+TF-201,AE,TF-201-102-003,30,Headache,Nervous system disorders,MILD,N,Not related,2026-10-23,,Not recovered/Not resolved
+TF-201,AE,TF-201-102-006,31,Dizziness,Nervous system disorders,MODERATE,N,Not related,2025-07-06,,Not recovered/Not resolved
+TF-201,AE,TF-201-103-001,32,Upper respiratory tract infection,Infections and infestations,MILD,N,Unlikely,2026-04-26,,Not recovered/Not resolved
+TF-201,AE,TF-201-103-002,33,Fatigue,General disorders,MODERATE,N,Possible,2026-01-28,2026-03-01,Recovered/Resolved
+TF-201,AE,TF-201-103-002,34,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2026-04-11,2026-04-30,Recovered/Resolved
+TF-201,AE,TF-201-103-003,35,Headache,Nervous system disorders,MILD,N,Possible,2025-07-30,2025-08-15,Recovered/Resolved
+TF-201,AE,TF-201-103-003,36,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Not related,2025-08-03,,Not recovered/Not resolved
+TF-201,AE,TF-201-103-004,37,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Possible,2026-03-07,,Not recovered/Not resolved
+TF-201,AE,TF-201-103-004,38,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Possible,2026-03-18,,Not recovered/Not resolved
+TF-201,AE,TF-201-103-007,39,Fatigue,General disorders,MODERATE,N,Probable,2026-06-09,2026-07-04,Recovered/Resolved
+TF-201,AE,TF-201-103-007,40,Fatigue,General disorders,MODERATE,N,Possible,2026-04-03,2026-04-21,Recovered/Resolved
+TF-201,AE,TF-201-103-009,41,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Possible,2025-12-01,2025-12-31,Recovered/Resolved
+TF-201,AE,TF-201-103-010,42,Dizziness,Nervous system disorders,MILD,N,Not related,2026-05-17,2026-05-21,Recovered/Resolved
+TF-201,AE,TF-201-103-011,43,Injection site erythema,General disorders,MODERATE,N,Not related,2026-07-01,2026-07-21,Recovered/Resolved
+TF-201,AE,TF-201-103-011,44,Headache,Nervous system disorders,MODERATE,N,Unlikely,2026-06-13,,Not recovered/Not resolved
+TF-201,AE,TF-201-103-013,45,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2025-08-22,2025-09-15,Recovered/Resolved
+TF-201,AE,TF-201-104-002,46,Fatigue,General disorders,MILD,N,Probable,2025-09-21,2025-09-23,Recovered/Resolved
+TF-201,AE,TF-201-104-008,47,Fatigue,General disorders,MODERATE,N,Probable,2026-02-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-104-008,48,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Not related,2025-12-19,2025-12-28,Recovered/Resolved
+TF-201,AE,TF-201-104-009,49,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2025-04-15,2025-05-16,Recovered/Resolved
+TF-201,AE,TF-201-104-010,50,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2026-01-06,,Not recovered/Not resolved
+TF-201,AE,TF-201-104-011,51,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2026-01-31,,Not recovered/Not resolved
+TF-201,AE,TF-201-104-011,52,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2026-01-12,2026-02-04,Recovered/Resolved
+TF-201,AE,TF-201-104-012,53,Dizziness,Nervous system disorders,MODERATE,N,Unlikely,2025-05-09,,Not recovered/Not resolved
+TF-201,AE,TF-201-104-012,54,Alanine aminotransferase increased,Investigations,SEVERE,N,Not related,2025-05-27,2025-07-07,Recovered/Resolved
+TF-201,AE,TF-201-104-013,55,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-09-20,2026-11-03,Recovered/Resolved
+TF-201,AE,TF-201-104-013,56,Fatigue,General disorders,MODERATE,N,Possible,2026-06-27,,Not recovered/Not resolved
+TF-201,AE,TF-201-104-016,57,Dizziness,Nervous system disorders,MILD,N,Possible,2025-07-18,,Not recovered/Not resolved
+TF-201,AE,TF-201-104-017,58,Dizziness,Nervous system disorders,MILD,N,Not related,2026-02-04,2026-03-17,Recovered/Resolved
+TF-201,AE,TF-201-104-018,59,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2025-09-24,2025-11-03,Recovered/Resolved
+TF-201,AE,TF-201-104-018,60,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2025-10-15,2025-10-24,Recovered/Resolved
+TF-201,AE,TF-201-104-019,61,Headache,Nervous system disorders,MILD,N,Not related,2026-04-22,2026-06-01,Recovered/Resolved
+TF-201,AE,TF-201-104-020,62,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-01-04,2026-01-25,Recovered/Resolved
+TF-201,AE,TF-201-104-021,63,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2025-10-02,2025-10-06,Recovered/Resolved
+TF-201,AE,TF-201-104-022,64,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2026-07-06,2026-07-12,Recovered/Resolved
+TF-201,AE,TF-201-104-023,65,Injection site erythema,General disorders,MILD,N,Not related,2025-12-30,2026-01-22,Recovered/Resolved
+TF-201,AE,TF-201-104-023,66,Fatigue,General disorders,MILD,N,Possible,2025-11-06,2025-12-13,Recovered/Resolved
+TF-201,AE,TF-201-105-003,67,Fatigue,General disorders,MILD,N,Not related,2026-08-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-105-004,68,Alanine aminotransferase increased,Investigations,SEVERE,Y,Probable,2025-10-17,2025-11-30,Recovered/Resolved
+TF-201,AE,TF-201-105-004,69,Nausea,Gastrointestinal disorders,MODERATE,N,Unlikely,2025-10-25,,Not recovered/Not resolved
+TF-201,AE,TF-201-105-008,70,Hypertension,Vascular disorders,SEVERE,N,Not related,2026-06-29,2026-07-01,Recovered/Resolved
+TF-201,AE,TF-201-105-010,71,Alanine aminotransferase increased,Investigations,MODERATE,N,Probable,2025-08-20,2025-09-26,Recovered/Resolved
+TF-201,AE,TF-201-105-012,72,Fatigue,General disorders,MILD,N,Unlikely,2026-02-19,2026-03-28,Recovered/Resolved
+TF-201,AE,TF-201-105-012,73,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2026-02-06,2026-03-14,Recovered/Resolved
+TF-201,AE,TF-201-105-014,74,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Not related,2026-06-25,2026-07-15,Recovered/Resolved
+TF-201,AE,TF-201-105-016,75,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Possible,2025-11-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-105-016,76,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Unlikely,2025-10-08,,Not recovered/Not resolved
+TF-201,AE,TF-201-105-017,77,Fatigue,General disorders,MODERATE,N,Probable,2026-10-23,,Not recovered/Not resolved
+TF-201,AE,TF-201-105-018,78,Nausea,Gastrointestinal disorders,MODERATE,N,Unlikely,2026-09-06,2026-09-16,Recovered/Resolved
+TF-201,AE,TF-201-105-023,79,Diarrhoea,Gastrointestinal disorders,MILD,N,Probable,2026-08-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-105-024,80,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2026-05-28,2026-07-02,Recovered/Resolved
+TF-201,AE,TF-201-105-025,81,Nausea,Gastrointestinal disorders,MODERATE,N,Unlikely,2026-03-31,,Not recovered/Not resolved
+TF-201,AE,TF-201-106-001,82,Hypertension,Vascular disorders,MODERATE,N,Probable,2025-12-12,2026-01-03,Recovered/Resolved
+TF-201,AE,TF-201-106-001,83,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-01-22,2026-01-28,Recovered/Resolved
+TF-201,AE,TF-201-106-002,84,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2026-11-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-106-002,85,Fatigue,General disorders,MODERATE,N,Not related,2026-07-24,2026-08-06,Recovered/Resolved
+TF-201,AE,TF-201-106-004,86,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-11-15,2026-12-22,Recovered/Resolved
+TF-201,AE,TF-201-106-005,87,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-08-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-106-005,88,Fatigue,General disorders,MODERATE,N,Not related,2026-05-02,,Not recovered/Not resolved
+TF-201,AE,TF-201-106-006,89,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2025-11-17,2025-12-06,Recovered/Resolved
+TF-201,AE,TF-201-106-006,90,Dizziness,Nervous system disorders,MILD,N,Unlikely,2025-11-12,2025-11-22,Recovered/Resolved
+TF-201,AE,TF-201-106-007,91,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-08-21,,Not recovered/Not resolved
+TF-201,AE,TF-201-106-007,92,Dizziness,Nervous system disorders,MODERATE,N,Possible,2026-08-09,2026-08-25,Recovered/Resolved
+TF-201,AE,TF-201-106-010,93,Alanine aminotransferase increased,Investigations,SEVERE,Y,Probable,2026-01-24,,Not recovered/Not resolved
+TF-201,AE,TF-201-106-013,94,Dizziness,Nervous system disorders,MODERATE,N,Possible,2026-06-07,2026-06-13,Recovered/Resolved
+TF-201,AE,TF-201-106-013,95,Dizziness,Nervous system disorders,MODERATE,N,Probable,2026-06-11,2026-07-01,Recovered/Resolved
+TF-201,AE,TF-201-106-015,96,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2026-01-06,,Not recovered/Not resolved
+TF-201,AE,TF-201-106-015,97,Injection site erythema,General disorders,MILD,N,Possible,2026-01-03,,Not recovered/Not resolved
+TF-201,AE,TF-201-106-017,98,Fatigue,General disorders,MILD,N,Not related,2026-01-21,2026-01-23,Recovered/Resolved
+TF-201,AE,TF-201-106-018,99,Headache,Nervous system disorders,MILD,N,Not related,2026-07-22,,Not recovered/Not resolved
+TF-201,AE,TF-201-106-019,100,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2026-12-20,2027-01-25,Recovered/Resolved
+TF-201,AE,TF-201-106-020,101,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2026-05-11,2026-05-31,Recovered/Resolved
+TF-201,AE,TF-201-106-021,102,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Possible,2026-09-24,2026-10-26,Recovered/Resolved
+TF-201,AE,TF-201-106-022,103,Alanine aminotransferase increased,Investigations,SEVERE,Y,Unlikely,2026-10-14,2026-11-21,Recovered/Resolved
+TF-201,AE,TF-201-106-023,104,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2026-08-26,,Not recovered/Not resolved
+TF-201,AE,TF-201-107-003,105,Injection site erythema,General disorders,MILD,N,Not related,2026-10-02,2026-10-27,Recovered/Resolved
+TF-201,AE,TF-201-107-004,106,Nausea,Gastrointestinal disorders,MODERATE,N,Probable,2026-06-18,2026-06-22,Recovered/Resolved
+TF-201,AE,TF-201-107-006,107,Injection site erythema,General disorders,MODERATE,N,Not related,2026-10-02,2026-10-09,Recovered/Resolved
+TF-201,AE,TF-201-107-008,108,Fatigue,General disorders,MILD,N,Unlikely,2026-05-11,2026-06-13,Recovered/Resolved
+TF-201,AE,TF-201-107-010,109,Hypertension,Vascular disorders,SEVERE,Y,Not related,2026-10-30,2026-11-08,Recovered/Resolved
+TF-201,AE,TF-201-107-011,110,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2026-09-25,2026-10-07,Recovered/Resolved
+TF-201,AE,TF-201-107-012,111,Headache,Nervous system disorders,MILD,N,Possible,2026-09-05,2026-09-28,Recovered/Resolved
+TF-201,AE,TF-201-107-012,112,Injection site erythema,General disorders,MODERATE,N,Unlikely,2026-09-06,,Not recovered/Not resolved
+TF-201,AE,TF-201-108-002,113,Injection site erythema,General disorders,MILD,N,Possible,2025-09-18,2025-10-22,Recovered/Resolved
+TF-201,AE,TF-201-108-008,114,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-08-17,2026-08-21,Recovered/Resolved
+TF-201,AE,TF-201-109-002,115,Headache,Nervous system disorders,MODERATE,N,Unlikely,2025-06-05,2025-07-18,Recovered/Resolved
+TF-201,AE,TF-201-109-002,116,Alanine aminotransferase increased,Investigations,SEVERE,N,Probable,2025-06-03,2025-06-06,Recovered/Resolved
+TF-201,AE,TF-201-109-002,117,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2025-07-18,,Not recovered/Not resolved
+TF-201,AE,TF-201-109-003,118,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2025-09-26,2025-10-17,Recovered/Resolved
+TF-201,AE,TF-201-109-005,119,Dizziness,Nervous system disorders,MILD,N,Probable,2026-07-21,,Not recovered/Not resolved
+TF-201,AE,TF-201-109-005,120,Dizziness,Nervous system disorders,MILD,N,Not related,2026-09-14,2026-10-18,Recovered/Resolved
+TF-201,AE,TF-201-109-006,121,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2025-11-20,2025-12-08,Recovered/Resolved
+TF-201,AE,TF-201-109-007,122,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Probable,2025-09-11,2025-10-11,Recovered/Resolved
+TF-201,AE,TF-201-109-010,123,Diarrhoea,Gastrointestinal disorders,MILD,N,Probable,2025-05-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-109-010,124,Headache,Nervous system disorders,MODERATE,N,Not related,2025-06-09,,Not recovered/Not resolved
+TF-201,AE,TF-201-109-010,125,Hypertension,Vascular disorders,SEVERE,Y,Not related,2025-04-11,2025-05-10,Recovered/Resolved
+TF-201,AE,TF-201-109-014,126,Upper respiratory tract infection,Infections and infestations,MILD,N,Probable,2025-12-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-109-014,127,Fatigue,General disorders,MILD,N,Possible,2026-01-15,2026-01-21,Recovered/Resolved
+TF-201,AE,TF-201-109-015,128,Fatigue,General disorders,MILD,N,Unlikely,2026-06-24,2026-07-03,Recovered/Resolved
+TF-201,AE,TF-201-109-015,129,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-06-26,2026-07-26,Recovered/Resolved
+TF-201,AE,TF-201-109-016,130,Fatigue,General disorders,MODERATE,N,Not related,2026-01-29,2026-03-05,Recovered/Resolved
+TF-201,AE,TF-201-109-017,131,Injection site erythema,General disorders,MODERATE,N,Not related,2025-04-30,2025-06-06,Recovered/Resolved
+TF-201,AE,TF-201-109-019,132,Hypertension,Vascular disorders,SEVERE,Y,Unlikely,2025-08-19,2025-08-28,Recovered/Resolved
+TF-201,AE,TF-201-109-019,133,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2025-10-09,2025-11-16,Recovered/Resolved
+TF-201,AE,TF-201-109-022,134,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-05-19,2026-06-28,Recovered/Resolved
+TF-201,AE,TF-201-109-022,135,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-03-30,2026-04-27,Recovered/Resolved
+TF-201,AE,TF-201-110-002,136,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2026-03-10,2026-04-22,Recovered/Resolved
+TF-201,AE,TF-201-110-002,137,Nausea,Gastrointestinal disorders,MODERATE,N,Not related,2025-12-31,2026-01-10,Recovered/Resolved
+TF-201,AE,TF-201-110-006,138,Alanine aminotransferase increased,Investigations,SEVERE,Y,Possible,2025-07-25,2025-08-11,Recovered/Resolved
+TF-201,AE,TF-201-110-006,139,Alanine aminotransferase increased,Investigations,SEVERE,N,Unlikely,2025-10-16,2025-11-05,Recovered/Resolved
+TF-201,AE,TF-201-110-007,140,Fatigue,General disorders,MILD,N,Probable,2026-10-03,2026-10-13,Recovered/Resolved
+TF-201,AE,TF-201-110-007,141,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2026-10-19,2026-11-28,Recovered/Resolved
+TF-201,AE,TF-201-110-008,142,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-04-14,2026-04-28,Recovered/Resolved
+TF-201,AE,TF-201-110-010,143,Alanine aminotransferase increased,Investigations,SEVERE,Y,Not related,2025-09-08,,Not recovered/Not resolved
+TF-201,AE,TF-201-110-012,144,Fatigue,General disorders,MODERATE,N,Not related,2026-03-06,2026-03-23,Recovered/Resolved
+TF-201,AE,TF-201-110-014,145,Dizziness,Nervous system disorders,MODERATE,N,Possible,2026-03-21,2026-05-04,Recovered/Resolved
+TF-201,AE,TF-201-111-002,146,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Unlikely,2025-12-31,,Not recovered/Not resolved
+TF-201,AE,TF-201-111-002,147,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2026-03-24,2026-04-20,Recovered/Resolved
+TF-201,AE,TF-201-111-002,148,Injection site erythema,General disorders,MODERATE,N,Probable,2025-12-23,2026-01-17,Recovered/Resolved
+TF-201,AE,TF-201-111-003,149,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2026-07-03,2026-08-08,Recovered/Resolved
+TF-201,AE,TF-201-111-004,150,Dizziness,Nervous system disorders,MILD,N,Possible,2025-08-17,2025-09-27,Recovered/Resolved
+TF-201,AE,TF-201-111-006,151,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Not related,2025-06-17,2025-07-13,Recovered/Resolved
+TF-201,AE,TF-201-111-006,152,Hypertension,Vascular disorders,SEVERE,Y,Unlikely,2025-08-29,2025-09-01,Recovered/Resolved
+TF-201,AE,TF-201-111-007,153,Headache,Nervous system disorders,MILD,N,Unlikely,2026-03-18,2026-04-23,Recovered/Resolved
+TF-201,AE,TF-201-111-008,154,Alanine aminotransferase increased,Investigations,MODERATE,N,Unlikely,2025-06-05,,Not recovered/Not resolved
+TF-201,AE,TF-201-111-008,155,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2025-09-05,2025-09-28,Recovered/Resolved
+TF-201,AE,TF-201-111-010,156,Injection site erythema,General disorders,MILD,N,Possible,2025-09-14,2025-10-25,Recovered/Resolved
+TF-201,AE,TF-201-111-010,157,Alanine aminotransferase increased,Investigations,SEVERE,Y,Not related,2025-10-01,2025-10-11,Recovered/Resolved
+TF-201,AE,TF-201-111-013,158,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Probable,2025-12-13,2026-01-18,Recovered/Resolved
+TF-201,AE,TF-201-111-013,159,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2025-11-16,2025-11-29,Recovered/Resolved
+TF-201,AE,TF-201-111-019,160,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2025-11-28,2025-12-10,Recovered/Resolved
+TF-201,AE,TF-201-111-020,161,Headache,Nervous system disorders,MODERATE,N,Not related,2026-05-31,,Not recovered/Not resolved
+TF-201,AE,TF-201-112-001,162,Hypertension,Vascular disorders,MODERATE,N,Not related,2026-05-30,2026-07-11,Recovered/Resolved
+TF-201,AE,TF-201-112-001,163,Headache,Nervous system disorders,MILD,N,Probable,2026-09-14,2026-10-04,Recovered/Resolved
+TF-201,AE,TF-201-112-001,164,Nausea,Gastrointestinal disorders,MODERATE,N,Possible,2026-07-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-112-001,165,Dizziness,Nervous system disorders,MODERATE,N,Unlikely,2026-06-28,2026-07-24,Recovered/Resolved
+TF-201,AE,TF-201-112-002,166,Fatigue,General disorders,MILD,N,Not related,2025-05-06,2025-06-01,Recovered/Resolved
+TF-201,AE,TF-201-112-003,167,Alanine aminotransferase increased,Investigations,SEVERE,Y,Not related,2025-12-24,2026-02-03,Recovered/Resolved
+TF-201,AE,TF-201-112-004,168,Fatigue,General disorders,MODERATE,N,Possible,2025-10-25,2025-12-04,Recovered/Resolved
+TF-201,AE,TF-201-112-005,169,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2026-06-10,2026-07-24,Recovered/Resolved
+TF-201,AE,TF-201-112-007,170,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2025-12-30,2026-02-05,Recovered/Resolved
+TF-201,AE,TF-201-112-007,171,Hypertension,Vascular disorders,SEVERE,N,Unlikely,2025-11-11,,Not recovered/Not resolved
+TF-201,AE,TF-201-112-007,172,Dizziness,Nervous system disorders,MILD,N,Possible,2025-12-22,2026-01-04,Recovered/Resolved
+TF-201,AE,TF-201-112-008,173,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2025-12-14,,Not recovered/Not resolved
+TF-201,AE,TF-201-112-011,174,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2026-04-14,2026-05-13,Recovered/Resolved
+TF-201,AE,TF-201-112-012,175,Fatigue,General disorders,MODERATE,N,Not related,2025-07-23,2025-08-04,Recovered/Resolved
+TF-201,AE,TF-201-112-013,176,Headache,Nervous system disorders,MODERATE,N,Unlikely,2026-04-15,2026-04-27,Recovered/Resolved
+TF-201,AE,TF-201-112-013,177,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Probable,2026-02-22,2026-02-27,Recovered/Resolved
+TF-201,AE,TF-201-112-013,178,Fatigue,General disorders,MILD,N,Unlikely,2026-05-06,,Not recovered/Not resolved
+TF-201,AE,TF-201-112-015,179,Injection site erythema,General disorders,MILD,N,Unlikely,2026-02-09,2026-02-13,Recovered/Resolved
+TF-201,AE,TF-201-112-019,180,Headache,Nervous system disorders,MODERATE,N,Possible,2026-02-22,2026-03-28,Recovered/Resolved
+TF-201,AE,TF-201-112-020,181,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Unlikely,2026-08-05,2026-09-03,Recovered/Resolved
+TF-201,AE,TF-201-112-020,182,Nausea,Gastrointestinal disorders,MODERATE,N,Possible,2026-06-13,2026-06-23,Recovered/Resolved
+TF-201,AE,TF-201-112-021,183,Hypertension,Vascular disorders,SEVERE,N,Probable,2026-03-13,2026-04-07,Recovered/Resolved
+TF-201,AE,TF-201-112-021,184,Nausea,Gastrointestinal disorders,MILD,N,Possible,2026-05-10,2026-05-25,Recovered/Resolved
+TF-201,AE,TF-201-112-021,185,Injection site erythema,General disorders,MODERATE,N,Possible,2026-02-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-112-021,186,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-02-03,,Not recovered/Not resolved
+TF-201,AE,TF-201-113-002,187,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Not related,2025-08-27,,Not recovered/Not resolved
+TF-201,AE,TF-201-113-003,188,Injection site erythema,General disorders,MILD,N,Unlikely,2026-11-11,2026-12-24,Recovered/Resolved
+TF-201,AE,TF-201-113-005,189,Fatigue,General disorders,MILD,N,Possible,2025-09-12,,Not recovered/Not resolved
+TF-201,AE,TF-201-113-007,190,Injection site erythema,General disorders,MODERATE,N,Possible,2026-04-14,,Not recovered/Not resolved
+TF-201,AE,TF-201-113-008,191,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2025-11-22,2025-12-18,Recovered/Resolved
+TF-201,AE,TF-201-113-014,192,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2025-07-23,2025-07-31,Recovered/Resolved
+TF-201,AE,TF-201-113-023,193,Alanine aminotransferase increased,Investigations,MODERATE,N,Probable,2025-06-04,,Not recovered/Not resolved
+TF-201,AE,TF-201-113-024,194,Alanine aminotransferase increased,Investigations,SEVERE,N,Not related,2026-02-19,,Not recovered/Not resolved
+TF-201,AE,TF-201-113-024,195,Headache,Nervous system disorders,MILD,N,Not related,2026-03-09,2026-03-25,Recovered/Resolved
+TF-201,AE,TF-201-113-025,196,Injection site erythema,General disorders,MILD,N,Possible,2026-02-07,,Not recovered/Not resolved
+TF-201,AE,TF-201-114-003,197,Injection site erythema,General disorders,MILD,N,Not related,2026-07-28,2026-07-30,Recovered/Resolved
+TF-201,AE,TF-201-114-003,198,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-07-25,2026-07-31,Recovered/Resolved
+TF-201,AE,TF-201-114-005,199,Alanine aminotransferase increased,Investigations,SEVERE,Y,Possible,2025-08-31,,Not recovered/Not resolved
+TF-201,AE,TF-201-114-005,200,Alanine aminotransferase increased,Investigations,SEVERE,Y,Possible,2025-09-16,2025-09-22,Recovered/Resolved
+TF-201,AE,TF-201-114-005,201,Alanine aminotransferase increased,Investigations,MODERATE,N,Unlikely,2025-10-09,,Not recovered/Not resolved
+TF-201,AE,TF-201-114-009,202,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2026-04-07,2026-04-26,Recovered/Resolved
+TF-201,AE,TF-201-114-010,203,Headache,Nervous system disorders,MILD,N,Possible,2025-08-11,,Not recovered/Not resolved
+TF-201,AE,TF-201-114-010,204,Alanine aminotransferase increased,Investigations,SEVERE,Y,Possible,2025-08-09,,Not recovered/Not resolved
+TF-201,AE,TF-201-114-011,205,Nausea,Gastrointestinal disorders,MODERATE,N,Not related,2026-07-28,2026-09-10,Recovered/Resolved
+TF-201,AE,TF-201-114-012,206,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2026-06-09,,Not recovered/Not resolved
+TF-201,AE,TF-201-114-013,207,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2025-12-21,2025-12-23,Recovered/Resolved
+TF-201,AE,TF-201-114-013,208,Upper respiratory tract infection,Infections and infestations,MILD,N,Probable,2025-08-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-115-002,209,Alanine aminotransferase increased,Investigations,MODERATE,N,Possible,2026-05-23,,Not recovered/Not resolved
+TF-201,AE,TF-201-115-003,210,Injection site erythema,General disorders,MODERATE,N,Not related,2026-01-12,2026-01-29,Recovered/Resolved
+TF-201,AE,TF-201-115-003,211,Headache,Nervous system disorders,MODERATE,N,Possible,2026-01-05,2026-01-07,Recovered/Resolved
+TF-201,AE,TF-201-115-008,212,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2025-08-05,2025-09-16,Recovered/Resolved
+TF-201,AE,TF-201-115-008,213,Nausea,Gastrointestinal disorders,MILD,N,Not related,2025-06-21,2025-07-06,Recovered/Resolved
+TF-201,AE,TF-201-115-009,214,Headache,Nervous system disorders,MODERATE,N,Not related,2026-01-30,,Not recovered/Not resolved
+TF-201,AE,TF-201-115-010,215,Dizziness,Nervous system disorders,MILD,N,Possible,2026-02-12,,Not recovered/Not resolved
+TF-201,AE,TF-201-115-010,216,Hypertension,Vascular disorders,MODERATE,N,Possible,2026-03-27,2026-03-30,Recovered/Resolved
+TF-201,AE,TF-201-115-011,217,Fatigue,General disorders,MILD,N,Not related,2026-08-26,,Not recovered/Not resolved
+TF-201,AE,TF-201-115-011,218,Injection site erythema,General disorders,MODERATE,N,Unlikely,2026-08-27,2026-09-26,Recovered/Resolved
+TF-201,AE,TF-201-115-012,219,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-09-02,2026-09-10,Recovered/Resolved
+TF-201,AE,TF-201-115-012,220,Fatigue,General disorders,MODERATE,N,Unlikely,2026-10-07,,Not recovered/Not resolved
+TF-201,AE,TF-201-115-015,221,Headache,Nervous system disorders,MILD,N,Unlikely,2026-05-30,2026-06-13,Recovered/Resolved
+TF-201,AE,TF-201-115-015,222,Headache,Nervous system disorders,MILD,N,Unlikely,2026-09-17,2026-10-21,Recovered/Resolved
+TF-201,AE,TF-201-115-018,223,Nausea,Gastrointestinal disorders,MILD,N,Possible,2027-01-01,2027-02-03,Recovered/Resolved
+TF-201,AE,TF-201-115-018,224,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2026-12-15,2027-01-14,Recovered/Resolved
+TF-201,AE,TF-201-115-019,225,Hypertension,Vascular disorders,MODERATE,N,Unlikely,2025-09-18,2025-10-15,Recovered/Resolved
+TF-201,AE,TF-201-115-019,226,Injection site erythema,General disorders,MILD,N,Possible,2025-10-11,2025-10-20,Recovered/Resolved
+TF-201,AE,TF-201-115-020,227,Upper respiratory tract infection,Infections and infestations,MILD,N,Probable,2026-05-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-115-020,228,Injection site erythema,General disorders,MODERATE,N,Possible,2026-01-25,,Not recovered/Not resolved
+TF-201,AE,TF-201-115-021,229,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-03-30,2026-05-08,Recovered/Resolved
+TF-201,AE,TF-201-115-021,230,Injection site erythema,General disorders,MILD,N,Possible,2026-03-20,2026-05-03,Recovered/Resolved
+TF-201,AE,TF-201-116-004,231,Hypertension,Vascular disorders,MODERATE,N,Probable,2025-09-10,2025-10-05,Recovered/Resolved
+TF-201,AE,TF-201-116-006,232,Fatigue,General disorders,MILD,N,Possible,2026-04-30,2026-06-08,Recovered/Resolved
+TF-201,AE,TF-201-116-007,233,Hypertension,Vascular disorders,SEVERE,Y,Probable,2025-07-30,2025-08-13,Recovered/Resolved
+TF-201,AE,TF-201-116-009,234,Fatigue,General disorders,MILD,N,Not related,2026-08-09,2026-09-19,Recovered/Resolved
+TF-201,AE,TF-201-116-009,235,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Not related,2026-09-02,2026-10-13,Recovered/Resolved
+TF-201,AE,TF-201-116-010,236,Injection site erythema,General disorders,MILD,N,Not related,2026-03-01,2026-04-04,Recovered/Resolved
+TF-201,AE,TF-201-116-010,237,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Unlikely,2026-01-23,2026-02-16,Recovered/Resolved
+TF-201,AE,TF-201-116-012,238,Hypertension,Vascular disorders,SEVERE,Y,Possible,2026-08-04,,Not recovered/Not resolved
+TF-201,AE,TF-201-116-012,239,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2026-09-17,2026-10-24,Recovered/Resolved
+TF-201,AE,TF-201-116-013,240,Injection site erythema,General disorders,MODERATE,N,Possible,2026-08-22,2026-09-29,Recovered/Resolved
+TF-201,AE,TF-201-116-013,241,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Possible,2026-08-29,2026-09-17,Recovered/Resolved
+TF-201,AE,TF-201-116-013,242,Dizziness,Nervous system disorders,MILD,N,Possible,2026-05-25,2026-06-20,Recovered/Resolved
+TF-201,AE,TF-201-116-014,243,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2026-02-06,,Not recovered/Not resolved
+TF-201,AE,TF-201-116-021,244,Headache,Nervous system disorders,MODERATE,N,Not related,2026-05-31,2026-06-15,Recovered/Resolved
+TF-201,AE,TF-201-116-023,245,Dizziness,Nervous system disorders,MODERATE,N,Not related,2025-10-18,2025-11-20,Recovered/Resolved
+TF-201,AE,TF-201-116-024,246,Fatigue,General disorders,MILD,N,Possible,2025-07-13,2025-08-02,Recovered/Resolved
+TF-201,AE,TF-201-116-025,247,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2026-05-13,,Not recovered/Not resolved
+TF-201,AE,TF-201-116-025,248,Alanine aminotransferase increased,Investigations,SEVERE,N,Possible,2026-07-14,,Not recovered/Not resolved
+TF-201,AE,TF-201-116-025,249,Alanine aminotransferase increased,Investigations,SEVERE,N,Unlikely,2026-07-07,2026-07-09,Recovered/Resolved
+TF-201,AE,TF-201-116-026,250,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Possible,2025-11-25,2025-12-17,Recovered/Resolved
+TF-201,AE,TF-201-116-026,251,Alanine aminotransferase increased,Investigations,SEVERE,N,Probable,2026-02-06,2026-03-13,Recovered/Resolved
+TF-201,AE,TF-201-116-026,252,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2026-02-18,,Not recovered/Not resolved
+TF-201,AE,TF-201-116-027,253,Fatigue,General disorders,MILD,N,Not related,2026-01-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-116-027,254,Injection site erythema,General disorders,MILD,N,Not related,2026-02-24,,Not recovered/Not resolved
+TF-201,AE,TF-201-116-028,255,Hypertension,Vascular disorders,MODERATE,N,Probable,2026-06-04,2026-07-10,Recovered/Resolved
+TF-201,AE,TF-201-116-028,256,Headache,Nervous system disorders,MODERATE,N,Possible,2026-06-14,2026-06-16,Recovered/Resolved
+TF-201,AE,TF-201-117-001,257,Hypertension,Vascular disorders,SEVERE,Y,Possible,2026-07-24,,Not recovered/Not resolved
+TF-201,AE,TF-201-117-001,258,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2026-04-22,2026-04-28,Recovered/Resolved
+TF-201,AE,TF-201-117-003,259,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-07-24,,Not recovered/Not resolved
+TF-201,AE,TF-201-117-006,260,Alanine aminotransferase increased,Investigations,MODERATE,N,Possible,2026-01-27,,Not recovered/Not resolved
+TF-201,AE,TF-201-117-008,261,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2025-11-18,,Not recovered/Not resolved
+TF-201,AE,TF-201-117-011,262,Alanine aminotransferase increased,Investigations,SEVERE,Y,Probable,2026-11-06,2026-11-11,Recovered/Resolved
+TF-201,AE,TF-201-117-012,263,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2026-05-05,2026-05-30,Recovered/Resolved
+TF-201,AE,TF-201-117-015,264,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-04-28,2026-05-31,Recovered/Resolved
+TF-201,AE,TF-201-118-001,265,Nausea,Gastrointestinal disorders,MILD,N,Possible,2026-07-19,2026-07-30,Recovered/Resolved
+TF-201,AE,TF-201-118-001,266,Alanine aminotransferase increased,Investigations,SEVERE,N,Possible,2026-09-14,,Not recovered/Not resolved
+TF-201,AE,TF-201-118-006,267,Alanine aminotransferase increased,Investigations,SEVERE,Y,Unlikely,2026-09-09,2026-10-22,Recovered/Resolved
+TF-201,AE,TF-201-118-007,268,Headache,Nervous system disorders,MODERATE,N,Not related,2026-11-08,,Not recovered/Not resolved
+TF-201,AE,TF-201-118-008,269,Fatigue,General disorders,MODERATE,N,Unlikely,2026-09-11,,Not recovered/Not resolved
+TF-201,AE,TF-201-118-008,270,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Possible,2026-08-07,2026-09-01,Recovered/Resolved
+TF-201,AE,TF-201-118-011,271,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-04-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-118-011,272,Headache,Nervous system disorders,MODERATE,N,Unlikely,2026-02-19,2026-04-04,Recovered/Resolved
+TF-201,AE,TF-201-118-014,273,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-10-23,,Not recovered/Not resolved
+TF-201,AE,TF-201-118-016,274,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2026-02-13,,Not recovered/Not resolved
+TF-201,AE,TF-201-118-017,275,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-02-07,2026-03-21,Recovered/Resolved
+TF-201,AE,TF-201-118-021,276,Hypertension,Vascular disorders,SEVERE,Y,Unlikely,2026-07-26,,Not recovered/Not resolved
+TF-201,AE,TF-201-119-001,277,Headache,Nervous system disorders,MODERATE,N,Not related,2026-02-27,2026-03-11,Recovered/Resolved
+TF-201,AE,TF-201-119-003,278,Alanine aminotransferase increased,Investigations,MODERATE,N,Unlikely,2026-03-22,,Not recovered/Not resolved
+TF-201,AE,TF-201-119-004,279,Injection site erythema,General disorders,MILD,N,Unlikely,2026-07-16,2026-08-09,Recovered/Resolved
+TF-201,AE,TF-201-119-005,280,Injection site erythema,General disorders,MODERATE,N,Not related,2025-08-31,,Not recovered/Not resolved
+TF-201,AE,TF-201-119-005,281,Upper respiratory tract infection,Infections and infestations,MILD,N,Probable,2025-06-24,2025-07-02,Recovered/Resolved
+TF-201,AE,TF-201-119-006,282,Hypertension,Vascular disorders,SEVERE,Y,Unlikely,2026-06-18,2026-07-22,Recovered/Resolved
+TF-201,AE,TF-201-119-007,283,Dizziness,Nervous system disorders,MODERATE,N,Probable,2026-03-21,2026-04-28,Recovered/Resolved
+TF-201,AE,TF-201-119-007,284,Headache,Nervous system disorders,MODERATE,N,Probable,2025-12-07,,Not recovered/Not resolved
+TF-201,AE,TF-201-119-007,285,Dizziness,Nervous system disorders,MILD,N,Possible,2026-01-04,2026-01-09,Recovered/Resolved
+TF-201,AE,TF-201-119-009,286,Nausea,Gastrointestinal disorders,MILD,N,Unlikely,2026-09-20,,Not recovered/Not resolved
+TF-201,AE,TF-201-120-001,287,Fatigue,General disorders,MILD,N,Possible,2026-07-24,2026-09-06,Recovered/Resolved
+TF-201,AE,TF-201-120-001,288,Injection site erythema,General disorders,MODERATE,N,Possible,2026-08-20,,Not recovered/Not resolved
+TF-201,AE,TF-201-120-003,289,Dizziness,Nervous system disorders,MILD,N,Possible,2025-11-07,2025-11-19,Recovered/Resolved
+TF-201,AE,TF-201-120-004,290,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2026-02-22,2026-03-31,Recovered/Resolved
+TF-201,AE,TF-201-120-004,291,Fatigue,General disorders,MILD,N,Unlikely,2025-11-27,2025-12-02,Recovered/Resolved
+TF-201,AE,TF-201-120-005,292,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Unlikely,2026-06-14,2026-07-02,Recovered/Resolved
+TF-201,AE,TF-201-120-006,293,Nausea,Gastrointestinal disorders,MILD,N,Not related,2025-07-27,2025-08-18,Recovered/Resolved
+TF-201,AE,TF-201-120-009,294,Nausea,Gastrointestinal disorders,MODERATE,N,Not related,2026-07-15,2026-08-21,Recovered/Resolved
+TF-201,AE,TF-201-120-012,295,Injection site erythema,General disorders,MILD,N,Possible,2026-11-10,2026-12-14,Recovered/Resolved
+TF-201,AE,TF-201-120-013,296,Nausea,Gastrointestinal disorders,MODERATE,N,Unlikely,2027-01-05,2027-01-30,Recovered/Resolved
+TF-201,AE,TF-201-120-014,297,Hypertension,Vascular disorders,MODERATE,N,Unlikely,2026-06-07,2026-07-09,Recovered/Resolved
+TF-201,AE,TF-201-120-015,298,Headache,Nervous system disorders,MODERATE,N,Probable,2025-12-06,2026-01-09,Recovered/Resolved
+TF-201,AE,TF-201-120-015,299,Injection site erythema,General disorders,MODERATE,N,Unlikely,2026-01-19,2026-02-03,Recovered/Resolved
+TF-201,AE,TF-201-120-018,300,Injection site erythema,General disorders,MILD,N,Probable,2026-06-05,2026-07-19,Recovered/Resolved
+TF-201,AE,TF-201-120-019,301,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-08-23,2026-09-09,Recovered/Resolved
+TF-201,AE,TF-201-120-019,302,Hypertension,Vascular disorders,SEVERE,N,Not related,2026-07-05,2026-07-23,Recovered/Resolved
+TF-201,AE,TF-201-120-020,303,Injection site erythema,General disorders,MODERATE,N,Not related,2026-01-02,,Not recovered/Not resolved
+TF-201,AE,TF-201-120-020,304,Nausea,Gastrointestinal disorders,MODERATE,N,Possible,2025-12-21,2026-01-29,Recovered/Resolved
+TF-201,AE,TF-201-120-021,305,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Not related,2026-03-17,2026-04-05,Recovered/Resolved
+TF-201,AE,TF-201-120-021,306,Hypertension,Vascular disorders,MODERATE,N,Possible,2026-04-14,2026-05-12,Recovered/Resolved
+TF-201,AE,TF-201-120-024,307,Headache,Nervous system disorders,MODERATE,N,Unlikely,2026-07-26,2026-08-02,Recovered/Resolved
+TF-201,AE,TF-201-120-025,308,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2026-09-30,2026-10-26,Recovered/Resolved
+TF-201,AE,TF-201-121-002,309,Headache,Nervous system disorders,MODERATE,N,Unlikely,2026-09-21,2026-10-20,Recovered/Resolved
+TF-201,AE,TF-201-121-002,310,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-10-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-121-003,311,Injection site erythema,General disorders,MODERATE,N,Probable,2026-11-14,,Not recovered/Not resolved
+TF-201,AE,TF-201-121-003,312,Hypertension,Vascular disorders,MODERATE,N,Unlikely,2026-10-05,,Not recovered/Not resolved
+TF-201,AE,TF-201-121-004,313,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-07-22,2026-07-31,Recovered/Resolved
+TF-201,AE,TF-201-121-004,314,Injection site erythema,General disorders,MILD,N,Not related,2026-08-10,2026-09-12,Recovered/Resolved
+TF-201,AE,TF-201-121-004,315,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-10-30,,Not recovered/Not resolved
+TF-201,AE,TF-201-121-006,316,Hypertension,Vascular disorders,SEVERE,N,Not related,2026-10-09,2026-10-23,Recovered/Resolved
+TF-201,AE,TF-201-121-007,317,Headache,Nervous system disorders,MODERATE,N,Unlikely,2025-11-28,2025-12-29,Recovered/Resolved
+TF-201,AE,TF-201-121-008,318,Nausea,Gastrointestinal disorders,MILD,N,Possible,2026-09-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-121-009,319,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Unlikely,2025-12-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-121-009,320,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2026-01-21,2026-02-27,Recovered/Resolved
+TF-201,AE,TF-201-121-010,321,Alanine aminotransferase increased,Investigations,SEVERE,Y,Not related,2026-06-23,2026-07-23,Recovered/Resolved
+TF-201,AE,TF-201-121-011,322,Headache,Nervous system disorders,MILD,N,Unlikely,2026-01-06,2026-02-09,Recovered/Resolved
+TF-201,AE,TF-201-121-011,323,Injection site erythema,General disorders,MODERATE,N,Possible,2025-11-17,2025-12-15,Recovered/Resolved
+TF-201,AE,TF-201-121-013,324,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2025-07-14,2025-07-19,Recovered/Resolved
+TF-201,AE,TF-201-121-014,325,Fatigue,General disorders,MILD,N,Possible,2025-11-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-121-015,326,Upper respiratory tract infection,Infections and infestations,MILD,N,Unlikely,2026-05-21,2026-05-25,Recovered/Resolved
+TF-201,AE,TF-201-121-015,327,Nausea,Gastrointestinal disorders,MILD,N,Unlikely,2026-04-12,2026-05-11,Recovered/Resolved
+TF-201,AE,TF-201-121-015,328,Dizziness,Nervous system disorders,MODERATE,N,Probable,2026-05-06,2026-05-29,Recovered/Resolved
+TF-201,AE,TF-201-122-001,329,Injection site erythema,General disorders,MILD,N,Not related,2026-04-15,2026-04-30,Recovered/Resolved
+TF-201,AE,TF-201-122-002,330,Alanine aminotransferase increased,Investigations,SEVERE,Y,Not related,2026-07-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-122-003,331,Hypertension,Vascular disorders,MODERATE,N,Not related,2026-06-30,2026-07-02,Recovered/Resolved
+TF-201,AE,TF-201-122-004,332,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2026-04-03,2026-05-10,Recovered/Resolved
+TF-201,AE,TF-201-122-005,333,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Probable,2026-05-04,,Not recovered/Not resolved
+TF-201,AE,TF-201-122-005,334,Injection site erythema,General disorders,MODERATE,N,Unlikely,2026-04-02,2026-05-07,Recovered/Resolved
+TF-201,AE,TF-201-122-007,335,Fatigue,General disorders,MILD,N,Possible,2025-07-30,,Not recovered/Not resolved
+TF-201,AE,TF-201-122-008,336,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Not related,2025-06-22,,Not recovered/Not resolved
+TF-201,AE,TF-201-122-010,337,Hypertension,Vascular disorders,SEVERE,Y,Possible,2026-07-18,2026-08-23,Recovered/Resolved
+TF-201,AE,TF-201-122-011,338,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2025-10-28,2025-11-03,Recovered/Resolved
+TF-201,AE,TF-201-122-012,339,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Unlikely,2025-12-10,2025-12-15,Recovered/Resolved
+TF-201,AE,TF-201-122-014,340,Nausea,Gastrointestinal disorders,MILD,N,Not related,2026-07-25,2026-08-23,Recovered/Resolved
+TF-201,AE,TF-201-122-015,341,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Possible,2026-10-17,2026-10-27,Recovered/Resolved
+TF-201,AE,TF-201-122-018,342,Fatigue,General disorders,MODERATE,N,Unlikely,2025-08-18,2025-09-16,Recovered/Resolved
+TF-201,AE,TF-201-122-018,343,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2025-09-27,2025-10-25,Recovered/Resolved
+TF-201,AE,TF-201-122-019,344,Upper respiratory tract infection,Infections and infestations,MILD,N,Unlikely,2026-05-23,,Not recovered/Not resolved
+TF-201,AE,TF-201-122-020,345,Diarrhoea,Gastrointestinal disorders,MILD,N,Probable,2025-08-05,,Not recovered/Not resolved
+TF-201,AE,TF-201-122-020,346,Fatigue,General disorders,MILD,N,Probable,2025-07-07,2025-07-31,Recovered/Resolved
+TF-201,AE,TF-201-122-020,347,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Not related,2025-10-15,,Not recovered/Not resolved
+TF-201,AE,TF-201-122-020,348,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2025-07-09,2025-07-14,Recovered/Resolved
+TF-201,AE,TF-201-122-021,349,Fatigue,General disorders,MODERATE,N,Possible,2025-06-14,2025-06-18,Recovered/Resolved
+TF-201,AE,TF-201-122-022,350,Headache,Nervous system disorders,MODERATE,N,Unlikely,2026-01-13,2026-02-13,Recovered/Resolved
+TF-201,AE,TF-201-123-006,351,Injection site erythema,General disorders,MODERATE,N,Not related,2026-07-26,2026-08-14,Recovered/Resolved
+TF-201,AE,TF-201-123-007,352,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-04-17,2026-05-31,Recovered/Resolved
+TF-201,AE,TF-201-123-008,353,Fatigue,General disorders,MODERATE,N,Possible,2025-08-06,2025-09-19,Recovered/Resolved
+TF-201,AE,TF-201-123-019,354,Injection site erythema,General disorders,MODERATE,N,Possible,2026-04-05,,Not recovered/Not resolved
+TF-201,AE,TF-201-123-020,355,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2025-08-18,,Not recovered/Not resolved
+TF-201,AE,TF-201-123-020,356,Injection site erythema,General disorders,MODERATE,N,Not related,2025-08-15,,Not recovered/Not resolved
+TF-201,AE,TF-201-123-020,357,Dizziness,Nervous system disorders,MILD,N,Possible,2025-06-28,2025-07-23,Recovered/Resolved
+TF-201,AE,TF-201-123-021,358,Nausea,Gastrointestinal disorders,MILD,N,Not related,2026-03-31,,Not recovered/Not resolved
+TF-201,AE,TF-201-123-021,359,Upper respiratory tract infection,Infections and infestations,MILD,N,Unlikely,2026-02-22,,Not recovered/Not resolved
+TF-201,AE,TF-201-123-022,360,Dizziness,Nervous system disorders,MILD,N,Unlikely,2025-12-24,,Not recovered/Not resolved
+TF-201,AE,TF-201-123-023,361,Injection site erythema,General disorders,MILD,N,Not related,2026-07-14,2026-07-20,Recovered/Resolved
+TF-201,AE,TF-201-124-004,362,Fatigue,General disorders,MILD,N,Not related,2026-09-15,2026-10-17,Recovered/Resolved
+TF-201,AE,TF-201-124-005,363,Nausea,Gastrointestinal disorders,MILD,N,Not related,2026-08-29,2026-09-23,Recovered/Resolved
+TF-201,AE,TF-201-124-007,364,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2026-02-10,2026-03-25,Recovered/Resolved
+TF-201,AE,TF-201-124-008,365,Headache,Nervous system disorders,MODERATE,N,Possible,2025-10-23,2025-11-05,Recovered/Resolved
+TF-201,AE,TF-201-124-009,366,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-03-10,2026-03-24,Recovered/Resolved
+TF-201,AE,TF-201-124-013,367,Injection site erythema,General disorders,MILD,N,Not related,2026-05-07,,Not recovered/Not resolved
+TF-201,AE,TF-201-124-014,368,Fatigue,General disorders,MILD,N,Possible,2026-08-09,2026-09-21,Recovered/Resolved
+TF-201,AE,TF-201-124-016,369,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-09-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-124-017,370,Nausea,Gastrointestinal disorders,MODERATE,N,Not related,2026-04-15,2026-05-24,Recovered/Resolved
+TF-201,AE,TF-201-125-001,371,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-07-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-125-002,372,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2025-10-13,2025-10-22,Recovered/Resolved
+TF-201,AE,TF-201-125-002,373,Hypertension,Vascular disorders,SEVERE,Y,Possible,2025-10-09,2025-10-25,Recovered/Resolved
+TF-201,AE,TF-201-125-002,374,Hypertension,Vascular disorders,SEVERE,Y,Possible,2025-11-18,2025-12-04,Recovered/Resolved
+TF-201,AE,TF-201-125-008,375,Headache,Nervous system disorders,MILD,N,Unlikely,2026-03-06,2026-04-11,Recovered/Resolved
+TF-201,AE,TF-201-125-008,376,Headache,Nervous system disorders,MILD,N,Possible,2026-03-08,2026-03-30,Recovered/Resolved
+TF-201,AE,TF-201-125-009,377,Headache,Nervous system disorders,MODERATE,N,Possible,2026-09-26,,Not recovered/Not resolved
+TF-201,AE,TF-201-125-010,378,Injection site erythema,General disorders,MODERATE,N,Possible,2025-12-30,,Not recovered/Not resolved
+TF-201,AE,TF-201-125-012,379,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2026-02-24,,Not recovered/Not resolved
+TF-201,AE,TF-201-125-013,380,Hypertension,Vascular disorders,MODERATE,N,Possible,2026-02-26,2026-03-03,Recovered/Resolved
+TF-201,AE,TF-201-125-013,381,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-02-07,2026-03-11,Recovered/Resolved
+TF-201,AE,TF-201-125-014,382,Nausea,Gastrointestinal disorders,MILD,N,Not related,2025-04-24,2025-06-01,Recovered/Resolved
+TF-201,AE,TF-201-125-015,383,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-03-22,2026-04-25,Recovered/Resolved
+TF-201,AE,TF-201-125-015,384,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2025-12-26,2026-02-08,Recovered/Resolved
+TF-201,AE,TF-201-125-017,385,Headache,Nervous system disorders,MODERATE,N,Probable,2025-08-07,2025-08-11,Recovered/Resolved
+TF-201,AE,TF-201-125-018,386,Fatigue,General disorders,MILD,N,Not related,2025-10-27,,Not recovered/Not resolved
+TF-201,AE,TF-201-125-018,387,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2025-07-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-125-019,388,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2025-04-21,2025-05-13,Recovered/Resolved
+TF-201,AE,TF-201-125-020,389,Nausea,Gastrointestinal disorders,MILD,N,Possible,2025-11-19,2025-12-22,Recovered/Resolved
+TF-201,AE,TF-201-126-001,390,Hypertension,Vascular disorders,SEVERE,Y,Not related,2025-08-27,,Not recovered/Not resolved
+TF-201,AE,TF-201-126-004,391,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2025-11-03,2025-11-27,Recovered/Resolved
+TF-201,AE,TF-201-126-004,392,Injection site erythema,General disorders,MODERATE,N,Probable,2026-01-08,,Not recovered/Not resolved
+TF-201,AE,TF-201-126-006,393,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Not related,2025-06-08,,Not recovered/Not resolved
+TF-201,AE,TF-201-126-006,394,Nausea,Gastrointestinal disorders,MODERATE,N,Probable,2025-06-07,,Not recovered/Not resolved
+TF-201,AE,TF-201-126-006,395,Injection site erythema,General disorders,MODERATE,N,Not related,2025-04-15,2025-05-19,Recovered/Resolved
+TF-201,AE,TF-201-126-007,396,Injection site erythema,General disorders,MILD,N,Possible,2026-04-12,2026-05-14,Recovered/Resolved
+TF-201,AE,TF-201-126-008,397,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Probable,2025-04-19,,Not recovered/Not resolved
+TF-201,AE,TF-201-127-005,398,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Not related,2025-10-16,2025-10-27,Recovered/Resolved
+TF-201,AE,TF-201-127-005,399,Hypertension,Vascular disorders,SEVERE,N,Not related,2025-08-20,2025-09-28,Recovered/Resolved
+TF-201,AE,TF-201-127-005,400,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2025-11-02,2025-11-24,Recovered/Resolved
+TF-201,AE,TF-201-127-009,401,Dizziness,Nervous system disorders,MILD,N,Not related,2026-04-16,2026-04-28,Recovered/Resolved
+TF-201,AE,TF-201-127-010,402,Injection site erythema,General disorders,MODERATE,N,Not related,2025-08-16,2025-09-28,Recovered/Resolved
+TF-201,AE,TF-201-127-011,403,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2026-02-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-127-014,404,Fatigue,General disorders,MODERATE,N,Possible,2025-10-10,2025-11-08,Recovered/Resolved
+TF-201,AE,TF-201-127-015,405,Hypertension,Vascular disorders,SEVERE,Y,Unlikely,2025-05-11,2025-06-19,Recovered/Resolved
+TF-201,AE,TF-201-127-015,406,Fatigue,General disorders,MILD,N,Probable,2025-07-02,2025-07-30,Recovered/Resolved
+TF-201,AE,TF-201-127-015,407,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2025-04-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-127-015,408,Alanine aminotransferase increased,Investigations,SEVERE,N,Not related,2025-02-20,,Not recovered/Not resolved
+TF-201,AE,TF-201-127-016,409,Headache,Nervous system disorders,MILD,N,Possible,2026-04-01,2026-04-18,Recovered/Resolved
+TF-201,AE,TF-201-127-016,410,Alanine aminotransferase increased,Investigations,MODERATE,N,Probable,2026-05-21,,Not recovered/Not resolved
+TF-201,AE,TF-201-127-019,411,Headache,Nervous system disorders,MILD,N,Probable,2026-07-27,2026-08-22,Recovered/Resolved
+TF-201,AE,TF-201-127-019,412,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Not related,2026-08-06,2026-08-22,Recovered/Resolved
+TF-201,AE,TF-201-127-019,413,Alanine aminotransferase increased,Investigations,SEVERE,Y,Not related,2026-07-25,2026-08-25,Recovered/Resolved
+TF-201,AE,TF-201-127-023,414,Dizziness,Nervous system disorders,MILD,N,Not related,2026-02-17,2026-03-29,Recovered/Resolved
+TF-201,AE,TF-201-127-023,415,Fatigue,General disorders,MODERATE,N,Unlikely,2026-03-04,2026-03-26,Recovered/Resolved
+TF-201,AE,TF-201-127-024,416,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Unlikely,2025-06-23,2025-06-25,Recovered/Resolved
+TF-201,AE,TF-201-127-024,417,Alanine aminotransferase increased,Investigations,SEVERE,N,Unlikely,2025-08-08,2025-09-01,Recovered/Resolved
+TF-201,AE,TF-201-128-001,418,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-05-13,2026-05-26,Recovered/Resolved
+TF-201,AE,TF-201-128-002,419,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Possible,2026-09-07,2026-09-12,Recovered/Resolved
+TF-201,AE,TF-201-128-002,420,Alanine aminotransferase increased,Investigations,SEVERE,N,Not related,2026-10-23,,Not recovered/Not resolved
+TF-201,AE,TF-201-128-005,421,Alanine aminotransferase increased,Investigations,SEVERE,Y,Probable,2026-05-20,2026-06-24,Recovered/Resolved
+TF-201,AE,TF-201-128-008,422,Fatigue,General disorders,MODERATE,N,Not related,2026-06-17,2026-07-17,Recovered/Resolved
+TF-201,AE,TF-201-128-010,423,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2026-08-23,2026-09-19,Recovered/Resolved
+TF-201,AE,TF-201-128-010,424,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2026-10-29,2026-12-10,Recovered/Resolved
+TF-201,AE,TF-201-128-011,425,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2025-12-03,2026-01-03,Recovered/Resolved
+TF-201,AE,TF-201-128-011,426,Nausea,Gastrointestinal disorders,MODERATE,N,Probable,2025-08-20,,Not recovered/Not resolved
+TF-201,AE,TF-201-128-013,427,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Unlikely,2026-10-21,2026-11-16,Recovered/Resolved
+TF-201,AE,TF-201-128-015,428,Alanine aminotransferase increased,Investigations,SEVERE,Y,Not related,2026-06-26,2026-07-17,Recovered/Resolved
+TF-201,AE,TF-201-128-015,429,Injection site erythema,General disorders,MILD,N,Not related,2026-02-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-129-001,430,Hypertension,Vascular disorders,MODERATE,N,Possible,2026-01-30,,Not recovered/Not resolved
+TF-201,AE,TF-201-129-002,431,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Not related,2026-03-12,2026-03-28,Recovered/Resolved
+TF-201,AE,TF-201-129-003,432,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Probable,2026-03-29,,Not recovered/Not resolved
+TF-201,AE,TF-201-129-005,433,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2025-10-10,,Not recovered/Not resolved
+TF-201,AE,TF-201-129-006,434,Nausea,Gastrointestinal disorders,MODERATE,N,Unlikely,2026-04-27,2026-05-25,Recovered/Resolved
+TF-201,AE,TF-201-129-008,435,Dizziness,Nervous system disorders,MILD,N,Not related,2026-09-06,2026-10-01,Recovered/Resolved
+TF-201,AE,TF-201-129-010,436,Nausea,Gastrointestinal disorders,MILD,N,Unlikely,2026-03-27,2026-04-03,Recovered/Resolved
+TF-201,AE,TF-201-129-010,437,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2026-04-13,2026-05-11,Recovered/Resolved
+TF-201,AE,TF-201-129-011,438,Injection site erythema,General disorders,MILD,N,Possible,2025-11-14,2025-11-28,Recovered/Resolved
+TF-201,AE,TF-201-129-012,439,Dizziness,Nervous system disorders,MILD,N,Not related,2026-10-24,2026-10-30,Recovered/Resolved
+TF-201,AE,TF-201-129-014,440,Injection site erythema,General disorders,MILD,N,Unlikely,2026-08-03,,Not recovered/Not resolved
+TF-201,AE,TF-201-129-015,441,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-09-15,2026-10-14,Recovered/Resolved
+TF-201,AE,TF-201-129-015,442,Injection site erythema,General disorders,MODERATE,N,Probable,2026-08-26,2026-09-11,Recovered/Resolved
+TF-201,AE,TF-201-129-018,443,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Unlikely,2026-07-14,,Not recovered/Not resolved
+TF-201,AE,TF-201-129-018,444,Dizziness,Nervous system disorders,MILD,N,Possible,2026-03-15,2026-04-10,Recovered/Resolved
+TF-201,AE,TF-201-129-019,445,Nausea,Gastrointestinal disorders,MODERATE,N,Possible,2025-12-14,2026-01-17,Recovered/Resolved
+TF-201,AE,TF-201-129-019,446,Alanine aminotransferase increased,Investigations,MODERATE,N,Unlikely,2026-02-06,2026-02-16,Recovered/Resolved
+TF-201,AE,TF-201-129-019,447,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Probable,2025-12-06,2026-01-11,Recovered/Resolved
+TF-201,AE,TF-201-129-021,448,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2025-12-09,2026-01-04,Recovered/Resolved
+TF-201,AE,TF-201-129-022,449,Headache,Nervous system disorders,MILD,N,Possible,2026-10-28,2026-11-23,Recovered/Resolved
+TF-201,AE,TF-201-129-023,450,Fatigue,General disorders,MILD,N,Unlikely,2026-05-13,,Not recovered/Not resolved
+TF-201,AE,TF-201-129-023,451,Dizziness,Nervous system disorders,MILD,N,Possible,2026-04-26,2026-06-05,Recovered/Resolved
+TF-201,AE,TF-201-129-025,452,Nausea,Gastrointestinal disorders,MODERATE,N,Unlikely,2026-03-01,2026-04-07,Recovered/Resolved
+TF-201,AE,TF-201-129-025,453,Alanine aminotransferase increased,Investigations,MODERATE,N,Unlikely,2025-12-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-130-001,454,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-07-27,2026-08-31,Recovered/Resolved
+TF-201,AE,TF-201-130-003,455,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Not related,2026-06-27,,Not recovered/Not resolved
+TF-201,AE,TF-201-130-003,456,Hypertension,Vascular disorders,MODERATE,N,Unlikely,2026-06-16,2026-06-22,Recovered/Resolved
+TF-201,AE,TF-201-130-004,457,Hypertension,Vascular disorders,MODERATE,N,Possible,2026-10-03,2026-11-02,Recovered/Resolved
+TF-201,AE,TF-201-130-004,458,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2026-07-16,2026-07-23,Recovered/Resolved
+TF-201,AE,TF-201-130-005,459,Alanine aminotransferase increased,Investigations,SEVERE,Y,Not related,2025-11-18,2025-12-13,Recovered/Resolved
+TF-201,AE,TF-201-130-005,460,Alanine aminotransferase increased,Investigations,MODERATE,N,Not related,2026-02-08,2026-02-25,Recovered/Resolved
+TF-201,AE,TF-201-130-006,461,Alanine aminotransferase increased,Investigations,SEVERE,N,Unlikely,2026-01-05,2026-02-08,Recovered/Resolved
+TF-201,AE,TF-201-130-006,462,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2026-01-31,2026-02-13,Recovered/Resolved
+TF-201,AE,TF-201-130-006,463,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2025-12-19,2026-01-21,Recovered/Resolved
+TF-201,AE,TF-201-130-009,464,Hypertension,Vascular disorders,MODERATE,N,Possible,2026-05-11,,Not recovered/Not resolved
+TF-201,AE,TF-201-130-010,465,Headache,Nervous system disorders,MODERATE,N,Possible,2025-08-06,,Not recovered/Not resolved
+TF-201,AE,TF-201-130-010,466,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2025-08-07,2025-09-01,Recovered/Resolved
+TF-201,AE,TF-201-130-011,467,Fatigue,General disorders,MODERATE,N,Probable,2026-03-09,2026-03-27,Recovered/Resolved
+TF-201,AE,TF-201-130-011,468,Injection site erythema,General disorders,MODERATE,N,Unlikely,2026-01-20,2026-03-03,Recovered/Resolved
+TF-201,AE,TF-201-130-014,469,Nausea,Gastrointestinal disorders,MILD,N,Possible,2025-11-03,,Not recovered/Not resolved
+TF-201,AE,TF-201-130-015,470,Hypertension,Vascular disorders,MODERATE,N,Possible,2025-10-27,2025-11-28,Recovered/Resolved
+TF-201,AE,TF-201-130-016,471,Dizziness,Nervous system disorders,MODERATE,N,Probable,2025-07-23,2025-08-18,Recovered/Resolved
+TF-201,AE,TF-201-130-016,472,Nausea,Gastrointestinal disorders,MODERATE,N,Possible,2025-11-24,2025-12-25,Recovered/Resolved
+TF-201,AE,TF-201-130-016,473,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2025-08-30,2025-10-06,Recovered/Resolved
+TF-201,AE,TF-201-130-017,474,Headache,Nervous system disorders,MILD,N,Not related,2026-01-03,2026-01-09,Recovered/Resolved
+TF-201,AE,TF-201-130-019,475,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2025-10-18,,Not recovered/Not resolved
+TF-201,AE,TF-201-130-019,476,Headache,Nervous system disorders,MILD,N,Possible,2025-06-30,,Not recovered/Not resolved
+TF-201,AE,TF-201-131-001,477,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-05-26,,Not recovered/Not resolved
+TF-201,AE,TF-201-131-003,478,Hypertension,Vascular disorders,MODERATE,N,Not related,2025-07-26,2025-07-31,Recovered/Resolved
+TF-201,AE,TF-201-131-004,479,Headache,Nervous system disorders,MILD,N,Unlikely,2026-02-16,2026-03-29,Recovered/Resolved
+TF-201,AE,TF-201-131-005,480,Injection site erythema,General disorders,MILD,N,Probable,2026-06-03,2026-07-04,Recovered/Resolved
+TF-201,AE,TF-201-131-006,481,Dizziness,Nervous system disorders,MILD,N,Probable,2025-11-06,2025-11-21,Recovered/Resolved
+TF-201,AE,TF-201-131-007,482,Diarrhoea,Gastrointestinal disorders,MILD,N,Probable,2026-08-03,2026-09-13,Recovered/Resolved
+TF-201,AE,TF-201-131-008,483,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-06-18,2026-06-26,Recovered/Resolved
+TF-201,AE,TF-201-131-009,484,Injection site erythema,General disorders,MILD,N,Not related,2025-11-15,2025-12-11,Recovered/Resolved
+TF-201,AE,TF-201-132-002,485,Alanine aminotransferase increased,Investigations,SEVERE,Y,Unlikely,2025-11-12,2025-12-24,Recovered/Resolved
+TF-201,AE,TF-201-132-004,486,Fatigue,General disorders,MODERATE,N,Possible,2026-01-24,2026-03-09,Recovered/Resolved
+TF-201,AE,TF-201-132-005,487,Nausea,Gastrointestinal disorders,MODERATE,N,Possible,2025-11-14,2025-11-22,Recovered/Resolved
+TF-201,AE,TF-201-132-005,488,Nausea,Gastrointestinal disorders,MODERATE,N,Not related,2025-10-24,2025-10-31,Recovered/Resolved
+TF-201,AE,TF-201-132-006,489,Hypertension,Vascular disorders,MODERATE,N,Unlikely,2026-03-20,2026-04-09,Recovered/Resolved
+TF-201,AE,TF-201-132-006,490,Alanine aminotransferase increased,Investigations,SEVERE,Y,Possible,2026-03-14,,Not recovered/Not resolved
+TF-201,AE,TF-201-132-007,491,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2025-05-27,2025-06-17,Recovered/Resolved
+TF-201,AE,TF-201-132-010,492,Nausea,Gastrointestinal disorders,MODERATE,N,Unlikely,2026-07-18,2026-08-20,Recovered/Resolved
+TF-201,AE,TF-201-132-010,493,Diarrhoea,Gastrointestinal disorders,MILD,N,Unlikely,2026-08-28,2026-09-03,Recovered/Resolved
+TF-201,AE,TF-201-132-013,494,Nausea,Gastrointestinal disorders,MODERATE,N,Not related,2025-11-16,2025-12-20,Recovered/Resolved
+TF-201,AE,TF-201-132-013,495,Dizziness,Nervous system disorders,MILD,N,Probable,2025-12-28,2026-01-14,Recovered/Resolved
+TF-201,AE,TF-201-132-014,496,Hypertension,Vascular disorders,SEVERE,N,Not related,2026-08-23,2026-09-16,Recovered/Resolved
+TF-201,AE,TF-201-132-016,497,Injection site erythema,General disorders,MODERATE,N,Unlikely,2025-11-13,2025-11-17,Recovered/Resolved
+TF-201,AE,TF-201-132-017,498,Fatigue,General disorders,MODERATE,N,Possible,2025-06-19,2025-06-29,Recovered/Resolved
+TF-201,AE,TF-201-132-017,499,Fatigue,General disorders,MILD,N,Possible,2025-06-14,2025-07-01,Recovered/Resolved
+TF-201,AE,TF-201-132-019,500,Hypertension,Vascular disorders,MODERATE,N,Probable,2026-04-14,2026-05-05,Recovered/Resolved
+TF-201,AE,TF-201-132-022,501,Nausea,Gastrointestinal disorders,MODERATE,N,Unlikely,2026-04-28,,Not recovered/Not resolved
+TF-201,AE,TF-201-132-022,502,Hypertension,Vascular disorders,SEVERE,Y,Unlikely,2026-06-25,,Not recovered/Not resolved
+TF-201,AE,TF-201-132-022,503,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-05-11,,Not recovered/Not resolved
+TF-201,AE,TF-201-133-001,504,Injection site erythema,General disorders,MODERATE,N,Not related,2026-12-11,2026-12-29,Recovered/Resolved
+TF-201,AE,TF-201-133-001,505,Fatigue,General disorders,MILD,N,Unlikely,2026-10-17,,Not recovered/Not resolved
+TF-201,AE,TF-201-133-003,506,Upper respiratory tract infection,Infections and infestations,MILD,N,Possible,2026-08-31,,Not recovered/Not resolved
+TF-201,AE,TF-201-133-004,507,Injection site erythema,General disorders,MODERATE,N,Possible,2025-12-03,2026-01-03,Recovered/Resolved
+TF-201,AE,TF-201-133-004,508,Hypertension,Vascular disorders,SEVERE,Y,Not related,2025-12-18,2026-01-04,Recovered/Resolved
+TF-201,AE,TF-201-133-004,509,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Unlikely,2025-10-18,2025-11-05,Recovered/Resolved
+TF-201,AE,TF-201-133-004,510,Injection site erythema,General disorders,MILD,N,Possible,2025-11-26,2025-12-06,Recovered/Resolved
+TF-201,AE,TF-201-133-005,511,Dizziness,Nervous system disorders,MODERATE,N,Unlikely,2025-10-18,,Not recovered/Not resolved
+TF-201,AE,TF-201-133-005,512,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2025-11-19,2025-12-10,Recovered/Resolved
+TF-201,AE,TF-201-133-006,513,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Probable,2026-11-18,2026-12-07,Recovered/Resolved
+TF-201,AE,TF-201-133-006,514,Fatigue,General disorders,MILD,N,Not related,2026-10-01,2026-10-11,Recovered/Resolved
+TF-201,AE,TF-201-133-006,515,Dizziness,Nervous system disorders,MILD,N,Not related,2026-11-08,2026-11-14,Recovered/Resolved
+TF-201,AE,TF-201-133-007,516,Upper respiratory tract infection,Infections and infestations,MILD,N,Unlikely,2026-06-16,2026-07-16,Recovered/Resolved
+TF-201,AE,TF-201-133-008,517,Nausea,Gastrointestinal disorders,MILD,N,Unlikely,2026-08-08,,Not recovered/Not resolved
+TF-201,AE,TF-201-133-009,518,Dizziness,Nervous system disorders,MODERATE,N,Unlikely,2026-09-22,2026-10-09,Recovered/Resolved
+TF-201,AE,TF-201-133-010,519,Alanine aminotransferase increased,Investigations,MODERATE,N,Possible,2025-09-24,,Not recovered/Not resolved
+TF-201,AE,TF-201-133-012,520,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-06-27,,Not recovered/Not resolved
+TF-201,AE,TF-201-133-012,521,Headache,Nervous system disorders,MILD,N,Possible,2026-08-03,2026-09-14,Recovered/Resolved
+TF-201,AE,TF-201-133-012,522,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-07-03,2026-08-01,Recovered/Resolved
+TF-201,AE,TF-201-133-014,523,Diarrhoea,Gastrointestinal disorders,MILD,N,Probable,2025-11-05,2025-11-27,Recovered/Resolved
+TF-201,AE,TF-201-133-014,524,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Not related,2025-08-21,,Not recovered/Not resolved
+TF-201,AE,TF-201-133-016,525,Nasopharyngitis,Infections and infestations,MILD,N,Unlikely,2026-03-25,2026-03-29,Recovered/Resolved
+TF-201,AE,TF-201-133-017,526,Injection site erythema,General disorders,MILD,N,Probable,2026-08-18,2026-09-15,Recovered/Resolved
+TF-201,AE,TF-201-133-017,527,Hypertension,Vascular disorders,SEVERE,Y,Possible,2026-10-18,,Not recovered/Not resolved
+TF-201,AE,TF-201-133-021,528,Hypertension,Vascular disorders,MODERATE,N,Possible,2026-05-29,2026-06-04,Recovered/Resolved
+TF-201,AE,TF-201-133-021,529,Diarrhoea,Gastrointestinal disorders,MILD,N,Probable,2026-10-15,2026-10-21,Recovered/Resolved
+TF-201,AE,TF-201-133-023,530,Fatigue,General disorders,MODERATE,N,Possible,2025-10-17,2025-10-30,Recovered/Resolved
+TF-201,AE,TF-201-134-004,531,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2025-10-25,2025-11-12,Recovered/Resolved
+TF-201,AE,TF-201-134-005,532,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-02-24,,Not recovered/Not resolved
+TF-201,AE,TF-201-134-005,533,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-04-01,,Not recovered/Not resolved
+TF-201,AE,TF-201-134-007,534,Hypertension,Vascular disorders,MODERATE,N,Possible,2025-06-12,2025-07-20,Recovered/Resolved
+TF-201,AE,TF-201-134-009,535,Hypertension,Vascular disorders,SEVERE,N,Possible,2026-06-03,,Not recovered/Not resolved
+TF-201,AE,TF-201-134-012,536,Alanine aminotransferase increased,Investigations,SEVERE,Y,Possible,2025-06-02,2025-07-02,Recovered/Resolved
+TF-201,AE,TF-201-134-012,537,Headache,Nervous system disorders,MILD,N,Unlikely,2025-06-19,2025-07-01,Recovered/Resolved
+TF-201,AE,TF-201-134-013,538,Dizziness,Nervous system disorders,MODERATE,N,Unlikely,2026-04-30,,Not recovered/Not resolved
+TF-201,AE,TF-201-134-014,539,Upper respiratory tract infection,Infections and infestations,MILD,N,Not related,2026-04-08,2026-04-25,Recovered/Resolved
+TF-201,AE,TF-201-134-014,540,Headache,Nervous system disorders,MILD,N,Possible,2026-06-23,2026-07-11,Recovered/Resolved
+TF-201,AE,TF-201-134-014,541,Alanine aminotransferase increased,Investigations,SEVERE,N,Not related,2026-06-06,2026-07-02,Recovered/Resolved
+TF-201,AE,TF-201-135-001,542,Upper respiratory tract infection,Infections and infestations,MILD,N,Probable,2026-01-29,,Not recovered/Not resolved
+TF-201,AE,TF-201-135-004,543,Alanine aminotransferase increased,Investigations,MODERATE,N,Probable,2025-12-02,,Not recovered/Not resolved
+TF-201,AE,TF-201-135-005,544,Dizziness,Nervous system disorders,MILD,N,Not related,2026-06-29,2026-07-20,Recovered/Resolved
+TF-201,AE,TF-201-135-006,545,Injection site erythema,General disorders,MILD,N,Not related,2025-04-11,,Not recovered/Not resolved
+TF-201,AE,TF-201-135-008,546,Hypertension,Vascular disorders,SEVERE,N,Unlikely,2026-03-29,2026-04-07,Recovered/Resolved
+TF-201,AE,TF-201-135-011,547,Hypertension,Vascular disorders,MODERATE,N,Unlikely,2025-04-29,2025-05-25,Recovered/Resolved
+TF-201,AE,TF-201-135-012,548,Dizziness,Nervous system disorders,MILD,N,Probable,2025-06-26,2025-08-02,Recovered/Resolved
+TF-201,AE,TF-201-136-002,549,Nausea,Gastrointestinal disorders,MILD,N,Possible,2025-12-11,2025-12-29,Recovered/Resolved
+TF-201,AE,TF-201-136-002,550,Nasopharyngitis,Infections and infestations,MILD,N,Probable,2026-02-15,2026-03-21,Recovered/Resolved
+TF-201,AE,TF-201-136-004,551,Fatigue,General disorders,MODERATE,N,Possible,2026-07-19,2026-08-30,Recovered/Resolved
+TF-201,AE,TF-201-136-004,552,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-08-23,2026-10-04,Recovered/Resolved
+TF-201,AE,TF-201-136-005,553,Fatigue,General disorders,MILD,N,Not related,2026-10-01,2026-11-09,Recovered/Resolved
+TF-201,AE,TF-201-136-006,554,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2025-11-05,,Not recovered/Not resolved
+TF-201,AE,TF-201-136-006,555,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Probable,2025-10-20,,Not recovered/Not resolved
+TF-201,AE,TF-201-136-008,556,Headache,Nervous system disorders,MILD,N,Not related,2026-01-11,2026-01-29,Recovered/Resolved
+TF-201,AE,TF-201-136-011,557,Headache,Nervous system disorders,MODERATE,N,Possible,2025-07-17,2025-08-17,Recovered/Resolved
+TF-201,AE,TF-201-136-011,558,Injection site erythema,General disorders,MILD,N,Probable,2025-08-03,,Not recovered/Not resolved
+TF-201,AE,TF-201-136-012,559,Diarrhoea,Gastrointestinal disorders,MILD,N,Possible,2026-07-22,2026-08-03,Recovered/Resolved
+TF-201,AE,TF-201-136-013,560,Injection site erythema,General disorders,MODERATE,N,Possible,2026-06-07,2026-07-12,Recovered/Resolved
+TF-201,AE,TF-201-136-014,561,Fatigue,General disorders,MODERATE,N,Not related,2026-04-07,,Not recovered/Not resolved
+TF-201,AE,TF-201-136-018,562,Headache,Nervous system disorders,MILD,N,Not related,2025-11-08,2025-12-20,Recovered/Resolved
+TF-201,AE,TF-201-136-020,563,Nausea,Gastrointestinal disorders,MILD,N,Not related,2026-09-11,2026-10-10,Recovered/Resolved
+TF-201,AE,TF-201-136-020,564,Alanine aminotransferase increased,Investigations,MODERATE,N,Probable,2026-08-22,2026-09-24,Recovered/Resolved
+TF-201,AE,TF-201-136-021,565,Upper respiratory tract infection,Infections and infestations,MODERATE,N,Unlikely,2026-04-17,2026-05-23,Recovered/Resolved
+TF-201,AE,TF-201-136-022,566,Injection site erythema,General disorders,MILD,N,Probable,2025-11-14,,Not recovered/Not resolved
+TF-201,AE,TF-201-137-007,567,Hypertension,Vascular disorders,MODERATE,N,Unlikely,2026-11-18,2026-12-12,Recovered/Resolved
+TF-201,AE,TF-201-137-009,568,Headache,Nervous system disorders,MILD,N,Not related,2026-04-02,,Not recovered/Not resolved
+TF-201,AE,TF-201-137-013,569,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Not related,2026-03-14,2026-04-10,Recovered/Resolved
+TF-201,AE,TF-201-137-013,570,Hypertension,Vascular disorders,SEVERE,N,Probable,2026-03-13,2026-04-03,Recovered/Resolved
+TF-201,AE,TF-201-137-014,571,Nasopharyngitis,Infections and infestations,MILD,N,Not related,2026-01-10,,Not recovered/Not resolved
+TF-201,AE,TF-201-137-015,572,Hypertension,Vascular disorders,MODERATE,N,Possible,2025-06-01,2025-06-10,Recovered/Resolved
+TF-201,AE,TF-201-137-020,573,Diarrhoea,Gastrointestinal disorders,MILD,N,Not related,2026-04-26,,Not recovered/Not resolved
+TF-201,AE,TF-201-137-021,574,Dizziness,Nervous system disorders,MODERATE,N,Possible,2025-10-05,2025-10-14,Recovered/Resolved
+TF-201,AE,TF-201-138-003,575,Headache,Nervous system disorders,MILD,N,Unlikely,2026-07-22,2026-07-29,Recovered/Resolved
+TF-201,AE,TF-201-138-006,576,Headache,Nervous system disorders,MILD,N,Unlikely,2026-03-21,2026-03-23,Recovered/Resolved
+TF-201,AE,TF-201-138-009,577,Injection site erythema,General disorders,MILD,N,Possible,2026-02-22,,Not recovered/Not resolved
+TF-201,AE,TF-201-138-010,578,Headache,Nervous system disorders,MILD,N,Probable,2025-12-26,2026-02-04,Recovered/Resolved
+TF-201,AE,TF-201-138-010,579,Hypertension,Vascular disorders,MODERATE,N,Not related,2025-10-08,2025-10-13,Recovered/Resolved
+TF-201,AE,TF-201-138-013,580,Headache,Nervous system disorders,MODERATE,N,Not related,2025-10-16,2025-11-25,Recovered/Resolved
+TF-201,AE,TF-201-138-016,581,Headache,Nervous system disorders,MILD,N,Probable,2026-04-12,,Not recovered/Not resolved
+TF-201,AE,TF-201-138-016,582,Nasopharyngitis,Infections and infestations,MILD,N,Possible,2026-01-17,2026-02-09,Recovered/Resolved
+TF-201,AE,TF-201-138-016,583,Diarrhoea,Gastrointestinal disorders,MODERATE,N,Probable,2026-01-18,2026-02-22,Recovered/Resolved
+TF-201,AE,TF-201-138-019,584,Headache,Nervous system disorders,MODERATE,N,Unlikely,2026-09-30,2026-11-05,Recovered/Resolved
+TF-201,AE,TF-201-138-020,585,Dizziness,Nervous system disorders,MODERATE,N,Not related,2026-04-18,2026-05-11,Recovered/Resolved

@@ -1,0 +1,124 @@
+usubjid,site_id,visitnum,visit,dvterm,dvcat,dvdtc,dvstatus,corrective_action
+TF-201-101-001,101,4,Week 8,Visit conducted outside protocol window,Minor,2025-06-12,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-101-018,101,5,Week 12,Visit conducted outside protocol window,Minor,2026-01-20,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-101-018,101,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-03-14,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-101-021,101,3,Week 4,Visit conducted outside protocol window,Minor,2026-02-23,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-101-025,101,5,Week 12,Visit conducted outside protocol window,Minor,2025-09-25,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-102-002,102,4,Week 8,Visit conducted outside protocol window,Minor,2026-01-14,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-103-012,103,5,Week 12,Visit conducted outside protocol window,Minor,2025-12-19,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-104-020,104,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-03-07,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-105-010,105,5,Week 12,Visit conducted outside protocol window,Minor,2025-10-07,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-105-021,105,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-08-12,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-105-022,105,3,Week 4,Visit conducted outside protocol window,Minor,2026-03-13,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-105-023,105,4,Week 8,Visit conducted outside protocol window,Minor,2026-07-27,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-105-023,105,5,Week 12,Visit conducted outside protocol window,Minor,2026-08-04,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-105-025,105,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-05-08,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-106-001,106,4,Week 8,Visit conducted outside protocol window,Minor,2025-12-18,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-107-003,107,3,Week 4,Visit conducted outside protocol window,Minor,2026-09-05,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-107-007,107,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-08-10,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-108-001,108,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-01-12,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-109-007,109,5,Week 12,Visit conducted outside protocol window,Minor,2025-12-04,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-109-011,109,5,Week 12,Visit conducted outside protocol window,Minor,2025-10-25,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-109-012,109,4,Week 8,Visit conducted outside protocol window,Minor,2025-05-24,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-109-013,109,5,Week 12,Visit conducted outside protocol window,Minor,2026-07-04,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-110-014,110,4,Week 8,Visit conducted outside protocol window,Minor,2026-03-20,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-111-001,111,4,Week 8,Visit conducted outside protocol window,Minor,2026-04-18,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-111-002,111,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-02-06,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-111-003,111,5,Week 12,Visit conducted outside protocol window,Minor,2026-08-23,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-111-008,111,4,Week 8,Visit conducted outside protocol window,Minor,2025-06-28,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-111-016,111,5,Week 12,Visit conducted outside protocol window,Minor,2025-07-27,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-111-017,111,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2025-09-10,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-111-020,111,3,Week 4,Visit conducted outside protocol window,Minor,2026-04-25,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-112-015,112,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-05-10,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-112-021,112,5,Week 12,Visit conducted outside protocol window,Minor,2026-04-14,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-113-008,113,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-02-19,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-114-007,114,5,Week 12,Visit conducted outside protocol window,Minor,2026-07-31,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-114-013,114,5,Week 12,Visit conducted outside protocol window,Minor,2025-11-02,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-115-002,115,4,Week 8,Visit conducted outside protocol window,Minor,2026-05-28,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-115-004,115,5,Week 12,Visit conducted outside protocol window,Minor,2025-11-26,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-116-007,116,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2025-10-14,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-116-011,116,5,Week 12,Visit conducted outside protocol window,Minor,2026-06-24,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-116-014,116,5,Week 12,Visit conducted outside protocol window,Minor,2026-04-09,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-116-020,116,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-07-24,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-117-010,117,5,Week 12,Visit conducted outside protocol window,Minor,2025-12-11,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-118-003,118,3,Week 4,Visit conducted outside protocol window,Minor,2026-07-14,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-118-020,118,3,Week 4,Visit conducted outside protocol window,Minor,2025-07-23,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-118-021,118,3,Week 4,Visit conducted outside protocol window,Minor,2026-06-28,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-119-002,119,3,Week 4,Visit conducted outside protocol window,Minor,2026-03-30,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-119-006,119,3,Week 4,Visit conducted outside protocol window,Minor,2026-06-19,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-119-007,119,4,Week 8,Visit conducted outside protocol window,Minor,2025-12-18,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-120-001,120,4,Week 8,Visit conducted outside protocol window,Minor,2026-07-20,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-120-010,120,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-04-13,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-121-005,121,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-02-25,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-121-015,121,3,Week 4,Visit conducted outside protocol window,Minor,2026-02-07,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-122-002,122,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-08-05,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-122-011,122,4,Week 8,Visit conducted outside protocol window,Minor,2025-09-06,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-122-012,122,4,Week 8,Visit conducted outside protocol window,Minor,2026-01-22,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-123-001,123,5,Week 12,Visit conducted outside protocol window,Minor,2025-10-04,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-123-001,123,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2025-11-20,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-123-008,123,3,Week 4,Visit conducted outside protocol window,Minor,2025-05-16,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-123-021,123,3,Week 4,Visit conducted outside protocol window,Minor,2025-12-29,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-123-023,123,4,Week 8,Visit conducted outside protocol window,Minor,2026-07-23,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-123-024,123,4,Week 8,Visit conducted outside protocol window,Minor,2025-09-10,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-124-013,124,5,Week 12,Visit conducted outside protocol window,Minor,2026-05-26,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-125-009,125,3,Week 4,Visit conducted outside protocol window,Minor,2026-06-22,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-126-003,126,3,Week 4,Visit conducted outside protocol window,Minor,2025-07-12,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-126-005,126,4,Week 8,Visit conducted outside protocol window,Minor,2026-03-19,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-126-007,126,5,Week 12,Visit conducted outside protocol window,Minor,2026-04-20,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-126-008,126,3,Week 4,Visit conducted outside protocol window,Minor,2025-04-12,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-127-007,127,4,Week 8,Visit conducted outside protocol window,Minor,2025-06-02,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-127-008,127,4,Week 8,Visit conducted outside protocol window,Minor,2025-03-27,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-127-013,127,4,Week 8,Visit conducted outside protocol window,Minor,2026-05-21,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-127-026,127,3,Week 4,Visit conducted outside protocol window,Minor,2025-11-11,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-129-009,129,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2025-09-14,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-129-010,129,3,Week 4,Visit conducted outside protocol window,Minor,2026-01-01,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-129-014,129,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-07-24,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-129-018,129,3,Week 4,Visit conducted outside protocol window,Minor,2026-04-06,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-129-019,129,5,Week 12,Visit conducted outside protocol window,Minor,2025-12-08,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-129-019,129,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-01-24,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-130-009,130,4,Week 8,Visit conducted outside protocol window,Minor,2026-03-29,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-131-001,131,4,Week 8,Visit conducted outside protocol window,Minor,2026-03-22,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-131-002,131,3,Week 4,Visit conducted outside protocol window,Minor,2025-07-30,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-132-004,132,5,Week 12,Visit conducted outside protocol window,Minor,2026-01-31,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-132-016,132,4,Week 8,Visit conducted outside protocol window,Minor,2026-01-04,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-132-019,132,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-05-01,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-133-005,133,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-01-09,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-133-007,133,4,Week 8,Visit conducted outside protocol window,Minor,2026-04-24,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-133-011,133,5,Week 12,Visit conducted outside protocol window,Minor,2026-08-19,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-134-003,134,4,Week 8,Visit conducted outside protocol window,Minor,2025-08-12,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-134-007,134,3,Week 4,Visit conducted outside protocol window,Minor,2025-07-08,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-135-003,135,4,Week 8,Visit conducted outside protocol window,Minor,2026-04-18,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-135-004,135,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2025-12-21,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-135-006,135,3,Week 4,Visit conducted outside protocol window,Minor,2025-04-05,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-137-006,137,6,Week 16 EOT,Visit conducted outside protocol window,Minor,2026-03-16,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-137-007,137,3,Week 4,Visit conducted outside protocol window,Minor,2026-08-23,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-137-012,137,5,Week 12,Visit conducted outside protocol window,Minor,2026-04-25,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-137-013,137,5,Week 12,Visit conducted outside protocol window,Minor,2026-03-20,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-138-001,138,5,Week 12,Visit conducted outside protocol window,Minor,2025-12-28,Open,Site retrained on visit scheduling; window recalculated.
+TF-201-138-020,138,3,Week 4,Visit conducted outside protocol window,Minor,2026-02-26,Closed,Site retrained on visit scheduling; window recalculated.
+TF-201-126-001,126,5,Week 12,Sample not processed within required time,Minor,2025-06-25,Closed,CAPA logged; monitored at next visit.
+TF-201-108-007,108,6,Week 16 EOT,Prohibited concomitant medication,Moderate,2026-02-03,Closed,CAPA logged; monitored at next visit.
+TF-201-108-002,108,5,Week 12,Inclusion/exclusion criterion not met,Major,2025-09-25,Closed,CAPA logged; monitored at next visit.
+TF-201-126-002,126,3,Week 4,Study drug dosing error,Moderate,2025-04-20,Open,CAPA logged; monitored at next visit.
+TF-201-102-005,102,5,Week 12,Required assessment not performed,Moderate,2026-01-16,Open,CAPA logged; monitored at next visit.
+TF-201-131-007,131,2,Baseline,Informed consent not on file at time of procedure,Major,2026-08-23,Open,CAPA logged; monitored at next visit.
+TF-201-119-004,119,4,Week 8,Required assessment not performed,Moderate,2026-06-09,Closed,CAPA logged; monitored at next visit.
+TF-201-126-005,126,6,Week 16 EOT,Required assessment not performed,Moderate,2026-02-01,Open,CAPA logged; monitored at next visit.
+TF-201-126-006,126,5,Week 12,Prohibited concomitant medication,Moderate,2025-06-26,Closed,CAPA logged; monitored at next visit.
+TF-201-102-007,102,5,Week 12,Informed consent not on file at time of procedure,Major,2026-09-27,Open,CAPA logged; monitored at next visit.
+TF-201-126-003,126,4,Week 8,Inclusion/exclusion criterion not met,Major,2025-09-21,Closed,CAPA logged; monitored at next visit.
+TF-201-108-006,108,2,Baseline,Required assessment not performed,Moderate,2025-09-12,Closed,CAPA logged; monitored at next visit.
+TF-201-119-002,119,3,Week 4,Required assessment not performed,Moderate,2026-05-02,Closed,CAPA logged; monitored at next visit.
+TF-201-108-003,108,2,Baseline,Study drug dosing error,Moderate,2025-09-11,Open,CAPA logged; monitored at next visit.
+TF-201-108-009,108,6,Week 16 EOT,Informed consent not on file at time of procedure,Major,2025-07-21,Closed,CAPA logged; monitored at next visit.
+TF-201-131-001,131,2,Baseline,Informed consent not on file at time of procedure,Major,2026-05-07,Closed,CAPA logged; monitored at next visit.
+TF-201-135-012,135,3,Week 4,Sample not processed within required time,Minor,2025-05-21,Closed,CAPA logged; monitored at next visit.
+TF-201-102-005,102,5,Week 12,Prohibited concomitant medication,Moderate,2026-01-31,Closed,CAPA logged; monitored at next visit.
+TF-201-114-007,114,6,Week 16 EOT,Informed consent not on file at time of procedure,Major,2026-05-25,Closed,CAPA logged; monitored at next visit.
+TF-201-111-015,111,1,Screening,Sample not processed within required time,Minor,2025-12-30,Open,CAPA logged; monitored at next visit.
+TF-201-120-020,120,1,Screening,Study drug dosing error,Moderate,2025-08-24,Open,CAPA logged; monitored at next visit.
+TF-201-109-013,109,2,Baseline,Inclusion/exclusion criterion not met,Major,2026-04-27,Open,CAPA logged; monitored at next visit.
+TF-201-103-004,103,2,Baseline,Sample not processed within required time,Minor,2026-02-17,Open,CAPA logged; monitored at next visit.
+TF-201-125-011,125,4,Week 8,Inclusion/exclusion criterion not met,Major,2025-06-30,Closed,CAPA logged; monitored at next visit.
+TF-201-130-018,130,6,Week 16 EOT,Inclusion/exclusion criterion not met,Major,2025-12-11,Open,CAPA logged; monitored at next visit.
+TF-201-121-008,121,6,Week 16 EOT,Informed consent not on file at time of procedure,Major,2026-10-08,Closed,CAPA logged; monitored at next visit.

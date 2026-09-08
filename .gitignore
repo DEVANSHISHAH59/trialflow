@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build artefacts that are large or binary (regenerate with engine/build.py)
+warehouse/*.db
+
+# Tooling
+.vercel/
+.DS_Store
+Thumbs.db

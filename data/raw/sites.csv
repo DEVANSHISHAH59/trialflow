@@ -1,0 +1,41 @@
+site_id,country,pi_name,monitor,target_enrollment,activation_date,status
+101,France,Dr A. Byrne,CRA-01,27,2025-02-18,Active
+102,Germany,Dr K. Novak,CRA-02,22,2025-04-17,Active
+103,Netherlands,Dr M. Rossi,CRA-03,23,2025-01-18,Active
+104,United Kingdom,Dr S. Kaur,CRA-04,24,2025-02-10,Active
+105,Ireland,Dr L. Meyer,CRA-05,26,2025-06-01,Active
+106,Netherlands,Dr P. Dubois,CRA-01,29,2025-06-14,Active
+107,United Kingdom,Dr J. Kowalski,CRA-02,22,2025-07-31,Active
+108,Ireland,Dr R. Santos,CRA-03,22,2025-03-18,Active
+109,Poland,Dr H. Andersen,CRA-04,28,2025-03-27,Active
+110,Poland,Dr T. Nguyen,CRA-05,18,2025-04-17,Active
+111,Spain,Dr A. Byrne,CRA-01,27,2025-02-17,Active
+112,Spain,Dr K. Novak,CRA-02,23,2025-02-05,Active
+113,Italy,Dr M. Rossi,CRA-03,26,2025-04-18,Active
+114,Poland,Dr S. Kaur,CRA-04,21,2025-02-25,Active
+115,Germany,Dr L. Meyer,CRA-05,24,2025-05-29,Active
+116,Poland,Dr P. Dubois,CRA-01,29,2025-04-10,Active
+117,France,Dr J. Kowalski,CRA-02,19,2025-07-02,Active
+118,France,Dr R. Santos,CRA-03,25,2025-06-05,Active
+119,Poland,Dr H. Andersen,CRA-04,19,2025-03-15,Active
+120,Germany,Dr T. Nguyen,CRA-05,27,2025-07-02,Active
+121,France,Dr A. Byrne,CRA-01,23,2025-06-27,Active
+122,Germany,Dr K. Novak,CRA-02,28,2025-03-31,Active
+123,Spain,Dr M. Rossi,CRA-03,28,2025-03-10,Active
+124,Germany,Dr S. Kaur,CRA-04,20,2025-06-01,Active
+125,Italy,Dr L. Meyer,CRA-05,25,2025-02-07,Active
+126,Spain,Dr P. Dubois,CRA-01,27,2025-02-19,Active
+127,Spain,Dr J. Kowalski,CRA-02,27,2025-01-10,Active
+128,Ireland,Dr R. Santos,CRA-03,27,2025-06-23,Active
+129,Ireland,Dr H. Andersen,CRA-04,27,2025-05-28,Active
+130,United Kingdom,Dr T. Nguyen,CRA-05,23,2025-06-06,Active
+131,United Kingdom,Dr A. Byrne,CRA-01,21,2025-06-21,Active
+132,Italy,Dr K. Novak,CRA-02,24,2025-04-15,Active
+133,Germany,Dr M. Rossi,CRA-03,24,2025-05-08,Active
+134,United Kingdom,Dr S. Kaur,CRA-04,18,2025-02-07,Active
+135,Netherlands,Dr L. Meyer,CRA-05,20,2025-02-02,Active
+136,Ireland,Dr P. Dubois,CRA-01,23,2025-05-29,Active
+137,Italy,Dr J. Kowalski,CRA-02,25,2025-04-17,Active
+138,Ireland,Dr R. Santos,CRA-03,28,2025-05-07,Active
+139,United Kingdom,Dr H. Andersen,CRA-04,18,,Planned
+140,Germany,Dr T. Nguyen,CRA-05,24,,Planned
